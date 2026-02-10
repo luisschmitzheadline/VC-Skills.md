@@ -76,7 +76,7 @@ REGISTRY = {
         "repo": "openclaw/skills",
         "path": "skills/veeramanikandanr48/market-environment-analysis",
         "files": ["SKILL.md"],
-        "dirs": [],
+        "dirs": ["references", "scripts"],
         "category": "market_research",
         "source_label": "openclaw/skills",
     },
@@ -86,6 +86,7 @@ REGISTRY = {
         "path": "plugins/Founder/skills/board-prep",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/Founder/REFERENCE.md"},
         "category": "investor_relations",
         "source_label": "propane-ai/kits",
     },
@@ -94,6 +95,7 @@ REGISTRY = {
         "path": "plugins/Founder/skills/company-narrative",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/Founder/REFERENCE.md"},
         "category": "communications",
         "source_label": "propane-ai/kits",
     },
@@ -102,6 +104,7 @@ REGISTRY = {
         "path": "plugins/Founder/skills/finance-and-runway",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/Founder/REFERENCE.md"},
         "category": "financial_modeling",
         "source_label": "propane-ai/kits",
     },
@@ -110,6 +113,7 @@ REGISTRY = {
         "path": "plugins/Founder/skills/hiring",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/Founder/REFERENCE.md"},
         "category": "portfolio_operations",
         "source_label": "propane-ai/kits",
     },
@@ -118,6 +122,7 @@ REGISTRY = {
         "path": "plugins/Founder/skills/investor-management",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/Founder/REFERENCE.md"},
         "category": "investor_relations",
         "source_label": "propane-ai/kits",
     },
@@ -126,6 +131,7 @@ REGISTRY = {
         "path": "plugins/Founder/skills/investor-research",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/Founder/REFERENCE.md"},
         "category": "investor_relations",
         "source_label": "propane-ai/kits",
     },
@@ -134,6 +140,7 @@ REGISTRY = {
         "path": "plugins/Founder/skills/investor-updates",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/Founder/REFERENCE.md"},
         "category": "investor_relations",
         "source_label": "propane-ai/kits",
     },
@@ -142,6 +149,7 @@ REGISTRY = {
         "path": "plugins/Founder/skills/market-research",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/Founder/REFERENCE.md"},
         "category": "market_research",
         "source_label": "propane-ai/kits",
     },
@@ -150,6 +158,7 @@ REGISTRY = {
         "path": "plugins/Founder/skills/metrics-review",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/Founder/REFERENCE.md"},
         "category": "financial_modeling",
         "source_label": "propane-ai/kits",
     },
@@ -158,6 +167,7 @@ REGISTRY = {
         "path": "plugins/Founder/skills/pitch-deck",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/Founder/REFERENCE.md"},
         "category": "investor_relations",
         "source_label": "propane-ai/kits",
     },
@@ -166,6 +176,7 @@ REGISTRY = {
         "path": "plugins/Founder/skills/plan-creation",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/Founder/REFERENCE.md"},
         "category": "portfolio_operations",
         "source_label": "propane-ai/kits",
     },
@@ -174,6 +185,7 @@ REGISTRY = {
         "path": "plugins/Founder/skills/sales-investor-emails",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/Founder/REFERENCE.md"},
         "category": "investor_relations",
         "source_label": "propane-ai/kits",
     },
@@ -182,6 +194,7 @@ REGISTRY = {
         "path": "plugins/Founder/skills/stakeholder-comms",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/Founder/REFERENCE.md"},
         "category": "communications",
         "source_label": "propane-ai/kits",
     },
@@ -190,6 +203,7 @@ REGISTRY = {
         "path": "plugins/Founder/skills/data-and-metrics",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/Founder/REFERENCE.md"},
         "category": "financial_modeling",
         "source_label": "propane-ai/kits",
     },
@@ -200,6 +214,7 @@ REGISTRY = {
         "path": "plugins/GTM/skills/account-research",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/GTM/REFERENCE.md"},
         "category": "gtm_sales",
         "source_label": "propane-ai/kits",
     },
@@ -208,6 +223,7 @@ REGISTRY = {
         "path": "plugins/GTM/skills/draft-outreach",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/GTM/REFERENCE.md"},
         "category": "gtm_sales",
         "source_label": "propane-ai/kits",
     },
@@ -216,6 +232,7 @@ REGISTRY = {
         "path": "plugins/GTM/skills/competitive-intelligence",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/GTM/REFERENCE.md"},
         "category": "gtm_sales",
         "source_label": "propane-ai/kits",
     },
@@ -224,6 +241,7 @@ REGISTRY = {
         "path": "plugins/GTM/skills/gtm-strategy",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/GTM/REFERENCE.md"},
         "category": "gtm_sales",
         "source_label": "propane-ai/kits",
     },
@@ -232,6 +250,7 @@ REGISTRY = {
         "path": "plugins/GTM/skills/sales-playbook",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/GTM/REFERENCE.md"},
         "category": "gtm_sales",
         "source_label": "propane-ai/kits",
     },
@@ -240,6 +259,7 @@ REGISTRY = {
         "path": "plugins/GTM/skills/forecast",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/GTM/REFERENCE.md"},
         "category": "financial_modeling",
         "source_label": "propane-ai/kits",
     },
@@ -248,6 +268,7 @@ REGISTRY = {
         "path": "plugins/GTM/skills/call-prep",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/GTM/REFERENCE.md"},
         "category": "gtm_sales",
         "source_label": "propane-ai/kits",
     },
@@ -256,6 +277,7 @@ REGISTRY = {
         "path": "plugins/GTM/skills/demo-script",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/GTM/REFERENCE.md"},
         "category": "gtm_sales",
         "source_label": "propane-ai/kits",
     },
@@ -264,6 +286,7 @@ REGISTRY = {
         "path": "plugins/GTM/skills/roi-calculator",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/GTM/REFERENCE.md"},
         "category": "financial_modeling",
         "source_label": "propane-ai/kits",
     },
@@ -274,6 +297,7 @@ REGISTRY = {
         "path": "plugins/CX/skills/churn-prediction",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/CX/REFERENCE.md"},
         "category": "portfolio_operations",
         "source_label": "propane-ai/kits",
     },
@@ -282,6 +306,7 @@ REGISTRY = {
         "path": "plugins/CX/skills/expansion-playbook",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/CX/REFERENCE.md"},
         "category": "gtm_sales",
         "source_label": "propane-ai/kits",
     },
@@ -290,6 +315,7 @@ REGISTRY = {
         "path": "plugins/CX/skills/health-scoring",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/CX/REFERENCE.md"},
         "category": "portfolio_operations",
         "source_label": "propane-ai/kits",
     },
@@ -298,6 +324,7 @@ REGISTRY = {
         "path": "plugins/CX/skills/prepare-quarterly-business-review",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/CX/REFERENCE.md"},
         "category": "portfolio_operations",
         "source_label": "propane-ai/kits",
     },
@@ -308,6 +335,7 @@ REGISTRY = {
         "path": "plugins/Product/skills/competitive-analysis",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/Product/REFERENCE.md"},
         "category": "market_research",
         "source_label": "propane-ai/kits",
     },
@@ -316,6 +344,7 @@ REGISTRY = {
         "path": "plugins/Product/skills/metrics-tracking",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/Product/REFERENCE.md"},
         "category": "portfolio_operations",
         "source_label": "propane-ai/kits",
     },
@@ -324,6 +353,7 @@ REGISTRY = {
         "path": "plugins/Product/skills/progress-reporting",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/Product/REFERENCE.md"},
         "category": "portfolio_operations",
         "source_label": "propane-ai/kits",
     },
@@ -332,6 +362,7 @@ REGISTRY = {
         "path": "plugins/Product/skills/roadmap-management",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/Product/REFERENCE.md"},
         "category": "portfolio_operations",
         "source_label": "propane-ai/kits",
     },
@@ -340,6 +371,7 @@ REGISTRY = {
         "path": "plugins/Product/skills/user-research-synthesis",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/Product/REFERENCE.md"},
         "category": "market_research",
         "source_label": "propane-ai/kits",
     },
@@ -350,6 +382,7 @@ REGISTRY = {
         "path": "plugins/Marketing/skills/competitive-analysis",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/Marketing/REFERENCE.md"},
         "category": "market_research",
         "source_label": "propane-ai/kits",
     },
@@ -358,6 +391,7 @@ REGISTRY = {
         "path": "plugins/Marketing/skills/product-marketing",
         "files": ["SKILL.md"],
         "dirs": [],
+        "shared_files": {"REFERENCE.md": "plugins/Marketing/REFERENCE.md"},
         "category": "gtm_sales",
         "source_label": "propane-ai/kits",
     },
@@ -479,7 +513,7 @@ REGISTRY = {
         "repo": "sickn33/antigravity-awesome-skills",
         "path": "skills/market-sizing-analysis",
         "files": ["SKILL.md"],
-        "dirs": [],
+        "dirs": ["examples", "references"],
         "category": "market_research",
         "source_label": "sickn33/antigravity-awesome-skills",
     },
@@ -511,7 +545,7 @@ REGISTRY = {
         "repo": "sickn33/antigravity-awesome-skills",
         "path": "skills/product-manager-toolkit",
         "files": ["SKILL.md"],
-        "dirs": [],
+        "dirs": ["references", "scripts"],
         "category": "portfolio_operations",
         "source_label": "sickn33/antigravity-awesome-skills",
     },
@@ -537,7 +571,7 @@ REGISTRY = {
         "repo": "tradermonty/claude-trading-skills",
         "path": "skills/us-market-bubble-detector",
         "files": ["SKILL.md"],
-        "dirs": [],
+        "dirs": ["references"],
         "category": "investment_analysis",
         "source_label": "tradermonty/claude-trading-skills",
     },
@@ -547,7 +581,7 @@ REGISTRY = {
         "repo": "alirezarezvani/claude-skills",
         "path": "c-level-advisor/ceo-advisor",
         "files": ["SKILL.md"],
-        "dirs": [],
+        "dirs": ["references", "scripts"],
         "category": "portfolio_operations",
         "source_label": "alirezarezvani/claude-skills",
     },
@@ -555,7 +589,7 @@ REGISTRY = {
         "repo": "alirezarezvani/claude-skills",
         "path": "finance/financial-analyst",
         "files": ["SKILL.md"],
-        "dirs": [],
+        "dirs": ["assets", "references", "scripts"],
         "category": "financial_modeling",
         "source_label": "alirezarezvani/claude-skills",
     },
@@ -612,7 +646,7 @@ REGISTRY = {
         "repo": "acossta/chief-of-staff-oss",
         "path": ".claude/skills/founder-coach",
         "files": ["SKILL.md"],
-        "dirs": [],
+        "dirs": ["references"],
         "category": "founder_toolkit",
         "source_label": "acossta/chief-of-staff-oss",
     },
@@ -620,7 +654,7 @@ REGISTRY = {
         "repo": "liqiongyu/lenny_skills_plus",
         "path": "skills/fundraising",
         "files": ["SKILL.md"],
-        "dirs": [],
+        "dirs": ["references"],
         "category": "investor_relations",
         "source_label": "liqiongyu/lenny_skills_plus",
     },
@@ -652,7 +686,7 @@ REGISTRY = {
         "repo": "wdavidturner/product-skills",
         "path": "skills/product-led-growth",
         "files": ["SKILL.md"],
-        "dirs": [],
+        "dirs": ["patterns", "references"],
         "category": "gtm_sales",
         "source_label": "wdavidturner/product-skills",
     },
@@ -660,7 +694,7 @@ REGISTRY = {
         "repo": "slgoodrich/agents",
         "path": "plugins/ai-pm-copilot/skills/product-market-fit",
         "files": ["SKILL.md"],
-        "dirs": [],
+        "dirs": ["assets", "references"],
         "category": "due_diligence",
         "source_label": "slgoodrich/agents",
     },
@@ -694,7 +728,7 @@ REGISTRY = {
         "repo": "founderjourney/claude-skills",
         "path": "saas-financial-projections",
         "files": ["SKILL.md"],
-        "dirs": [],
+        "dirs": ["references"],
         "category": "financial_modeling",
         "source_label": "founderjourney/claude-skills",
     },
@@ -718,7 +752,7 @@ REGISTRY = {
         "repo": "yamz8/open-ceo",
         "path": "fundraising/skills/fundraising-knowledge",
         "files": ["SKILL.md"],
-        "dirs": [],
+        "dirs": ["examples", "references"],
         "category": "investment_analysis",
         "source_label": "yamz8/open-ceo",
     },
@@ -726,7 +760,7 @@ REGISTRY = {
         "repo": "yamz8/open-ceo",
         "path": "investor-updates/skills/monthly-investor-updates",
         "files": ["SKILL.md"],
-        "dirs": [],
+        "dirs": ["examples", "references"],
         "category": "investor_relations",
         "source_label": "yamz8/open-ceo",
     },
@@ -734,7 +768,7 @@ REGISTRY = {
         "repo": "oldwinter/skills",
         "path": "system-skills/communication-skills/fundraising",
         "files": ["SKILL.md"],
-        "dirs": [],
+        "dirs": ["references"],
         "category": "investment_analysis",
         "source_label": "oldwinter/skills",
     },
@@ -742,7 +776,7 @@ REGISTRY = {
         "repo": "oldwinter/skills",
         "path": "system-skills/sales-skills/founder-sales",
         "files": ["SKILL.md"],
-        "dirs": [],
+        "dirs": ["references"],
         "category": "founder_toolkit",
         "source_label": "oldwinter/skills",
     },
@@ -834,7 +868,7 @@ REGISTRY = {
         "repo": "ognjengt/founder-skills",
         "path": "skills/competitor-intel",
         "files": ["SKILL.md"],
-        "dirs": ["references"],
+        "dirs": [],  # references/ referenced in SKILL.md but not created upstream
         "category": "founder_toolkit",
         "source_label": "ognjengt/founder-skills",
     },
@@ -842,7 +876,7 @@ REGISTRY = {
         "repo": "ognjengt/founder-skills",
         "path": "skills/pricing-strategist",
         "files": ["SKILL.md"],
-        "dirs": ["references"],
+        "dirs": [],  # references/ not created upstream
         "category": "founder_toolkit",
         "source_label": "ognjengt/founder-skills",
     },
@@ -850,7 +884,7 @@ REGISTRY = {
         "repo": "ognjengt/founder-skills",
         "path": "skills/go-to-market-plan",
         "files": ["SKILL.md"],
-        "dirs": ["references"],
+        "dirs": [],  # references/ not created upstream
         "category": "founder_toolkit",
         "source_label": "ognjengt/founder-skills",
     },
@@ -866,7 +900,7 @@ REGISTRY = {
         "repo": "ognjengt/founder-skills",
         "path": "skills/strategic-planning",
         "files": ["SKILL.md"],
-        "dirs": ["references"],
+        "dirs": [],  # references/ not created upstream
         "category": "founder_toolkit",
         "source_label": "ognjengt/founder-skills",
     },
@@ -904,7 +938,7 @@ REGISTRY = {
         "repo": "ThepExcel/agent-skills",
         "path": "design-business-model",
         "files": ["SKILL.md"],
-        "dirs": [],
+        "dirs": ["references"],
         "category": "founder_toolkit",
         "source_label": "ThepExcel/agent-skills",
     },
@@ -914,7 +948,7 @@ REGISTRY = {
         "repo": "vasilyu1983/AI-Agents-public",
         "path": "frameworks/shared-skills/skills/startup-idea-validation",
         "files": ["SKILL.md"],
-        "dirs": ["assets", "references", "data"],
+        "dirs": [],  # assets/references/data referenced in SKILL.md but not created upstream
         "category": "due_diligence",
         "source_label": "vasilyu1983/AI-Agents-public",
     },
@@ -922,7 +956,7 @@ REGISTRY = {
         "repo": "vasilyu1983/AI-Agents-public",
         "path": "frameworks/shared-skills/skills/startup-business-models",
         "files": ["SKILL.md"],
-        "dirs": ["assets", "references", "data"],
+        "dirs": [],  # assets/references/data referenced in SKILL.md but not created upstream
         "category": "founder_toolkit",
         "source_label": "vasilyu1983/AI-Agents-public",
     },
@@ -930,7 +964,7 @@ REGISTRY = {
         "repo": "vasilyu1983/AI-Agents-public",
         "path": "frameworks/shared-skills/skills/startup-competitive-analysis",
         "files": ["SKILL.md"],
-        "dirs": ["assets", "references", "data"],
+        "dirs": [],  # assets/references/data referenced in SKILL.md but not created upstream
         "category": "market_research",
         "source_label": "vasilyu1983/AI-Agents-public",
     },
@@ -1158,9 +1192,59 @@ def download_skill(skill_id, entry, force=False, verbose=False):
         if verbose:
             print(f"    [OK] {filename} ({len(content)} bytes)")
 
+    # Download shared/repo-level files (e.g., REFERENCE.md at persona level)
+    for local_name, remote_path in entry.get("shared_files", {}).items():
+        out_path = source_dir / local_name
+        if out_path.exists() and not force:
+            content = out_path.read_text(encoding="utf-8")
+            result["files"][local_name] = {
+                "size": len(content),
+                "sha256": sha256(content),
+                "cached": True,
+            }
+            if verbose:
+                print(f"    [cached] {local_name} (shared)")
+            continue
+
+        if verbose:
+            print(f"    Downloading {repo}/{remote_path} -> {local_name}...")
+        content = download_raw_file(repo, remote_path)
+        if content is None:
+            result["files"][local_name] = {"status": "not_found"}
+            if verbose:
+                print(f"    [NOT FOUND] {local_name}")
+            continue
+
+        out_path.write_text(content, encoding="utf-8")
+        result["files"][local_name] = {
+            "size": len(content),
+            "sha256": sha256(content),
+            "cached": False,
+        }
+        if verbose:
+            print(f"    [OK] {local_name} ({len(content)} bytes, shared)")
+
     # Download subdirectories
     for subdir in entry.get("dirs", []):
         dir_path = f"{base_path}/{subdir}"
+        sub_out = source_dir / subdir
+
+        # If local dir exists with files and not forcing, use local listing
+        # (avoids API calls when we already have cached files)
+        if not force and sub_out.exists() and any(sub_out.iterdir()):
+            for fout in sorted(sub_out.iterdir()):
+                if not fout.is_file():
+                    continue
+                content = fout.read_text(encoding="utf-8")
+                result["files"][f"{subdir}/{fout.name}"] = {
+                    "size": len(content),
+                    "sha256": sha256(content),
+                    "cached": True,
+                }
+                if verbose:
+                    print(f"    [cached] {subdir}/{fout.name}")
+            continue
+
         items = list_directory(repo, dir_path)
 
         if not items:
@@ -1168,7 +1252,6 @@ def download_skill(skill_id, entry, force=False, verbose=False):
                 print(f"    [SKIP] {subdir}/ (empty or not found)")
             continue
 
-        sub_out = source_dir / subdir
         sub_out.mkdir(parents=True, exist_ok=True)
 
         for item in items:
