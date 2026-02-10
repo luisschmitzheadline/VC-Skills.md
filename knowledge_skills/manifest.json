@@ -1,0 +1,1509 @@
+{
+  "skills": {
+    "anthropics-internal-comms": {
+      "skill_id": "anthropics-internal-comms",
+      "repo": "anthropics/skills",
+      "path": "skills/internal-comms",
+      "category": "communications",
+      "source_label": "anthropics/skills",
+      "files": {
+        "SKILL.md": {
+          "size": 1511,
+          "sha256": "067b7587a344a928fc6534ef66b1bcd591fc7c26d207ea7ca3334aeb678d6475",
+          "cached": true
+        },
+        "examples/3p-updates.md": {
+          "size": 3274,
+          "sha256": "087e4363c0f3513728a7e695eeb9ead5c3ecd12a4681b59340691180e65b68fc",
+          "cached": true
+        },
+        "examples/company-newsletter.md": {
+          "size": 3295,
+          "sha256": "30f81cfbdb03858a006169c72169024089c7c5d3d32611d337782da4f38c86b5",
+          "cached": true
+        },
+        "examples/faq-answers.md": {
+          "size": 2366,
+          "sha256": "5ecd3356cd6666937f2ebefa753253edfdbdca15e368d07baf398bfcced72484",
+          "cached": true
+        },
+        "examples/general-comms.md": {
+          "size": 602,
+          "sha256": "4d3a4bb198a77626bcf018e96b2b45a2dbabed172d4ade0fcd70d23ae8a47a47",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:35.200884+00:00"
+    },
+    "antigravity-business-analyst": {
+      "skill_id": "antigravity-business-analyst",
+      "repo": "sickn33/antigravity-awesome-skills",
+      "path": "skills/business-analyst",
+      "category": "investment_analysis",
+      "source_label": "sickn33/antigravity-awesome-skills",
+      "files": {
+        "SKILL.md": {
+          "size": 7823,
+          "sha256": "d42b575d16bf30d753fe5f11abde3bb6aee0b041fa5d5ca409d2aecab4fa0e84",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:36.123348+00:00"
+    },
+    "antigravity-copywriting": {
+      "skill_id": "antigravity-copywriting",
+      "repo": "sickn33/antigravity-awesome-skills",
+      "path": "skills/copywriting",
+      "category": "communications",
+      "source_label": "sickn33/antigravity-awesome-skills",
+      "files": {
+        "SKILL.md": {
+          "size": 5081,
+          "sha256": "6a11ad5b02ff660dbc632ad3fd50b7e19451e03c64954af1fff88a64bfc3b9b0",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:36.610262+00:00"
+    },
+    "antigravity-pricing-strategy": {
+      "skill_id": "antigravity-pricing-strategy",
+      "repo": "sickn33/antigravity-awesome-skills",
+      "path": "skills/pricing-strategy",
+      "category": "portfolio_operations",
+      "source_label": "sickn33/antigravity-awesome-skills",
+      "files": {
+        "SKILL.md": {
+          "size": 6745,
+          "sha256": "1fbe411aef84867d06f20bead286f4ee7750451608b931858b9e9aa9d6d08d88",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:38.055900+00:00"
+    },
+    "antigravity-quant-analyst": {
+      "skill_id": "antigravity-quant-analyst",
+      "repo": "sickn33/antigravity-awesome-skills",
+      "path": "skills/quant-analyst",
+      "category": "financial_modeling",
+      "source_label": "sickn33/antigravity-awesome-skills",
+      "files": {
+        "SKILL.md": {
+          "size": 1831,
+          "sha256": "ec14ef845e56938e1cf02625e97e82e76b85d390b3feb85bcdc63c7039f17282",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:38.764894+00:00"
+    },
+    "cybos-content": {
+      "skill_id": "cybos-content",
+      "repo": "gerstep/cybos",
+      "path": ".claude/skills/Content",
+      "category": "communications",
+      "source_label": "gerstep/cybos",
+      "files": {
+        "SKILL.md": {
+          "size": 2545,
+          "sha256": "ab32fa209684bd80508a97f644a222abf0d1d76b7391984b7b2276abe87d9589",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:40.198603+00:00"
+    },
+    "cybos-ddmemo": {
+      "skill_id": "cybos-ddmemo",
+      "repo": "gerstep/cybos",
+      "path": ".claude/skills/DDMemo",
+      "category": "due_diligence",
+      "source_label": "gerstep/cybos",
+      "files": {
+        "SKILL.md": {
+          "size": 2403,
+          "sha256": "ad1fc244a038792e06914e94cfc1dde133dedc2fc09b807f509f0adf4d109973",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:40.301371+00:00"
+    },
+    "cybos-gtd": {
+      "skill_id": "cybos-gtd",
+      "repo": "gerstep/cybos",
+      "path": ".claude/skills/GTD",
+      "category": "gtm_sales",
+      "source_label": "gerstep/cybos",
+      "files": {
+        "SKILL.md": {
+          "size": 2872,
+          "sha256": "61c7adb4a70f3e66197fdb3b747d860e475628ccba6c23519a94e5cd5a79c8c6",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:40.407244+00:00"
+    },
+    "cybos-research": {
+      "skill_id": "cybos-research",
+      "repo": "gerstep/cybos",
+      "path": ".claude/skills/Research",
+      "category": "due_diligence",
+      "source_label": "gerstep/cybos",
+      "files": {
+        "SKILL.md": {
+          "size": 3777,
+          "sha256": "5ce8f4c045063d6a2f5ba6968462f38e6df59385c9f7c489313989af953e7d56",
+          "cached": true
+        },
+        "shared/agent-selection-matrix.md": {
+          "size": 9148,
+          "sha256": "353c49b6772b8fab9db5c58fbf7f166dc37254fc49967cc815531efbcd25afaf",
+          "cached": true
+        },
+        "shared/error-handling.md": {
+          "size": 7810,
+          "sha256": "2ba97501c427bceb0406856903abb846ca99e4a03a37b8c9080cfc646ab0ec15",
+          "cached": true
+        },
+        "shared/intensity-tiers.md": {
+          "size": 11607,
+          "sha256": "13341b1c7bcd478f38f5d28db63458b7079e080b793db858e38efc03ac524376",
+          "cached": true
+        },
+        "shared/investment-lens.md": {
+          "size": 3705,
+          "sha256": "f6b5588d2c6831d4346fee7e678f59a32873813e159b245abe4a86311f6b49f6",
+          "cached": true
+        },
+        "shared/logging.md": {
+          "size": 7073,
+          "sha256": "d927e896463b5fb28130bf8f522324c627347e819e497dcfb1270c34e4b70a3c",
+          "cached": true
+        },
+        "shared/mcp-strategy.md": {
+          "size": 9630,
+          "sha256": "3e895dbdd606de83b629bf543173d793d3173049ea1871e9dfe33adecbe86d52",
+          "cached": true
+        },
+        "shared/output-standards.md": {
+          "size": 8960,
+          "sha256": "49b79c917796414516a66828195338f004b6c81c98d804896f83798182fb455b",
+          "cached": true
+        },
+        "workflows/orchestrator.md": {
+          "size": 8962,
+          "sha256": "54f2752916df3b6f508adc8f0a87765525c3551d52e4ac00010453107daf5146",
+          "cached": true
+        },
+        "evals/README.md": {
+          "size": 4670,
+          "sha256": "414a4e071676b18417277dd0d0bfd3744e99b96a7d696b3d504c853a8404c15f",
+          "cached": true
+        },
+        "evals/company-research-eval.json": {
+          "size": 2440,
+          "sha256": "1935ab59b86e64e8a5c14959a4b72e76423f1d9b602698c315df9ff3edff71fc",
+          "cached": true
+        },
+        "evals/market-research-eval.json": {
+          "size": 2556,
+          "sha256": "074e56e7ebc72694827ee4ff6a2b35a12f637f0207ba71b7f03e18c6dd2ee537",
+          "cached": true
+        },
+        "evals/tech-research-eval.json": {
+          "size": 2644,
+          "sha256": "cc4456cdf423e03bfadd388ebec2a6029420dee83892457fc1eecf131505406e",
+          "cached": true
+        },
+        "evals/topic-research-eval.json": {
+          "size": 2560,
+          "sha256": "59d7da6912d45098e1b75dfef7dd561a556ca565d7c2aa9ff25d841dfd2b46c9",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:40.510226+00:00"
+    },
+    "cybos-summarize": {
+      "skill_id": "cybos-summarize",
+      "repo": "gerstep/cybos",
+      "path": ".claude/skills/Summarize",
+      "category": "due_diligence",
+      "source_label": "gerstep/cybos",
+      "files": {
+        "SKILL.md": {
+          "size": 818,
+          "sha256": "f8ed57cdbd13be1c29b180ffb8f9a471c2d408ef0653f43521ae06f3fd47c248",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:41.785546+00:00"
+    },
+    "openclaw-market-environment-analysis": {
+      "skill_id": "openclaw-market-environment-analysis",
+      "repo": "openclaw/skills",
+      "path": "skills/veeramanikandanr48/market-environment-analysis",
+      "category": "market_research",
+      "source_label": "openclaw/skills",
+      "files": {
+        "SKILL.md": {
+          "size": 4388,
+          "sha256": "76d00c0d2a1d0e02be76df4de441e26a6763587a26f127601f0d39bf1ab114e1",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:47.945927+00:00"
+    },
+    "propane-cx-churn-prediction": {
+      "skill_id": "propane-cx-churn-prediction",
+      "repo": "propane-ai/kits",
+      "path": "plugins/CX/skills/churn-prediction",
+      "category": "portfolio_operations",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 5199,
+          "sha256": "dbc360c1a19c82b9a9df9c38a95f743baeb536525886c3a9173d90f893acef84",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:48.050460+00:00"
+    },
+    "propane-cx-expansion-playbook": {
+      "skill_id": "propane-cx-expansion-playbook",
+      "repo": "propane-ai/kits",
+      "path": "plugins/CX/skills/expansion-playbook",
+      "category": "gtm_sales",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 3747,
+          "sha256": "140bfd246d9baaa19dcc5e2a088f4275c98a2cdc23c82a01d6decda0f847ea62",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:48.155516+00:00"
+    },
+    "propane-cx-health-scoring": {
+      "skill_id": "propane-cx-health-scoring",
+      "repo": "propane-ai/kits",
+      "path": "plugins/CX/skills/health-scoring",
+      "category": "portfolio_operations",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 5100,
+          "sha256": "efcdfd6188ba47b1a2823d228a9f87538e4e7e9b9f25f40d4899970e302556a0",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:48.260992+00:00"
+    },
+    "propane-cx-prepare-quarterly-business-review": {
+      "skill_id": "propane-cx-prepare-quarterly-business-review",
+      "repo": "propane-ai/kits",
+      "path": "plugins/CX/skills/prepare-quarterly-business-review",
+      "category": "portfolio_operations",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 5465,
+          "sha256": "e996ef6548e16d32070cdbfbcff4b7041bc72ab0c3c41b6853554af882470fab",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:48.361720+00:00"
+    },
+    "propane-founder-board-prep": {
+      "skill_id": "propane-founder-board-prep",
+      "repo": "propane-ai/kits",
+      "path": "plugins/Founder/skills/board-prep",
+      "category": "investor_relations",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 1825,
+          "sha256": "c9f6900e6e88b5015a15b77afd0cce2829d3116e4fed1faef123c1e2eb38b3d8",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:48.468130+00:00"
+    },
+    "propane-founder-company-narrative": {
+      "skill_id": "propane-founder-company-narrative",
+      "repo": "propane-ai/kits",
+      "path": "plugins/Founder/skills/company-narrative",
+      "category": "communications",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 1682,
+          "sha256": "12473b3d231eb09766f7a4749b1b84eb6730e81f669bcca97361d62a5f3d2f7d",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:48.600529+00:00"
+    },
+    "propane-founder-data-and-metrics": {
+      "skill_id": "propane-founder-data-and-metrics",
+      "repo": "propane-ai/kits",
+      "path": "plugins/Founder/skills/data-and-metrics",
+      "category": "financial_modeling",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 1401,
+          "sha256": "312322f0215832e93d3daf8c8dd91bbac6b91d6ddb62870118dba7d77e9da7ba",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:48.706177+00:00"
+    },
+    "propane-founder-finance-and-runway": {
+      "skill_id": "propane-founder-finance-and-runway",
+      "repo": "propane-ai/kits",
+      "path": "plugins/Founder/skills/finance-and-runway",
+      "category": "financial_modeling",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 1669,
+          "sha256": "c2c0a659142a0369fbe4417ed431ee7c3175ba90cc5d85c87e481c90e6288c1e",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:48.807896+00:00"
+    },
+    "propane-founder-hiring": {
+      "skill_id": "propane-founder-hiring",
+      "repo": "propane-ai/kits",
+      "path": "plugins/Founder/skills/hiring",
+      "category": "portfolio_operations",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 1893,
+          "sha256": "0d3156e21f4e45671a53fbb0515cb31b075ecd273b56cd5b4d8ff4e116b7ffbc",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:48.917418+00:00"
+    },
+    "propane-founder-investor-management": {
+      "skill_id": "propane-founder-investor-management",
+      "repo": "propane-ai/kits",
+      "path": "plugins/Founder/skills/investor-management",
+      "category": "investor_relations",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 1601,
+          "sha256": "57049e82671300dd240216e7fc97fbade4e8977dbcf40154dbc8b6fd5eea4207",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:49.022995+00:00"
+    },
+    "propane-founder-investor-research": {
+      "skill_id": "propane-founder-investor-research",
+      "repo": "propane-ai/kits",
+      "path": "plugins/Founder/skills/investor-research",
+      "category": "investor_relations",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 1662,
+          "sha256": "3f946efb602328556510da4eb6336f520164e8d571c91b907c0d66642e7dd476",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:49.123762+00:00"
+    },
+    "propane-founder-investor-updates": {
+      "skill_id": "propane-founder-investor-updates",
+      "repo": "propane-ai/kits",
+      "path": "plugins/Founder/skills/investor-updates",
+      "category": "investor_relations",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 1680,
+          "sha256": "98f973ed96d61cba86f07055e71bc8938e4b401a107189dcb86fa735f72b62e9",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:49.226456+00:00"
+    },
+    "propane-founder-market-research": {
+      "skill_id": "propane-founder-market-research",
+      "repo": "propane-ai/kits",
+      "path": "plugins/Founder/skills/market-research",
+      "category": "market_research",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 1618,
+          "sha256": "37cf231f0417f6087cb03ee20fdec263228eb6e799319e37f5b5e9b37e1b7128",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:49.332113+00:00"
+    },
+    "propane-founder-metrics-review": {
+      "skill_id": "propane-founder-metrics-review",
+      "repo": "propane-ai/kits",
+      "path": "plugins/Founder/skills/metrics-review",
+      "category": "financial_modeling",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 1569,
+          "sha256": "8ca19dff0f9a457c8edb35f548a619c8c3d0b900a146d398c4b7893b2c94f953",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:49.439728+00:00"
+    },
+    "propane-founder-pitch-deck": {
+      "skill_id": "propane-founder-pitch-deck",
+      "repo": "propane-ai/kits",
+      "path": "plugins/Founder/skills/pitch-deck",
+      "category": "investor_relations",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 1799,
+          "sha256": "0074b18e04253a147f778174edeb08bb18632dbaafdd3cce0d860cc61d9fe1c5",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:49.551601+00:00"
+    },
+    "propane-founder-plan-creation": {
+      "skill_id": "propane-founder-plan-creation",
+      "repo": "propane-ai/kits",
+      "path": "plugins/Founder/skills/plan-creation",
+      "category": "portfolio_operations",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 1643,
+          "sha256": "f2d57d265dada52c3c6f846c01aa70f58fafec877352849a442daab619ebfef0",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:49.656448+00:00"
+    },
+    "propane-founder-sales-investor-emails": {
+      "skill_id": "propane-founder-sales-investor-emails",
+      "repo": "propane-ai/kits",
+      "path": "plugins/Founder/skills/sales-investor-emails",
+      "category": "investor_relations",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 1755,
+          "sha256": "4052eb031ff170402d66feb4697e7728ac0e20b72bc23fc65344df6c934711b0",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:49.761842+00:00"
+    },
+    "propane-founder-stakeholder-comms": {
+      "skill_id": "propane-founder-stakeholder-comms",
+      "repo": "propane-ai/kits",
+      "path": "plugins/Founder/skills/stakeholder-comms",
+      "category": "communications",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 1513,
+          "sha256": "4705492051ffbb7e27cb08d354a7ec32b1c8f90e94e995bedcc3634343a43f42",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:49.867361+00:00"
+    },
+    "propane-gtm-account-research": {
+      "skill_id": "propane-gtm-account-research",
+      "repo": "propane-ai/kits",
+      "path": "plugins/GTM/skills/account-research",
+      "category": "gtm_sales",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 7609,
+          "sha256": "156dae2640c3dd4bbbb8014ff58e4fbd1b2eee9e40bc796898986b2b76b5f8be",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:49.973347+00:00"
+    },
+    "propane-gtm-call-prep": {
+      "skill_id": "propane-gtm-call-prep",
+      "repo": "propane-ai/kits",
+      "path": "plugins/GTM/skills/call-prep",
+      "category": "gtm_sales",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 8119,
+          "sha256": "8e399727a6b6bf7eb29628d696cbb196e54939933904f7c086f2bcbcf2023576",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:50.080022+00:00"
+    },
+    "propane-gtm-competitive-intelligence": {
+      "skill_id": "propane-gtm-competitive-intelligence",
+      "repo": "propane-ai/kits",
+      "path": "plugins/GTM/skills/competitive-intelligence",
+      "category": "gtm_sales",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 12608,
+          "sha256": "124bcb8d1e5ba1cda6be1abd42a794e8d8ef120c4c988ad3191a7550b962f418",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:50.187021+00:00"
+    },
+    "propane-gtm-demo-script": {
+      "skill_id": "propane-gtm-demo-script",
+      "repo": "propane-ai/kits",
+      "path": "plugins/GTM/skills/demo-script",
+      "category": "gtm_sales",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 1996,
+          "sha256": "4fe31628633b8b3678d10d49eb2c7e20970053700076f524ad4a1180d768b47b",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:50.289504+00:00"
+    },
+    "propane-gtm-draft-outreach": {
+      "skill_id": "propane-gtm-draft-outreach",
+      "repo": "propane-ai/kits",
+      "path": "plugins/GTM/skills/draft-outreach",
+      "category": "gtm_sales",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 10292,
+          "sha256": "27563c6362841f439c491e8c0e72cedfdf5e87fe1f064ebe89f19594b8fe76ab",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:50.394958+00:00"
+    },
+    "propane-gtm-forecast": {
+      "skill_id": "propane-gtm-forecast",
+      "repo": "propane-ai/kits",
+      "path": "plugins/GTM/skills/forecast",
+      "category": "financial_modeling",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 3017,
+          "sha256": "a0b0d1d0f226abdc69481a32e21f465683a3c48c2977f0e94efb9a3256e4a83a",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:50.501024+00:00"
+    },
+    "propane-gtm-gtm-strategy": {
+      "skill_id": "propane-gtm-gtm-strategy",
+      "repo": "propane-ai/kits",
+      "path": "plugins/GTM/skills/gtm-strategy",
+      "category": "gtm_sales",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 2099,
+          "sha256": "e786c1c97cdb0649794759265f0050be5005098a73c6b39739d6669a52193b02",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:50.604786+00:00"
+    },
+    "propane-gtm-review-pipeline": {
+      "skill_id": "propane-gtm-review-pipeline",
+      "repo": "propane-ai/kits",
+      "path": "plugins/GTM/skills/review-pipeline",
+      "category": "gtm_sales",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 3298,
+          "sha256": "a64c78bbdddae34bd03d09e29c7a70d9731577fcf4ffe5ab75724ad7c27d2b57",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:50.709217+00:00"
+    },
+    "propane-gtm-roi-calculator": {
+      "skill_id": "propane-gtm-roi-calculator",
+      "repo": "propane-ai/kits",
+      "path": "plugins/GTM/skills/roi-calculator",
+      "category": "financial_modeling",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 2160,
+          "sha256": "0e6c44c1cb30773548de6ec6574b6d7d67a29dcaebaf0fc790c71e5f2de561b1",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:50.812349+00:00"
+    },
+    "propane-gtm-sales-playbook": {
+      "skill_id": "propane-gtm-sales-playbook",
+      "repo": "propane-ai/kits",
+      "path": "plugins/GTM/skills/sales-playbook",
+      "category": "gtm_sales",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 2246,
+          "sha256": "b545eddca34ce312735c0e21d30892aecab4f397597f46bc0f2d30647b25282a",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:50.915702+00:00"
+    },
+    "propane-marketing-competitive-analysis": {
+      "skill_id": "propane-marketing-competitive-analysis",
+      "repo": "propane-ai/kits",
+      "path": "plugins/Marketing/skills/competitive-analysis",
+      "category": "market_research",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 10381,
+          "sha256": "ae202970a25a90fc50bbe187fbba01a195d609939c97beb697a903c2671a22bd",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:51.021506+00:00"
+    },
+    "propane-marketing-product-marketing": {
+      "skill_id": "propane-marketing-product-marketing",
+      "repo": "propane-ai/kits",
+      "path": "plugins/Marketing/skills/product-marketing",
+      "category": "gtm_sales",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 3962,
+          "sha256": "90ebb37c6f83699a816484139930df724862e1d7c0beb45aa29f5209c1b2edb5",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:51.125967+00:00"
+    },
+    "propane-product-competitive-analysis": {
+      "skill_id": "propane-product-competitive-analysis",
+      "repo": "propane-ai/kits",
+      "path": "plugins/Product/skills/competitive-analysis",
+      "category": "market_research",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 11498,
+          "sha256": "b83382cfd8508b63cd4b5308304010f88fd8683497a4bc6cbe170242a65ca19d",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:51.231570+00:00"
+    },
+    "propane-product-metrics-tracking": {
+      "skill_id": "propane-product-metrics-tracking",
+      "repo": "propane-ai/kits",
+      "path": "plugins/Product/skills/metrics-tracking",
+      "category": "portfolio_operations",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 14140,
+          "sha256": "549cd97c2dee5135d37f1f77d781d368d52f0ad992f844b9c9b31f7f3d0ce0ad",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:51.336698+00:00"
+    },
+    "propane-product-progress-reporting": {
+      "skill_id": "propane-product-progress-reporting",
+      "repo": "propane-ai/kits",
+      "path": "plugins/Product/skills/progress-reporting",
+      "category": "portfolio_operations",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 4892,
+          "sha256": "b709d6f7773931edddd14b2414cd13274740ef94bfca0b93d7bea91790ca688c",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:51.442937+00:00"
+    },
+    "propane-product-roadmap-management": {
+      "skill_id": "propane-product-roadmap-management",
+      "repo": "propane-ai/kits",
+      "path": "plugins/Product/skills/roadmap-management",
+      "category": "portfolio_operations",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 9557,
+          "sha256": "cf07e8a5d4edbfaf19bedc9a35b0d72f28e2a5e1a6b4c6a7bb1f8cbf4b71179e",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:51.545086+00:00"
+    },
+    "propane-product-user-research-synthesis": {
+      "skill_id": "propane-product-user-research-synthesis",
+      "repo": "propane-ai/kits",
+      "path": "plugins/Product/skills/user-research-synthesis",
+      "category": "market_research",
+      "source_label": "propane-ai/kits",
+      "files": {
+        "SKILL.md": {
+          "size": 12293,
+          "sha256": "3e18617a7694ef8d648fa0e988580f46c11a461e640fa5a46e4b5563cde2ee16",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:51.651231+00:00"
+    },
+    "rkiding-alphaear-sentiment": {
+      "skill_id": "rkiding-alphaear-sentiment",
+      "repo": "rkiding/awesome-finance-skills",
+      "path": "skills/alphaear-sentiment",
+      "category": "sentiment_signals",
+      "source_label": "rkiding/awesome-finance-skills",
+      "files": {
+        "SKILL.md": {
+          "size": 1994,
+          "sha256": "81147eefc1e47d560de2b35a5127f75052cee5270792db918dc24991c2178924",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:51.756809+00:00"
+    },
+    "rkiding-alphaear-signal-tracker": {
+      "skill_id": "rkiding-alphaear-signal-tracker",
+      "repo": "rkiding/awesome-finance-skills",
+      "path": "skills/alphaear-signal-tracker",
+      "category": "sentiment_signals",
+      "source_label": "rkiding/awesome-finance-skills",
+      "files": {
+        "SKILL.md": {
+          "size": 1835,
+          "sha256": "f049b077fd8e2efa515edb40e9ae50cf9807964800699f4d98a69e952f2b4561",
+          "cached": true
+        },
+        "references/PROMPTS.md": {
+          "size": 2000,
+          "sha256": "4435668fb3521e3ef71db54ef2c9cb87fd52c67bd95e48518932caab7f22887e",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:52.210940+00:00"
+    },
+    "alirezarezvani-ceo-advisor": {
+      "skill_id": "alirezarezvani-ceo-advisor",
+      "repo": "alirezarezvani/claude-skills",
+      "path": "c-level-advisor/ceo-advisor",
+      "category": "portfolio_operations",
+      "source_label": "alirezarezvani/claude-skills",
+      "files": {
+        "SKILL.md": {
+          "size": 11026,
+          "sha256": "9d3f78c6a91752bd2ebd434699b442a9c595e06ba42f117dbb8d8ac1b6e19cbc",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:34.667451+00:00"
+    },
+    "alirezarezvani-financial-analyst": {
+      "skill_id": "alirezarezvani-financial-analyst",
+      "repo": "alirezarezvani/claude-skills",
+      "path": "finance/financial-analyst",
+      "category": "financial_modeling",
+      "source_label": "alirezarezvani/claude-skills",
+      "files": {
+        "SKILL.md": {
+          "size": 6913,
+          "sha256": "b7c372018a89321520a7b6ff5de9a981ab401b6ce3e17dc13c9ec8e375f8cef2",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:34.967305+00:00"
+    },
+    "antigravity-ai-product": {
+      "skill_id": "antigravity-ai-product",
+      "repo": "sickn33/antigravity-awesome-skills",
+      "path": "skills/ai-product",
+      "category": "portfolio_operations",
+      "source_label": "sickn33/antigravity-awesome-skills",
+      "files": {
+        "SKILL.md": {
+          "size": 2160,
+          "sha256": "1f0fbff109d1caaa3148f4fff7a2e65d6fd4ce3b53f756e4dced9bc5f27b80b7",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:35.768481+00:00"
+    },
+    "antigravity-competitive-landscape": {
+      "skill_id": "antigravity-competitive-landscape",
+      "repo": "sickn33/antigravity-awesome-skills",
+      "path": "skills/competitive-landscape",
+      "category": "market_research",
+      "source_label": "sickn33/antigravity-awesome-skills",
+      "files": {
+        "SKILL.md": {
+          "size": 1164,
+          "sha256": "0e5a15016ff0ccd5d6b9b3f3b95c712855c3ddb5b05f1929dc8989a6db210d18",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:36.226259+00:00"
+    },
+    "antigravity-data-storytelling": {
+      "skill_id": "antigravity-data-storytelling",
+      "repo": "sickn33/antigravity-awesome-skills",
+      "path": "skills/data-storytelling",
+      "category": "communications",
+      "source_label": "sickn33/antigravity-awesome-skills",
+      "files": {
+        "SKILL.md": {
+          "size": 11498,
+          "sha256": "2859d14c679243bee29e9b9e46853355dd6b3a51c3fc88362c018ec89786548d",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:36.711161+00:00"
+    },
+    "antigravity-kpi-dashboard-design": {
+      "skill_id": "antigravity-kpi-dashboard-design",
+      "repo": "sickn33/antigravity-awesome-skills",
+      "path": "skills/kpi-dashboard-design",
+      "category": "portfolio_operations",
+      "source_label": "sickn33/antigravity-awesome-skills",
+      "files": {
+        "SKILL.md": {
+          "size": 14015,
+          "sha256": "81d488c0707292a7eca176f0a1d73237a15289997844584f105ac4ebabc76de5",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:37.060521+00:00"
+    },
+    "antigravity-launch-strategy": {
+      "skill_id": "antigravity-launch-strategy",
+      "repo": "sickn33/antigravity-awesome-skills",
+      "path": "skills/launch-strategy",
+      "category": "gtm_sales",
+      "source_label": "sickn33/antigravity-awesome-skills",
+      "files": {
+        "SKILL.md": {
+          "size": 12193,
+          "sha256": "f4bb88f62b9217214a9362f7ab2787cf1f3c47065623c9ae43aab0f932c5e84d",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:37.379080+00:00"
+    },
+    "antigravity-market-sizing-analysis": {
+      "skill_id": "antigravity-market-sizing-analysis",
+      "repo": "sickn33/antigravity-awesome-skills",
+      "path": "skills/market-sizing-analysis",
+      "category": "market_research",
+      "source_label": "sickn33/antigravity-awesome-skills",
+      "files": {
+        "SKILL.md": {
+          "size": 12775,
+          "sha256": "43040d2ed78447e05dc84dc9be50abe80dc3e2c8059316808bb7a9d0be9deaff",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:37.741031+00:00"
+    },
+    "antigravity-product-manager-toolkit": {
+      "skill_id": "antigravity-product-manager-toolkit",
+      "repo": "sickn33/antigravity-awesome-skills",
+      "path": "skills/product-manager-toolkit",
+      "category": "portfolio_operations",
+      "source_label": "sickn33/antigravity-awesome-skills",
+      "files": {
+        "SKILL.md": {
+          "size": 8870,
+          "sha256": "51cae5e4162bdeae1c66b9b7e55f6e4a04334d7001fc706c86d88d92ddad7705",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:38.167279+00:00"
+    },
+    "antigravity-startup-analyst": {
+      "skill_id": "antigravity-startup-analyst",
+      "repo": "sickn33/antigravity-awesome-skills",
+      "path": "skills/startup-analyst",
+      "category": "investment_analysis",
+      "source_label": "sickn33/antigravity-awesome-skills",
+      "files": {
+        "SKILL.md": {
+          "size": 11621,
+          "sha256": "e0ce9f4ea7dea8bcb6d068f13202f51f8a313051cc64df97d9eed1212855bb30",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:38.879953+00:00"
+    },
+    "antigravity-startup-financial-modeling": {
+      "skill_id": "antigravity-startup-financial-modeling",
+      "repo": "sickn33/antigravity-awesome-skills",
+      "path": "skills/startup-financial-modeling",
+      "category": "financial_modeling",
+      "source_label": "sickn33/antigravity-awesome-skills",
+      "files": {
+        "SKILL.md": {
+          "size": 11536,
+          "sha256": "257a1a9b2594355da9300b5829d9bf77085d9aae3475981af523f44d3e9bdc67",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:39.176232+00:00"
+    },
+    "antigravity-startup-metrics-framework": {
+      "skill_id": "antigravity-startup-metrics-framework",
+      "repo": "sickn33/antigravity-awesome-skills",
+      "path": "skills/startup-metrics-framework",
+      "category": "financial_modeling",
+      "source_label": "sickn33/antigravity-awesome-skills",
+      "files": {
+        "SKILL.md": {
+          "size": 1170,
+          "sha256": "c5a7e7f83be37ea18a00fde2a5b659d7b7bd2c24ad7a3e7d7caa516ae95f8ebb",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:39.442101+00:00"
+    },
+    "cookbooks-creating-financial-models": {
+      "skill_id": "cookbooks-creating-financial-models",
+      "repo": "anthropics/claude-cookbooks",
+      "path": "skills/custom_skills/creating-financial-models",
+      "category": "financial_modeling",
+      "source_label": "anthropics/claude-cookbooks",
+      "files": {
+        "SKILL.md": {
+          "size": 5107,
+          "sha256": "c6fd5ad7cb6d3abe013187455c3406019c6694c17b1ee389ea1e4c0f23eba8cb",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:39.968574+00:00"
+    },
+    "evolsb-contract-review": {
+      "skill_id": "evolsb-contract-review",
+      "repo": "evolsb/claude-legal-skill",
+      "path": ".",
+      "category": "due_diligence",
+      "source_label": "evolsb/claude-legal-skill",
+      "files": {
+        "SKILL.md": {
+          "size": 14435,
+          "sha256": "82e890a13fe0219d0852b2815a778d906ee3c197c3db277337802dce625be5ea",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:41.887386+00:00"
+    },
+    "kwp-account-research": {
+      "skill_id": "kwp-account-research",
+      "repo": "anthropics/knowledge-work-plugins",
+      "path": "sales/skills/account-research",
+      "category": "market_research",
+      "source_label": "anthropics/knowledge-work-plugins",
+      "files": {
+        "SKILL.md": {
+          "size": 7352,
+          "sha256": "9b73bf462b1e96516ed7de68c628c34c5416b233ddda249d5186fdd4bbdabc17",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:42.378634+00:00"
+    },
+    "kwp-audit-support": {
+      "skill_id": "kwp-audit-support",
+      "repo": "anthropics/knowledge-work-plugins",
+      "path": "finance/skills/audit-support",
+      "category": "due_diligence",
+      "source_label": "anthropics/knowledge-work-plugins",
+      "files": {
+        "SKILL.md": {
+          "size": 16633,
+          "sha256": "4592b5d4153a707e7ac4abdc3485a08b02a6052a8952e748d27c7e7acd962d2e",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:42.701370+00:00"
+    },
+    "kwp-canned-responses": {
+      "skill_id": "kwp-canned-responses",
+      "repo": "anthropics/knowledge-work-plugins",
+      "path": "legal/skills/canned-responses",
+      "category": "communications",
+      "source_label": "anthropics/knowledge-work-plugins",
+      "files": {
+        "SKILL.md": {
+          "size": 11570,
+          "sha256": "e245cfd0612604f4a8c1e060124dc72aa1db829a65250b40e22d119f02570415",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:43.050704+00:00"
+    },
+    "kwp-close-management": {
+      "skill_id": "kwp-close-management",
+      "repo": "anthropics/knowledge-work-plugins",
+      "path": "finance/skills/close-management",
+      "category": "portfolio_operations",
+      "source_label": "anthropics/knowledge-work-plugins",
+      "files": {
+        "SKILL.md": {
+          "size": 10074,
+          "sha256": "7901f839cba33956be8ae121dbad175cb0fa71d1f6d461111991e634438d7c23",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:43.422967+00:00"
+    },
+    "kwp-competitive-analysis-marketing": {
+      "skill_id": "kwp-competitive-analysis-marketing",
+      "repo": "anthropics/knowledge-work-plugins",
+      "path": "marketing/skills/competitive-analysis",
+      "category": "market_research",
+      "source_label": "anthropics/knowledge-work-plugins",
+      "files": {
+        "SKILL.md": {
+          "size": 9825,
+          "sha256": "cbce9a731eac10569e20347495ae14ab980f7917bd697d24cea89f10248e20bd",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:43.831610+00:00"
+    },
+    "kwp-competitive-analysis-pm": {
+      "skill_id": "kwp-competitive-analysis-pm",
+      "repo": "anthropics/knowledge-work-plugins",
+      "path": "product-management/skills/competitive-analysis",
+      "category": "market_research",
+      "source_label": "anthropics/knowledge-work-plugins",
+      "files": {
+        "SKILL.md": {
+          "size": 10524,
+          "sha256": "ac3860cec29139440a9b4e50df430378ecedebfd2f537ce1eaa6d4ce866f73be",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:44.182871+00:00"
+    },
+    "kwp-competitive-intelligence-sales": {
+      "skill_id": "kwp-competitive-intelligence-sales",
+      "repo": "anthropics/knowledge-work-plugins",
+      "path": "sales/skills/competitive-intelligence",
+      "category": "market_research",
+      "source_label": "anthropics/knowledge-work-plugins",
+      "files": {
+        "SKILL.md": {
+          "size": 12362,
+          "sha256": "1153f80c8fcadc862fbebd23caaf237eb6c81132360ac603b99640fce6c1a052",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:44.492825+00:00"
+    },
+    "kwp-compliance": {
+      "skill_id": "kwp-compliance",
+      "repo": "anthropics/knowledge-work-plugins",
+      "path": "legal/skills/compliance",
+      "category": "due_diligence",
+      "source_label": "anthropics/knowledge-work-plugins",
+      "files": {
+        "SKILL.md": {
+          "size": 12818,
+          "sha256": "e327e02605a40aacaa311eaf70a93aed19e530f6a108e8e2ed45246b4f1a4c80",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:44.801302+00:00"
+    },
+    "kwp-contract-review": {
+      "skill_id": "kwp-contract-review",
+      "repo": "anthropics/knowledge-work-plugins",
+      "path": "legal/skills/contract-review",
+      "category": "due_diligence",
+      "source_label": "anthropics/knowledge-work-plugins",
+      "files": {
+        "SKILL.md": {
+          "size": 10859,
+          "sha256": "a81446e3dc73c8295fc493fe5e6cb56946c57c2f4eefcaf16efe8ff0c7efca0a",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:45.115656+00:00"
+    },
+    "kwp-feature-spec": {
+      "skill_id": "kwp-feature-spec",
+      "repo": "anthropics/knowledge-work-plugins",
+      "path": "product-management/skills/feature-spec",
+      "category": "portfolio_operations",
+      "source_label": "anthropics/knowledge-work-plugins",
+      "files": {
+        "SKILL.md": {
+          "size": 8840,
+          "sha256": "f5d5d24e062b86a354b300440e5cd6a3759e0bc9078e1935b4a5f18da4f4c1f4",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:45.426793+00:00"
+    },
+    "kwp-financial-statements": {
+      "skill_id": "kwp-financial-statements",
+      "repo": "anthropics/knowledge-work-plugins",
+      "path": "finance/skills/financial-statements",
+      "category": "financial_modeling",
+      "source_label": "anthropics/knowledge-work-plugins",
+      "files": {
+        "SKILL.md": {
+          "size": 10003,
+          "sha256": "430a41aeec6d283987058290394681e4563a8f472679a0a665fc614afe5f7d19",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:45.751684+00:00"
+    },
+    "kwp-journal-entry-prep": {
+      "skill_id": "kwp-journal-entry-prep",
+      "repo": "anthropics/knowledge-work-plugins",
+      "path": "finance/skills/journal-entry-prep",
+      "category": "financial_modeling",
+      "source_label": "anthropics/knowledge-work-plugins",
+      "files": {
+        "SKILL.md": {
+          "size": 7817,
+          "sha256": "40fd4cf722cb96259dfbd7c98d6b477987f975bb681052c1dc04fd183f347d73",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:46.056952+00:00"
+    },
+    "kwp-legal-risk-assessment": {
+      "skill_id": "kwp-legal-risk-assessment",
+      "repo": "anthropics/knowledge-work-plugins",
+      "path": "legal/skills/legal-risk-assessment",
+      "category": "due_diligence",
+      "source_label": "anthropics/knowledge-work-plugins",
+      "files": {
+        "SKILL.md": {
+          "size": 12581,
+          "sha256": "9f7985e3a98ac8419b52067cdaa1b72f754fa38c20489e7f0bf9de36347d4d89",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:46.382197+00:00"
+    },
+    "kwp-meeting-briefing": {
+      "skill_id": "kwp-meeting-briefing",
+      "repo": "anthropics/knowledge-work-plugins",
+      "path": "legal/skills/meeting-briefing",
+      "category": "communications",
+      "source_label": "anthropics/knowledge-work-plugins",
+      "files": {
+        "SKILL.md": {
+          "size": 8990,
+          "sha256": "4d19bc2ddb2138d1b306b150c5d0900ce0a398d5ab690b8eba8101ef33d98baa",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:46.711965+00:00"
+    },
+    "kwp-nda-triage": {
+      "skill_id": "kwp-nda-triage",
+      "repo": "anthropics/knowledge-work-plugins",
+      "path": "legal/skills/nda-triage",
+      "category": "due_diligence",
+      "source_label": "anthropics/knowledge-work-plugins",
+      "files": {
+        "SKILL.md": {
+          "size": 11485,
+          "sha256": "01c4636b30c6f6f0ae06f0a8bdb504a8a7b0a0763836deada48ea705a63e0710",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:47.035716+00:00"
+    },
+    "kwp-reconciliation": {
+      "skill_id": "kwp-reconciliation",
+      "repo": "anthropics/knowledge-work-plugins",
+      "path": "finance/skills/reconciliation",
+      "category": "financial_modeling",
+      "source_label": "anthropics/knowledge-work-plugins",
+      "files": {
+        "SKILL.md": {
+          "size": 8094,
+          "sha256": "3412ddd23f36ab61a2fd8b664982f127a533469f8f707e59499fa1e7380e7d5d",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:47.405691+00:00"
+    },
+    "kwp-variance-analysis": {
+      "skill_id": "kwp-variance-analysis",
+      "repo": "anthropics/knowledge-work-plugins",
+      "path": "finance/skills/variance-analysis",
+      "category": "financial_modeling",
+      "source_label": "anthropics/knowledge-work-plugins",
+      "files": {
+        "SKILL.md": {
+          "size": 11148,
+          "sha256": "ebfe7448e7c0c2eb6a67eeb943c3f588bfb95122c5926f6ecc31759b66a56de9",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:47.715307+00:00"
+    },
+    "sundial-competitive-intelligence": {
+      "skill_id": "sundial-competitive-intelligence",
+      "repo": "sundial-org/awesome-openclaw-skills",
+      "path": "skills/competitive-intelligence-market-research",
+      "category": "market_research",
+      "source_label": "sundial-org/awesome-openclaw-skills",
+      "files": {
+        "SKILL.md": {
+          "size": 88069,
+          "sha256": "23633f277b20cdfba2bbf7194164b4a11a6c740ed528870e8e55247c277fe761",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:52.667936+00:00"
+    },
+    "sundial-pre-mortem-analyst": {
+      "skill_id": "sundial-pre-mortem-analyst",
+      "repo": "sundial-org/awesome-openclaw-skills",
+      "path": "skills/pre-mortem-analyst",
+      "category": "due_diligence",
+      "source_label": "sundial-org/awesome-openclaw-skills",
+      "files": {
+        "SKILL.md": {
+          "size": 2278,
+          "sha256": "51be8754ad23302e92e31f2243ec95dc77326f290ac2c38bc74e4db1a5b10b67",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:53.139605+00:00"
+    },
+    "tradermonty-bubble-detector": {
+      "skill_id": "tradermonty-bubble-detector",
+      "repo": "tradermonty/claude-trading-skills",
+      "path": "skills/us-market-bubble-detector",
+      "category": "investment_analysis",
+      "source_label": "tradermonty/claude-trading-skills",
+      "files": {
+        "SKILL.md": {
+          "size": 18484,
+          "sha256": "920d37cf2afab5c9ebf6d010288e5eedc828f5c3a378912e6915f9efcfadd648",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:53.370660+00:00"
+    },
+    "tradermonty-scenario-analyzer": {
+      "skill_id": "tradermonty-scenario-analyzer",
+      "repo": "tradermonty/claude-trading-skills",
+      "path": "skills/scenario-analyzer",
+      "category": "investment_analysis",
+      "source_label": "tradermonty/claude-trading-skills",
+      "files": {
+        "SKILL.md": {
+          "size": 6152,
+          "sha256": "1477e6597eeff4884fa8bee8a67617beda0db30abb499be2445a3330d1d564b2",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-09T03:24:53.789100+00:00"
+    },
+    "vc-skills-market-sizing": {
+      "skill_id": "vc-skills-market-sizing",
+      "repo": "luisschmitzheadline/VC-Skills.md",
+      "path": "knowledge_skills/market_research/vc-skills-market-sizing",
+      "category": "market_research",
+      "source_label": "luisschmitzheadline/VC-Skills.md",
+      "files": {
+        "SKILL.md": {
+          "size": 5937,
+          "sha256": "84815832fe49b3f9b2dfdcdae41e9802c430ab5ae9e02cba7d258dcbb079c4f5",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-10T06:47:54.254569+00:00"
+    }
+  },
+  "stubs": {
+    "anthropic-fs-3-statement-modeling": {
+      "status": "unavailable",
+      "name": "3-Statement Financial Modeling",
+      "category": "financial_modeling",
+      "timestamp": "2026-02-09T03:24:54.046427+00:00"
+    },
+    "anthropic-fs-comps-analysis": {
+      "status": "unavailable",
+      "name": "Comps Analysis",
+      "category": "financial_modeling",
+      "timestamp": "2026-02-09T03:24:54.046561+00:00"
+    },
+    "anthropic-fs-competitive-landscape": {
+      "status": "unavailable",
+      "name": "Competitive Landscape Analysis",
+      "category": "market_research",
+      "timestamp": "2026-02-09T03:24:54.046822+00:00"
+    },
+    "anthropic-fs-dcf-modeling": {
+      "status": "unavailable",
+      "name": "DCF Modeling",
+      "category": "financial_modeling",
+      "timestamp": "2026-02-09T03:24:54.046941+00:00"
+    },
+    "anthropic-fs-dd-data-pack": {
+      "status": "unavailable",
+      "name": "Due Diligence Data Pack",
+      "category": "due_diligence",
+      "timestamp": "2026-02-09T03:24:54.047044+00:00"
+    },
+    "anthropic-fs-earnings-analysis": {
+      "status": "unavailable",
+      "name": "Earnings Analysis",
+      "category": "investment_analysis",
+      "timestamp": "2026-02-09T03:24:54.047131+00:00"
+    },
+    "anthropic-fs-initiating-coverage": {
+      "status": "unavailable",
+      "name": "Initiating Coverage Research",
+      "category": "investment_analysis",
+      "timestamp": "2026-02-09T03:24:54.047217+00:00"
+    },
+    "anthropic-fs-ib-pitch-deck": {
+      "status": "unavailable",
+      "name": "Investment Banking Pitch Deck",
+      "category": "investor_relations",
+      "timestamp": "2026-02-09T03:24:54.047302+00:00"
+    },
+    "anthropic-fs-presentation-checker": {
+      "status": "unavailable",
+      "name": "Presentation Quality Checker",
+      "category": "communications",
+      "timestamp": "2026-02-09T03:24:54.047550+00:00"
+    },
+    "anthropic-fs-company-profile": {
+      "status": "unavailable",
+      "name": "Company Profile/Strip Creator",
+      "category": "investment_analysis",
+      "timestamp": "2026-02-09T03:24:54.047682+00:00"
+    },
+    "anthropic-fs-creating-financial-models": {
+      "status": "unavailable",
+      "name": "Creating Financial Models",
+      "category": "financial_modeling",
+      "timestamp": "2026-02-09T03:24:54.047788+00:00"
+    }
+  },
+  "generated": "2026-02-09T03:24:54.049339+00:00",
+  "api_calls": 6,
+  "api_remaining": "54"
+}

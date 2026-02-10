@@ -1,0 +1,59 @@
+# ===========================================
+# Private / internal (never publish)
+# ===========================================
+
+# Research archive (internal notes, not for distribution)
+docs/
+
+# Claude Code skills contain local filesystem paths
+.claude/
+
+# Working curation file
+NEW_SKILLS_INDEX.md
+
+# Private research
+research/
+internal/
+private/
+*.private.md
+
+# Old directory structures (migrated to knowledge_skills/{category}/)
+knowledge_skills/by_source/
+knowledge_skills/by_category/
+vc_skills_share/
+
+# ===========================================
+# Build artifacts
+# ===========================================
+*.zip
+*.skill
+vc-market-sizing/
+vc-market-sizing-light/
+
+# ===========================================
+# OS files
+# ===========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+
+# ===========================================
+# Editor files
+# ===========================================
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.sublime-*
+
+# ===========================================
+# Python
+# ===========================================
+__pycache__/
+*.py[cod]
+.env
+venv/
