@@ -747,6 +747,210 @@ REGISTRY = {
         "source_label": "oldwinter/skills",
     },
 
+    # --- Founder-relevant batch v1.8.0 (2026-02-10) ---
+
+    # --- maigentic/stratarts (fundraising-operations) ---
+    "stratarts-fundraising-strategy-planner": {
+        "repo": "maigentic/stratarts",
+        "path": "skills/fundraising-operations/fundraising-strategy-planner",
+        "files": ["SKILL.md"],
+        "dirs": [],
+        "category": "investor_relations",
+        "source_label": "maigentic/stratarts",
+    },
+    "stratarts-investor-brief-writer": {
+        "repo": "maigentic/stratarts",
+        "path": "skills/fundraising-operations/investor-brief-writer",
+        "files": ["SKILL.md"],
+        "dirs": [],
+        "category": "investor_relations",
+        "source_label": "maigentic/stratarts",
+    },
+    "stratarts-investor-pitch-deck-builder": {
+        "repo": "maigentic/stratarts",
+        "path": "skills/fundraising-operations/investor-pitch-deck-builder",
+        "files": ["SKILL.md"],
+        "dirs": [],
+        "category": "investor_relations",
+        "source_label": "maigentic/stratarts",
+    },
+    "stratarts-financial-model-architect": {
+        "repo": "maigentic/stratarts",
+        "path": "skills/fundraising-operations/financial-model-architect",
+        "files": ["SKILL.md"],
+        "dirs": [],
+        "category": "financial_modeling",
+        "source_label": "maigentic/stratarts",
+    },
+
+    # --- maigentic/stratarts (market-product-strategy) ---
+    "stratarts-go-to-market-planner": {
+        "repo": "maigentic/stratarts",
+        "path": "skills/market-product-strategy/go-to-market-planner",
+        "files": ["SKILL.md"],
+        "dirs": [],
+        "category": "gtm_sales",
+        "source_label": "maigentic/stratarts",
+    },
+    "stratarts-pricing-strategy-architect": {
+        "repo": "maigentic/stratarts",
+        "path": "skills/market-product-strategy/pricing-strategy-architect",
+        "files": ["SKILL.md"],
+        "dirs": [],
+        "category": "portfolio_operations",
+        "source_label": "maigentic/stratarts",
+    },
+
+    # --- maigentic/stratarts (marketing-growth) ---
+    "stratarts-growth-hacking-playbook": {
+        "repo": "maigentic/stratarts",
+        "path": "skills/marketing-growth/growth-hacking-playbook",
+        "files": ["SKILL.md"],
+        "dirs": [],
+        "category": "gtm_sales",
+        "source_label": "maigentic/stratarts",
+    },
+
+    # --- maigentic/stratarts (foundation-strategy) ---
+    "stratarts-customer-persona-builder": {
+        "repo": "maigentic/stratarts",
+        "path": "skills/foundation-strategy/customer-persona-builder",
+        "files": ["SKILL.md"],
+        "dirs": [],
+        "category": "market_research",
+        "source_label": "maigentic/stratarts",
+    },
+    "stratarts-competitive-intelligence": {
+        "repo": "maigentic/stratarts",
+        "path": "skills/foundation-strategy/competitive-intelligence",
+        "files": ["SKILL.md"],
+        "dirs": [],
+        "category": "market_research",
+        "source_label": "maigentic/stratarts",
+    },
+
+    # --- ognjengt/founder-skills ---
+    "founder-skills-competitor-intel": {
+        "repo": "ognjengt/founder-skills",
+        "path": "skills/competitor-intel",
+        "files": ["SKILL.md"],
+        "dirs": ["references"],
+        "category": "market_research",
+        "source_label": "ognjengt/founder-skills",
+    },
+    "founder-skills-pricing-strategist": {
+        "repo": "ognjengt/founder-skills",
+        "path": "skills/pricing-strategist",
+        "files": ["SKILL.md"],
+        "dirs": ["references"],
+        "category": "portfolio_operations",
+        "source_label": "ognjengt/founder-skills",
+    },
+    "founder-skills-go-to-market-plan": {
+        "repo": "ognjengt/founder-skills",
+        "path": "skills/go-to-market-plan",
+        "files": ["SKILL.md"],
+        "dirs": ["references"],
+        "category": "gtm_sales",
+        "source_label": "ognjengt/founder-skills",
+    },
+    "founder-skills-outreach-specialist": {
+        "repo": "ognjengt/founder-skills",
+        "path": "skills/outreach-specialist",
+        "files": ["SKILL.md"],
+        "dirs": ["references"],
+        "category": "gtm_sales",
+        "source_label": "ognjengt/founder-skills",
+    },
+    "founder-skills-strategic-planning": {
+        "repo": "ognjengt/founder-skills",
+        "path": "skills/strategic-planning",
+        "files": ["SKILL.md"],
+        "dirs": ["references"],
+        "category": "portfolio_operations",
+        "source_label": "ognjengt/founder-skills",
+    },
+
+    # --- liqiongyu/lenny_skills_plus ---
+    "lenny-plus-startup-pivoting": {
+        "repo": "liqiongyu/lenny_skills_plus",
+        "path": "skills/startup-pivoting",
+        "files": ["SKILL.md"],
+        "dirs": ["references"],
+        "category": "portfolio_operations",
+        "source_label": "liqiongyu/lenny_skills_plus",
+    },
+    "lenny-plus-founder-sales": {
+        "repo": "liqiongyu/lenny_skills_plus",
+        "path": "skills/founder-sales",
+        "files": ["SKILL.md"],
+        "dirs": ["references"],
+        "category": "gtm_sales",
+        "source_label": "liqiongyu/lenny_skills_plus",
+    },
+
+    # --- RefoundAI/lenny-skills ---
+    "lenny-measuring-product-market-fit": {
+        "repo": "RefoundAI/lenny-skills",
+        "path": "skills/measuring-product-market-fit",
+        "files": ["SKILL.md"],
+        "dirs": ["references"],
+        "category": "due_diligence",
+        "source_label": "RefoundAI/lenny-skills",
+    },
+
+    # --- ThepExcel/agent-skills ---
+    "thepexcel-design-business-model": {
+        "repo": "ThepExcel/agent-skills",
+        "path": "design-business-model",
+        "files": ["SKILL.md"],
+        "dirs": [],
+        "category": "portfolio_operations",
+        "source_label": "ThepExcel/agent-skills",
+    },
+
+    # --- SkillsMP-research batch v1.8.0 (5 skills from 3 repos) ---
+    "vasilyu-startup-idea-validation": {
+        "repo": "vasilyu1983/AI-Agents-public",
+        "path": "frameworks/shared-skills/skills/startup-idea-validation",
+        "files": ["SKILL.md"],
+        "dirs": ["assets", "references", "data"],
+        "category": "due_diligence",
+        "source_label": "vasilyu1983/AI-Agents-public",
+    },
+    "vasilyu-startup-business-models": {
+        "repo": "vasilyu1983/AI-Agents-public",
+        "path": "frameworks/shared-skills/skills/startup-business-models",
+        "files": ["SKILL.md"],
+        "dirs": ["assets", "references", "data"],
+        "category": "portfolio_operations",
+        "source_label": "vasilyu1983/AI-Agents-public",
+    },
+    "vasilyu-startup-competitive-analysis": {
+        "repo": "vasilyu1983/AI-Agents-public",
+        "path": "frameworks/shared-skills/skills/startup-competitive-analysis",
+        "files": ["SKILL.md"],
+        "dirs": ["assets", "references", "data"],
+        "category": "market_research",
+        "source_label": "vasilyu1983/AI-Agents-public",
+    },
+    "ailabs-startup-validator": {
+        "repo": "ailabs-393/ai-labs-claude-skills",
+        "path": "dist/skills/startup-validator",
+        "files": ["SKILL.md"],
+        "dirs": ["references", "scripts"],
+        "category": "due_diligence",
+        "source_label": "ailabs-393/ai-labs-claude-skills",
+    },
+    "lenny-startup-ideation": {
+        "repo": "RefoundAI/lenny-skills",
+        "path": "skills/startup-ideation",
+        "files": ["SKILL.md"],
+        "dirs": ["references"],
+        "category": "investment_analysis",
+        "source_label": "RefoundAI/lenny-skills",
+    },
+
     # --- Custom/local skills ---
     "vc-skills-market-sizing": {
         "repo": None,  # Local skill, not downloaded from GitHub
@@ -1101,7 +1305,12 @@ def main():
     manifest = {"skills": {}, "stubs": {}, "generated": None}
     if MANIFEST_PATH.exists():
         with open(MANIFEST_PATH) as f:
-            manifest = json.load(f)
+            loaded = json.load(f)
+        if "skills" in loaded:
+            manifest = loaded
+        else:
+            # Migrate flat manifest format to nested
+            manifest["skills"] = loaded
 
     # Download skills
     print(f"Downloading {len(registry)} skills...\n")

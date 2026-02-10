@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "version": "1.7.0",
+    "version": "1.8.0",
     "created": "2026-02-03",
     "description": "Comprehensive database of VC-relevant skills, MCP servers, and connectors for venture capital workflows",
-    "total_skills": 327,
+    "total_skills": 375,
     "categories": [
       "deal_sourcing",
       "due_diligence",
@@ -11,7 +11,8 @@
       "fund_operations",
       "data_infrastructure",
       "automation"
-    ]
+    ],
+    "last_updated": "2026-02-10"
   },
   "skills": [
     {
@@ -9785,6 +9786,794 @@
         "knowledge-skill"
       ],
       "notes": "Index-only. Exceptional quality coaching methodology with VC-useful red flag detection (tar pit ideas, AI FOMO). Founder-coaching tool, not investor tool.",
+      "vc_relevance": 3,
+      "requires_integration": false,
+      "knowledge_category": "portfolio_operations",
+      "download_status": null
+    },
+    {
+      "id": "skill-368",
+      "name": "Startup Pivoting Skill",
+      "source": "github.com/liqiongyu/lenny_skills_plus/tree/main/skills/startup-pivoting",
+      "source_type": "github",
+      "description": "Pivot Decision & Execution Pack: diagnosis framework, exhaustion check (Butterfield rule), pivot options map (4P grid, 10% vs 200% pivots), pivot thesis with kill criteria, validation plan, execution plan. 8 deliverables with reference checklists, templates, and rubrics.",
+      "vc_workflows": [
+        "portfolio_support"
+      ],
+      "vc_tasks": [
+        "portfolio_advisory"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "pivoting",
+        "strategy-reset",
+        "pmf",
+        "portfolio-ops",
+        "knowledge-skill"
+      ],
+      "notes": "21KB total (8KB SKILL.md + 13KB references). Fills a zero-coverage gap - no other pivot assessment skill in the database. Directly applicable when advising stuck portfolio companies.",
+      "vc_relevance": 5,
+      "requires_integration": false,
+      "knowledge_category": "portfolio_operations",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-369",
+      "name": "Business Model Design Skill",
+      "source": "github.com/ThepExcel/agent-skills/tree/main/design-business-model",
+      "source_type": "github",
+      "description": "Business model design and validation using Business Model Canvas, Lean Canvas, and Value Proposition Canvas. Framework selection guide, ASCII canvas visualizations, integration with deep-research and manage-business-strategy skills.",
+      "vc_workflows": [
+        "portfolio_support",
+        "due_diligence"
+      ],
+      "vc_tasks": [
+        "portfolio_advisory",
+        "business_model_analysis"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "business-model",
+        "lean-canvas",
+        "bmc",
+        "value-proposition",
+        "knowledge-skill"
+      ],
+      "notes": "7KB. Fills zero-coverage gap for structured business model frameworks. Useful for DD (evaluating business models) and portfolio support (helping founders iterate on models).",
+      "vc_relevance": 4,
+      "requires_integration": false,
+      "knowledge_category": "portfolio_operations",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-370",
+      "name": "Growth Hacking Playbook Skill",
+      "source": "github.com/maigentic/stratarts/tree/main/skills/marketing-growth/growth-hacking-playbook",
+      "source_type": "github",
+      "description": "Growth experimentation framework: growth loops, AARRR pirate metrics, Bullseye channel prioritization, viral K-factor mechanics, ICE experiment scoring, 90-day experimentation roadmap. Generates HTML reports with 4 Chart.js visualizations.",
+      "vc_workflows": [
+        "portfolio_support"
+      ],
+      "vc_tasks": [
+        "portfolio_advisory"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "growth",
+        "aarrr",
+        "experimentation",
+        "ice-scoring",
+        "growth-loops",
+        "knowledge-skill"
+      ],
+      "notes": "48KB. Fills zero-coverage gap for systematic growth experimentation frameworks. Directly applicable to portfolio growth advising with structured ICE scoring and growth loop design.",
+      "vc_relevance": 4,
+      "requires_integration": false,
+      "knowledge_category": "gtm_sales",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-371",
+      "name": "Customer Persona Builder Skill",
+      "source": "github.com/maigentic/stratarts/tree/main/skills/foundation-strategy/customer-persona-builder",
+      "source_type": "github",
+      "description": "JTBD-based persona development with priority matrix, buying journey mapping, decision criteria analysis. Generates HTML persona cards with behavioral data. Saves output to .strategy/ directory for cross-skill integration.",
+      "vc_workflows": [
+        "portfolio_support",
+        "due_diligence"
+      ],
+      "vc_tasks": [
+        "portfolio_advisory",
+        "market_analysis"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "customer-persona",
+        "icp",
+        "jtbd",
+        "buyer-journey",
+        "knowledge-skill"
+      ],
+      "notes": "35KB. Fills zero-coverage gap for dedicated persona/ICP development. Useful for DD (validating ICP clarity) and portfolio ops (helping founders define target customers).",
+      "vc_relevance": 4,
+      "requires_integration": false,
+      "knowledge_category": "market_research",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-372",
+      "name": "Investor Brief Writer Skill",
+      "source": "github.com/maigentic/stratarts/tree/main/skills/fundraising-operations/investor-brief-writer",
+      "source_type": "github",
+      "description": "Creates investor one-pagers and email briefs with cold email templates, distribution strategy, traction cards, and team cards. Detects and integrates with pitch deck and metrics dashboard outputs from sibling skills.",
+      "vc_workflows": [
+        "portfolio_support",
+        "investor_relations"
+      ],
+      "vc_tasks": [
+        "portfolio_advisory",
+        "lp_communication"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "investor-brief",
+        "one-pager",
+        "cold-outreach",
+        "traction",
+        "knowledge-skill"
+      ],
+      "notes": "25KB. Fills gap between pitch decks and investor updates - focused specifically on concise investor briefs and outreach materials. Distinct from existing pitch deck and update skills.",
+      "vc_relevance": 4,
+      "requires_integration": false,
+      "knowledge_category": "investor_relations",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-373",
+      "name": "Pricing Strategy Architect Skill",
+      "source": "github.com/maigentic/stratarts/tree/main/skills/market-product-strategy/pricing-strategy-architect",
+      "source_type": "github",
+      "description": "Value-based pricing methodology: Van Westendorp Price Sensitivity Meter, Good-Better-Best tier design, competitive positioning matrix, price elasticity analysis. Generates HTML pricing reports with interactive components.",
+      "vc_workflows": [
+        "portfolio_support",
+        "due_diligence"
+      ],
+      "vc_tasks": [
+        "portfolio_advisory",
+        "market_analysis"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "pricing",
+        "van-westendorp",
+        "tiered-pricing",
+        "monetization",
+        "knowledge-skill"
+      ],
+      "notes": "43KB. Deep pricing methodology. Complements skill-090 (thin pricing strategy) and skill-357 (WTP discovery) with structured Van Westendorp analysis and tier design framework.",
+      "vc_relevance": 4,
+      "requires_integration": false,
+      "knowledge_category": "portfolio_operations",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-374",
+      "name": "Measuring Product-Market Fit Skill (Lenny)",
+      "source": "github.com/RefoundAI/lenny-skills/tree/main/skills/measuring-product-market-fit",
+      "source_type": "github",
+      "description": "PMF assessment methodology distilled from 46 product leaders and 64 expert insights. Frameworks: Sean Ellis survey (40% 'very disappointed' threshold), retention curve analysis, reference customer benchmarks (6-8 B2B, 15-25 B2C), 4-level PMF maturity model.",
+      "vc_workflows": [
+        "due_diligence",
+        "portfolio_support"
+      ],
+      "vc_tasks": [
+        "market_analysis",
+        "portfolio_advisory"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "pmf",
+        "sean-ellis",
+        "retention",
+        "product-market-fit",
+        "lenny",
+        "knowledge-skill"
+      ],
+      "notes": "49KB total (6KB SKILL.md + 43KB guest-insights.md). 151 installs on Vercel. Deepest PMF reference with 46 expert perspectives. Complements skill-355 (general PMF assessment) with practitioner wisdom.",
+      "vc_relevance": 5,
+      "requires_integration": false,
+      "knowledge_category": "due_diligence",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-375",
+      "name": "Fundraising Strategy Planner Skill",
+      "source": "github.com/maigentic/stratarts/tree/main/skills/fundraising-operations/fundraising-strategy-planner",
+      "source_type": "github",
+      "description": "Comprehensive fundraising playbook: timeline planning, investor targeting and funnel, outreach cadence, term sheet negotiation framework, closing process. Generates HTML reports. Integrates with pitch deck, financial model, and investor brief skills.",
+      "vc_workflows": [
+        "portfolio_support",
+        "investor_relations"
+      ],
+      "vc_tasks": [
+        "portfolio_advisory",
+        "lp_communication"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "fundraising",
+        "investor-targeting",
+        "term-sheet",
+        "timeline",
+        "knowledge-skill"
+      ],
+      "notes": "32KB. More structured than existing fundraising process skills (skill-350, skill-361) with timeline-based planning and investor funnel management.",
+      "vc_relevance": 4,
+      "requires_integration": false,
+      "knowledge_category": "investor_relations",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-376",
+      "name": "Financial Model Architect Skill",
+      "source": "github.com/maigentic/stratarts/tree/main/skills/fundraising-operations/financial-model-architect",
+      "source_type": "github",
+      "description": "3-5 year financial model generator: revenue modeling, expense projections, headcount planning, cash flow/runway, unit economics (CAC/LTV), Rule of 40, scenario planning (base/upside/downside). Generates interactive HTML reports.",
+      "vc_workflows": [
+        "portfolio_support",
+        "due_diligence"
+      ],
+      "vc_tasks": [
+        "financial_analysis",
+        "portfolio_advisory"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "financial-model",
+        "cac-ltv",
+        "rule-of-40",
+        "scenario-planning",
+        "knowledge-skill"
+      ],
+      "notes": "33KB. Complements skill-318 (startup financial modeling) and skill-331 (financial analyst) with HTML report output format and cross-skill integration.",
+      "vc_relevance": 4,
+      "requires_integration": false,
+      "knowledge_category": "financial_modeling",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-377",
+      "name": "Go-to-Market Planner Skill",
+      "source": "github.com/maigentic/stratarts/tree/main/skills/market-product-strategy/go-to-market-planner",
+      "source_type": "github",
+      "description": "90-day GTM strategy generator: channel mix design, budget allocation, growth targets, weekly milestones, verification checklists. HTML skeleton templates with structured output format.",
+      "vc_workflows": [
+        "portfolio_support"
+      ],
+      "vc_tasks": [
+        "portfolio_advisory"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "gtm",
+        "channel-mix",
+        "90-day-plan",
+        "milestones",
+        "knowledge-skill"
+      ],
+      "notes": "10KB. Tactical 90-day GTM framework. Complements skill-356 (startup GTM) and skill-280 (GTM strategy) with weekly milestone structure.",
+      "vc_relevance": 3,
+      "requires_integration": false,
+      "knowledge_category": "gtm_sales",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-378",
+      "name": "Competitor Intelligence Skill (Founder)",
+      "source": "github.com/ognjengt/founder-skills/tree/main/skills/competitor-intel",
+      "source_type": "github",
+      "description": "Web-research-based competitive intelligence: Crunchbase, LinkedIn, SimilarWeb, GitHub, Meta Ads Library research. Produces verified metrics, leverage strategies, and predicted competitor next moves. Reads FOUNDER_CONTEXT.md for personalization.",
+      "vc_workflows": [
+        "due_diligence",
+        "portfolio_support"
+      ],
+      "vc_tasks": [
+        "competitive_analysis",
+        "portfolio_advisory"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "competitive-intel",
+        "crunchbase",
+        "web-research",
+        "founder-context",
+        "knowledge-skill"
+      ],
+      "notes": "10KB. Unique web-research approach to competitive intelligence. Complements skill-334 (88KB B2B playbook) with practical tool-by-tool research methodology.",
+      "vc_relevance": 4,
+      "requires_integration": false,
+      "knowledge_category": "market_research",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-379",
+      "name": "Founder Sales Sprint Skill (Lenny)",
+      "source": "github.com/liqiongyu/lenny_skills_plus/tree/main/skills/founder-sales",
+      "source_type": "github",
+      "description": "Founder Sales Sprint Pack: ICP wedge and targeting, outreach sequences, diagnostic discovery script ('no demo first'), decision enablement to beat 'no decision', white-glove activation plan. 9 deliverables with checklists, rubrics, and templates.",
+      "vc_workflows": [
+        "portfolio_support"
+      ],
+      "vc_tasks": [
+        "portfolio_advisory"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "founder-sales",
+        "discovery",
+        "icp-wedge",
+        "activation",
+        "lenny",
+        "knowledge-skill"
+      ],
+      "notes": "28KB total (8KB SKILL.md + 20KB references). More structured than skill-365 (oldwinter founder sales) with diagnostic discovery methodology and 7 reference files.",
+      "vc_relevance": 4,
+      "requires_integration": false,
+      "knowledge_category": "gtm_sales",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-380",
+      "name": "Investor Pitch Deck Builder Skill",
+      "source": "github.com/maigentic/stratarts/tree/main/skills/fundraising-operations/investor-pitch-deck-builder",
+      "source_type": "github",
+      "description": "10-15 slide investor pitch deck builder with slide previews, competitor matrix, financial projections, use-of-funds breakdown. Integrates with 8 upstream stratarts skills for context-aware deck generation.",
+      "vc_workflows": [
+        "portfolio_support",
+        "investor_relations"
+      ],
+      "vc_tasks": [
+        "portfolio_advisory",
+        "lp_communication"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "pitch-deck",
+        "slides",
+        "competitor-matrix",
+        "use-of-funds",
+        "knowledge-skill"
+      ],
+      "notes": "32KB. Complements skill-273 (propane pitch deck) with structured slide-by-slide generation and cross-skill integration across the stratarts ecosystem.",
+      "vc_relevance": 4,
+      "requires_integration": false,
+      "knowledge_category": "investor_relations",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-381",
+      "name": "Strategic Planning Skill (Founder)",
+      "source": "github.com/ognjengt/founder-skills/tree/main/skills/strategic-planning",
+      "source_type": "github",
+      "description": "Delivers 3 highest-impact next moves for marketing/sales growth. Diagnoses bottlenecks through up to 10 questions, performs gap analysis and leverage point identification. Reads FOUNDER_CONTEXT.md for personalization.",
+      "vc_workflows": [
+        "portfolio_support"
+      ],
+      "vc_tasks": [
+        "portfolio_advisory"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "strategic-planning",
+        "bottleneck-diagnosis",
+        "leverage-points",
+        "founder-context",
+        "knowledge-skill"
+      ],
+      "notes": "18KB. Conversational strategic planning with bottleneck diagnosis. Useful for portfolio company strategy sessions.",
+      "vc_relevance": 3,
+      "requires_integration": false,
+      "knowledge_category": "portfolio_operations",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-382",
+      "name": "Go-to-Market Plan Skill (Founder)",
+      "source": "github.com/ognjengt/founder-skills/tree/main/skills/go-to-market-plan",
+      "source_type": "github",
+      "description": "Delivers 3 tailored GTM strategies. Diagnoses GTM readiness via 3-10 questions, analyzes product-market fit status, market entry point, and competitive positioning. Interactive, founder-context-aware.",
+      "vc_workflows": [
+        "portfolio_support"
+      ],
+      "vc_tasks": [
+        "portfolio_advisory"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "gtm",
+        "market-entry",
+        "readiness-diagnosis",
+        "founder-context",
+        "knowledge-skill"
+      ],
+      "notes": "22KB. Conversational GTM planning with readiness diagnosis. Overlaps with skill-356 and skill-377 but has unique diagnostic questioning approach.",
+      "vc_relevance": 3,
+      "requires_integration": false,
+      "knowledge_category": "gtm_sales",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-383",
+      "name": "Pricing Strategist Skill (Founder)",
+      "source": "github.com/ognjengt/founder-skills/tree/main/skills/pricing-strategist",
+      "source_type": "github",
+      "description": "Interactive pricing strategy builder. Reads FOUNDER_CONTEXT.md, asks up to 7 diagnostic questions, auto-selects strategy type (SaaS Tiered, Consumer Tiered, Usage Tiers, etc.), builds justified tier structures with competitive positioning.",
+      "vc_workflows": [
+        "portfolio_support"
+      ],
+      "vc_tasks": [
+        "portfolio_advisory"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "pricing",
+        "tier-design",
+        "saas-pricing",
+        "founder-context",
+        "knowledge-skill"
+      ],
+      "notes": "9KB. Conversational pricing strategy with auto-detection. Complements skill-373 (Van Westendorp/analytical) with interactive founder-focused approach.",
+      "vc_relevance": 3,
+      "requires_integration": false,
+      "knowledge_category": "portfolio_operations",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-384",
+      "name": "Outreach Specialist Skill (Founder)",
+      "source": "github.com/ognjengt/founder-skills/tree/main/skills/outreach-specialist",
+      "source_type": "github",
+      "description": "Crafts personalized outreach sequences (3 messages default) for cold email, LinkedIn DMs, and follow-ups. Includes reference templates and sequence strategy files. Reads FOUNDER_CONTEXT.md for personalization.",
+      "vc_workflows": [
+        "portfolio_support"
+      ],
+      "vc_tasks": [
+        "portfolio_advisory"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "outreach",
+        "cold-email",
+        "linkedin",
+        "sequences",
+        "founder-context",
+        "knowledge-skill"
+      ],
+      "notes": "29KB total (13KB SKILL.md + 16KB references). Includes outreach-templates.md and sequence-strategy.md references. Overlaps with skill-207 (draft outreach) but has richer reference content.",
+      "vc_relevance": 3,
+      "requires_integration": false,
+      "knowledge_category": "gtm_sales",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-385",
+      "name": "Competitive Intelligence Skill (Stratarts)",
+      "source": "github.com/maigentic/stratarts/tree/main/skills/foundation-strategy/competitive-intelligence",
+      "source_type": "github",
+      "description": "Comprehensive competitive intelligence framework with HTML report output. Market landscape mapping, competitor profiling, feature comparison matrices, strategic positioning analysis. Part of the stratarts foundation-strategy module.",
+      "vc_workflows": [
+        "due_diligence",
+        "portfolio_support"
+      ],
+      "vc_tasks": [
+        "competitive_analysis",
+        "market_analysis"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "competitive-intel",
+        "landscape-mapping",
+        "feature-matrix",
+        "html-report",
+        "knowledge-skill"
+      ],
+      "notes": "41KB. Overlaps with skill-334 (88KB B2B CI playbook) but has HTML report output format and integrates with the stratarts skill ecosystem.",
+      "vc_relevance": 3,
+      "requires_integration": false,
+      "knowledge_category": "market_research",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-386",
+      "name": "Startup Idea Validation (9-Dimension Scorecard)",
+      "source": "github.com/vasilyu1983/AI-Agents-public/tree/main/frameworks/shared-skills/skills/startup-idea-validation",
+      "source_type": "github",
+      "description": "Evidence-based GO/NO-GO decisions using a 9-dimension scorecard: problem severity, market size, timing, moat, unit economics, founder-market fit, feasibility, GTM clarity, risk profile. 4-step validation ladder (interviews, smoke test, concierge/WoZ, paid pilot). Includes ethical guidelines and AI-specific validation notes.",
+      "vc_workflows": [
+        "due_diligence",
+        "deal_sourcing"
+      ],
+      "vc_tasks": [
+        "startup_evaluation",
+        "investment_screening"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "idea-validation",
+        "scorecard",
+        "go-no-go",
+        "due-diligence",
+        "knowledge-skill"
+      ],
+      "notes": "7.5KB. Strong 9-dimension framework with evidence quality rules and weighted scoring. References template files for assets/references that are created on use.",
+      "vc_relevance": 5,
+      "requires_integration": false,
+      "knowledge_category": "due_diligence",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-387",
+      "name": "Startup Business Models & Unit Economics",
+      "source": "github.com/vasilyu1983/AI-Agents-public/tree/main/frameworks/shared-skills/skills/startup-business-models",
+      "source_type": "github",
+      "description": "Revenue model classification (subscription, usage-based, freemium, marketplace), segment-level unit economics snapshots, SaaS benchmarks (LTV:CAC 3-5x, payback 6-18mo, gross margins >70%), pricing change testing methodology. Covers AI/infrastructure COGS pitfalls.",
+      "vc_workflows": [
+        "due_diligence",
+        "portfolio_support"
+      ],
+      "vc_tasks": [
+        "financial_analysis",
+        "portfolio_advisory"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "business-models",
+        "unit-economics",
+        "pricing",
+        "saas-metrics",
+        "knowledge-skill"
+      ],
+      "notes": "7.2KB. Complements thepexcel-design-business-model (Canvas-based) with deeper unit economics and pricing frameworks.",
+      "vc_relevance": 5,
+      "requires_integration": false,
+      "knowledge_category": "portfolio_operations",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-388",
+      "name": "Startup Competitive Analysis (Decision-Oriented)",
+      "source": "github.com/vasilyu1983/AI-Agents-public/tree/main/frameworks/shared-skills/skills/startup-competitive-analysis",
+      "source_type": "github",
+      "description": "Decision-oriented competitive intelligence: identify/segment competitors (direct, indirect, substitutes, status quo), map markets, build sales battlecards, produce win/loss analyses. 6-step workflow with evidence freshness rules and ethical guidelines.",
+      "vc_workflows": [
+        "due_diligence",
+        "portfolio_support"
+      ],
+      "vc_tasks": [
+        "competitive_analysis",
+        "market_analysis"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "competitive-analysis",
+        "battlecards",
+        "win-loss",
+        "market-mapping",
+        "knowledge-skill"
+      ],
+      "notes": "4.9KB. Decision-oriented CI with match/ignore/bet framework. Complements skill-334 (88KB playbook) and skill-385 (stratarts HTML CI).",
+      "vc_relevance": 4,
+      "requires_integration": false,
+      "knowledge_category": "market_research",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-389",
+      "name": "Startup Validator (Comprehensive Market Analysis)",
+      "source": "github.com/ailabs-393/ai-labs-claude-skills/tree/main/dist/skills/startup-validator",
+      "source_type": "github",
+      "description": "7-step startup validation workflow: idea clarification, research planning, comprehensive market research (10-15+ web searches), data analysis (TAM/SAM/SOM, Porter's Five Forces, problem-solution fit), risk/opportunity identification, positioning strategy, full report generation. 4-level verdict: STRONG GO, PROCEED WITH VALIDATION, PIVOT RECOMMENDED, NOT VIABLE.",
+      "vc_workflows": [
+        "due_diligence",
+        "deal_sourcing"
+      ],
+      "vc_tasks": [
+        "startup_evaluation",
+        "market_analysis",
+        "investment_screening"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "startup-validation",
+        "market-analysis",
+        "tam-sam-som",
+        "porters-forces",
+        "knowledge-skill"
+      ],
+      "notes": "30KB total (11KB SKILL.md + references + Python market_analyzer.py). Most comprehensive validator with structured research templates and quantitative analysis scripts.",
+      "vc_relevance": 5,
+      "requires_integration": false,
+      "knowledge_category": "due_diligence",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-390",
+      "name": "Startup Ideation (Lenny's Podcast Insights)",
+      "source": "github.com/RefoundAI/lenny-skills/tree/main/skills/startup-ideation",
+      "source_type": "github",
+      "description": "Startup idea generation and evaluation framework based on insights from Dalton Caldwell (YC) and Ryan Hoover (Product Hunt). Emphasizes personal experience over trends, avoiding 'tarpits', the 'Why Now' test, and technology/behavior shift analysis.",
+      "vc_workflows": [
+        "deal_sourcing",
+        "portfolio_support"
+      ],
+      "vc_tasks": [
+        "startup_evaluation",
+        "portfolio_advisory"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "startup-ideation",
+        "idea-generation",
+        "yc-methodology",
+        "knowledge-skill"
+      ],
+      "notes": "3.7KB total (3KB SKILL.md + guest-insights.md). Lighter framework based on 2 product leaders. 246 installs on RefoundAI.",
+      "vc_relevance": 3,
+      "requires_integration": false,
+      "knowledge_category": "investment_analysis",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-391",
+      "name": "SaaS Pricing Strategy (coreyhaines31)",
+      "source": "github.com/coreyhaines31/marketingskills/tree/main/skills/pricing-strategy",
+      "source_type": "github",
+      "description": "SaaS pricing strategy framework from a 7K-star marketing skills repo. Covers pricing models, value metrics, packaging tiers, and pricing psychology for B2B SaaS.",
+      "vc_workflows": [
+        "portfolio_support"
+      ],
+      "vc_tasks": [
+        "portfolio_advisory"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "pricing",
+        "saas",
+        "b2b",
+        "knowledge-skill"
+      ],
+      "notes": "Index-only. From a popular marketing skills repo (7K+ stars). Overlaps with stratarts-pricing-strategy-architect and founder-skills-pricing-strategist.",
+      "vc_relevance": 2,
+      "requires_integration": false,
+      "knowledge_category": "portfolio_operations",
+      "download_status": null
+    },
+    {
+      "id": "skill-392",
+      "name": "Launch Strategy (coreyhaines31)",
+      "source": "github.com/coreyhaines31/marketingskills/tree/main/skills/launch-strategy",
+      "source_type": "github",
+      "description": "Product launch strategy using the ORB framework from a 7K-star marketing skills repo. Launch planning, channel selection, timeline management, and post-launch iteration.",
+      "vc_workflows": [
+        "portfolio_support"
+      ],
+      "vc_tasks": [
+        "portfolio_advisory"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "launch-strategy",
+        "product-launch",
+        "gtm",
+        "knowledge-skill"
+      ],
+      "notes": "Index-only. Overlaps with skill-326 (Launch Strategy). From a popular repo but narrow in scope.",
+      "vc_relevance": 2,
+      "requires_integration": false,
+      "knowledge_category": "gtm_sales",
+      "download_status": null
+    },
+    {
+      "id": "skill-393",
+      "name": "Pitch Deck Builder (AI Labs)",
+      "source": "github.com/ailabs-393/ai-labs-claude-skills/tree/main/dist/skills/pitch-deck",
+      "source_type": "github",
+      "description": "Pitch deck creation tool from AI Labs skills collection. Structured slide generation with investor-focused narrative frameworks.",
+      "vc_workflows": [
+        "portfolio_support"
+      ],
+      "vc_tasks": [
+        "portfolio_advisory"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "pitch-deck",
+        "fundraising",
+        "presentation",
+        "knowledge-skill"
+      ],
+      "notes": "Index-only. Complements stratarts-investor-pitch-deck-builder with an alternative approach.",
+      "vc_relevance": 3,
+      "requires_integration": false,
+      "knowledge_category": "investor_relations",
+      "download_status": null
+    },
+    {
+      "id": "skill-394",
+      "name": "Business Analytics Reporter (AI Labs)",
+      "source": "github.com/ailabs-393/ai-labs-claude-skills/tree/main/dist/skills/business-analytics-reporter",
+      "source_type": "github",
+      "description": "Business analytics reporting tool from AI Labs skills collection. Generates structured analytics reports with KPI dashboards and trend analysis.",
+      "vc_workflows": [
+        "portfolio_support",
+        "fund_operations"
+      ],
+      "vc_tasks": [
+        "portfolio_monitoring",
+        "reporting"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "analytics",
+        "reporting",
+        "kpi-dashboard",
+        "knowledge-skill"
+      ],
+      "notes": "Index-only. Could complement portfolio monitoring workflows.",
       "vc_relevance": 3,
       "requires_integration": false,
       "knowledge_category": "portfolio_operations",

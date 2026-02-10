@@ -2,7 +2,7 @@
 
 Skills for managing the fund including LP reporting, document generation, and investor relations.
 
-**Total Skills:** 51
+**Total Skills:** 52
 
 ---
 

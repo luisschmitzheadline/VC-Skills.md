@@ -5,8 +5,8 @@ This document tracks all sources used to compile the VC Skills Database, with ti
 > **Browsable version:** This data is also available as an HTML page at [`sources.html`](sources.html).
 
 **Last full crawl:** 2026-02-10
-**Database version:** 1.7.0
-**Total skills:** 348
+**Database version:** 1.8.0
+**Total skills:** 375
 
 **Credits:** All skills are the work of their original authors and maintainers. This project indexes their work for discoverability.
 
@@ -16,7 +16,7 @@ This document tracks all sources used to compile the VC Skills Database, with ti
 
 | Category | Sources | Skills Added |
 |----------|---------|--------------|
-| GitHub Repositories | 38 | 275 |
+| GitHub Repositories | 45 | 302 |
 | SkillsMP API | 1 | 31 |
 | Apify Marketplace | 1 | 23 |
 | Glama Registry | 1 | 15 |
@@ -57,18 +57,24 @@ This document tracks all sources used to compile the VC Skills Database, with ti
 | agentydragon/ducktape | github.com/agentydragon/ducktape | — | 2026-02-10 | 1 | Superforecasting methodology (devel branch) |
 | wshobson/agents | github.com/wshobson/agents | — | 2026-02-10 | 2 | Competitive landscape, startup metrics framework |
 | acossta/chief-of-staff-oss | github.com/acossta/chief-of-staff-oss | — | 2026-02-10 | 1 | Founder coaching (Campbell, Mochary method) |
-| liqiongyu/lenny_skills_plus | github.com/liqiongyu/lenny_skills_plus | — | 2026-02-10 | 1 | End-to-end fundraising process |
+| liqiongyu/lenny_skills_plus | github.com/liqiongyu/lenny_skills_plus | — | 2026-02-10 | 3 | Fundraising, startup pivoting, founder sales packs |
 | samarv/Shanon | github.com/samarv/Shanon | — | 2026-02-10 | 2 | Pitch narrative psychology, WTP discovery |
 | jona/ycombinator-skills | github.com/jona/ycombinator-skills | — | 2026-02-10 | 1 | YC startup fundamentals |
 | jesseotremblay/claude-skills | github.com/jesseotremblay/claude-skills | — | 2026-02-10 | 1 | Funding landscape analysis templates |
 | wdavidturner/product-skills | github.com/wdavidturner/product-skills | — | 2026-02-10 | 1 | Product-led growth (Elena Verna frameworks) |
 | slgoodrich/agents | github.com/slgoodrich/agents | — | 2026-02-10 | 1 | Product-market fit assessment (Sean Ellis) |
-| vasilyu1983/AI-Agents-public | github.com/vasilyu1983/AI-Agents-public | — | 2026-02-10 | 3 | Startup GTM, trend prediction, fundraising |
+| vasilyu1983/AI-Agents-public | github.com/vasilyu1983/AI-Agents-public | — | 2026-02-10 | 6 | Startup GTM, trend prediction, fundraising, idea validation, business models, competitive analysis |
 | rwHiveAqua/_idea_spinner | github.com/rwHiveAqua/_idea_spinner | — | 2026-02-10 | 1 | Lean Startup methodology (Ries) |
 | founderjourney/claude-skills | github.com/founderjourney/claude-skills | — | 2026-02-10 | 1 | SaaS financial projections with 2025-2026 benchmarks |
 | yamz8/open-ceo | github.com/yamz8/open-ceo | — | 2026-02-10 | 2 | Fundraising knowledge, monthly investor updates |
 | oldwinter/skills | github.com/oldwinter/skills | — | 2026-02-10 | 2 | Fundraising process, founder sales sprint |
 | tenequm/claude-plugins | github.com/tenequm/claude-plugins | — | 2026-02-10 | 1 | Founder playbook coaching methodology |
+| maigentic/stratarts | github.com/maigentic/stratarts | — | 2026-02-10 | 9 | Startup strategy suite: fundraising ops(4), GTM(2), pricing, growth, personas, CI |
+| ognjengt/founder-skills | github.com/ognjengt/founder-skills | — | 2026-02-10 | 5 | Founder-context-aware: competitor intel, pricing, GTM, outreach, strategic planning |
+| RefoundAI/lenny-skills | github.com/RefoundAI/lenny-skills | — | 2026-02-10 | 2 | Measuring PMF (46 product leaders), startup ideation (Dalton Caldwell, Ryan Hoover) |
+| ThepExcel/agent-skills | github.com/ThepExcel/agent-skills | — | 2026-02-10 | 1 | Business Model Canvas / Lean Canvas design |
+| ailabs-393/ai-labs-claude-skills | github.com/ailabs-393/ai-labs-claude-skills | — | 2026-02-10 | 2 | Startup validator (comprehensive), pitch deck builder |
+| coreyhaines31/marketingskills | github.com/coreyhaines31/marketingskills | — | 2026-02-10 | 2 | Pricing strategy, launch strategy (7K+ stars, index-only) |
 
 ### Skills Marketplaces
 
@@ -165,6 +171,7 @@ This regenerates CSV, dashboard, and workflow docs from `vc_skills_database.json
 
 | Version | Date | Changes | Skills |
 |---------|------|---------|--------|
+| 1.8.0 | 2026-02-10 | Added 27 skills: 18 founder-relevant (maigentic/stratarts, ognjengt/founder-skills, liqiongyu+, RefoundAI, ThepExcel), 5 SkillsMP-research downloads (vasilyu idea-validation/business-models/competitive-analysis, ailabs startup-validator, lenny ideation), 4 index-only (coreyhaines31, ailabs pitch-deck/analytics) | 375 |
 | 1.7.0 | 2026-02-10 | Added 9 Vercel-indexed skills from 4 new repos (founderjourney, yamz8, oldwinter, tenequm); 7 downloaded, 2 index-only | 348 |
 | 1.6.0 | 2026-02-10 | Added 12 SkillsMP knowledge skills from 11 new repos; removed 19 non-VC/low-quality skills | 339 |
 | 1.5.0 | 2026-02-09 | Added 45 skills from 7 new repos (Anthropic KWP, sickn33, tradermonty, alirezarezvani, cookbooks, sundial, evolsb, NicholasSpisak) | 346 |

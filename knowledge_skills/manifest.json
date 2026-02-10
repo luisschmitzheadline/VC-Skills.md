@@ -1,464 +1,1010 @@
 {
-  "antigravity-copywriting": {
-    "category": "communications",
-    "path": "communications/antigravity-copywriting/SKILL.md",
-    "size": 5127,
-    "sha256": "6a11ad5b02ff660dbc632ad3fd50b7e19451e03c64954af1fff88a64bfc3b9b0"
-  },
-  "antigravity-data-storytelling": {
-    "category": "communications",
-    "path": "communications/antigravity-data-storytelling/SKILL.md",
-    "size": 12856,
-    "sha256": "2859d14c679243bee29e9b9e46853355dd6b3a51c3fc88362c018ec89786548d"
-  },
-  "kwp-canned-responses": {
-    "category": "communications",
-    "path": "communications/kwp-canned-responses/SKILL.md",
-    "size": 11574,
-    "sha256": "e245cfd0612604f4a8c1e060124dc72aa1db829a65250b40e22d119f02570415"
-  },
-  "kwp-meeting-briefing": {
-    "category": "communications",
-    "path": "communications/kwp-meeting-briefing/SKILL.md",
-    "size": 8990,
-    "sha256": "4d19bc2ddb2138d1b306b150c5d0900ce0a398d5ab690b8eba8101ef33d98baa"
-  },
-  "propane-founder-company-narrative": {
-    "category": "communications",
-    "path": "communications/propane-founder-company-narrative/SKILL.md",
-    "size": 1708,
-    "sha256": "12473b3d231eb09766f7a4749b1b84eb6730e81f669bcca97361d62a5f3d2f7d"
-  },
-  "propane-founder-stakeholder-comms": {
-    "category": "communications",
-    "path": "communications/propane-founder-stakeholder-comms/SKILL.md",
-    "size": 1529,
-    "sha256": "4705492051ffbb7e27cb08d354a7ec32b1c8f90e94e995bedcc3634343a43f42"
-  },
-  "evolsb-contract-review": {
-    "category": "due_diligence",
-    "path": "due_diligence/evolsb-contract-review/SKILL.md",
-    "size": 14501,
-    "sha256": "82e890a13fe0219d0852b2815a778d906ee3c197c3db277337802dce625be5ea"
-  },
-  "kwp-audit-support": {
-    "category": "due_diligence",
-    "path": "due_diligence/kwp-audit-support/SKILL.md",
-    "size": 16779,
-    "sha256": "4592b5d4153a707e7ac4abdc3485a08b02a6052a8952e748d27c7e7acd962d2e"
-  },
-  "kwp-compliance": {
-    "category": "due_diligence",
-    "path": "due_diligence/kwp-compliance/SKILL.md",
-    "size": 12818,
-    "sha256": "e327e02605a40aacaa311eaf70a93aed19e530f6a108e8e2ed45246b4f1a4c80"
-  },
-  "kwp-contract-review": {
-    "category": "due_diligence",
-    "path": "due_diligence/kwp-contract-review/SKILL.md",
-    "size": 10859,
-    "sha256": "a81446e3dc73c8295fc493fe5e6cb56946c57c2f4eefcaf16efe8ff0c7efca0a"
-  },
-  "kwp-legal-risk-assessment": {
-    "category": "due_diligence",
-    "path": "due_diligence/kwp-legal-risk-assessment/SKILL.md",
-    "size": 12581,
-    "sha256": "9f7985e3a98ac8419b52067cdaa1b72f754fa38c20489e7f0bf9de36347d4d89"
-  },
-  "kwp-nda-triage": {
-    "category": "due_diligence",
-    "path": "due_diligence/kwp-nda-triage/SKILL.md",
-    "size": 11485,
-    "sha256": "01c4636b30c6f6f0ae06f0a8bdb504a8a7b0a0763836deada48ea705a63e0710"
-  },
-  "skillsmp-product-market-fit": {
-    "category": "due_diligence",
-    "path": "due_diligence/skillsmp-product-market-fit/SKILL.md",
-    "size": 12660,
-    "sha256": "1f34bd67cb9104ccadd469a8379d49f4055c7b52b499115694c4901d903aee29"
-  },
-  "skillsmp-willingness-to-pay": {
-    "category": "due_diligence",
-    "path": "due_diligence/skillsmp-willingness-to-pay/SKILL.md",
-    "size": 4601,
-    "sha256": "5ff4b65f312e94088474507d4e05679563ca24573cbd9975ae10f7ca574a537e"
-  },
-  "alirezarezvani-financial-analyst": {
-    "category": "financial_modeling",
-    "path": "financial_modeling/alirezarezvani-financial-analyst/SKILL.md",
-    "size": 6913,
-    "sha256": "b7c372018a89321520a7b6ff5de9a981ab401b6ce3e17dc13c9ec8e375f8cef2"
-  },
-  "antigravity-startup-financial-modeling": {
-    "category": "financial_modeling",
-    "path": "financial_modeling/antigravity-startup-financial-modeling/SKILL.md",
-    "size": 11551,
-    "sha256": "257a1a9b2594355da9300b5829d9bf77085d9aae3475981af523f44d3e9bdc67"
-  },
-  "cookbooks-creating-financial-models": {
-    "category": "financial_modeling",
-    "path": "financial_modeling/cookbooks-creating-financial-models/SKILL.md",
-    "size": 5107,
-    "sha256": "c6fd5ad7cb6d3abe013187455c3406019c6694c17b1ee389ea1e4c0f23eba8cb"
-  },
-  "kwp-financial-statements": {
-    "category": "financial_modeling",
-    "path": "financial_modeling/kwp-financial-statements/SKILL.md",
-    "size": 10009,
-    "sha256": "430a41aeec6d283987058290394681e4563a8f472679a0a665fc614afe5f7d19"
-  },
-  "kwp-reconciliation": {
-    "category": "financial_modeling",
-    "path": "financial_modeling/kwp-reconciliation/SKILL.md",
-    "size": 8108,
-    "sha256": "3412ddd23f36ab61a2fd8b664982f127a533469f8f707e59499fa1e7380e7d5d"
-  },
-  "kwp-variance-analysis": {
-    "category": "financial_modeling",
-    "path": "financial_modeling/kwp-variance-analysis/SKILL.md",
-    "size": 11178,
-    "sha256": "ebfe7448e7c0c2eb6a67eeb943c3f588bfb95122c5926f6ecc31759b66a56de9"
-  },
-  "propane-founder-data-and-metrics": {
-    "category": "financial_modeling",
-    "path": "financial_modeling/propane-founder-data-and-metrics/SKILL.md",
-    "size": 1413,
-    "sha256": "312322f0215832e93d3daf8c8dd91bbac6b91d6ddb62870118dba7d77e9da7ba"
-  },
-  "propane-founder-finance-and-runway": {
-    "category": "financial_modeling",
-    "path": "financial_modeling/propane-founder-finance-and-runway/SKILL.md",
-    "size": 1682,
-    "sha256": "c2c0a659142a0369fbe4417ed431ee7c3175ba90cc5d85c87e481c90e6288c1e"
-  },
-  "propane-founder-metrics-review": {
-    "category": "financial_modeling",
-    "path": "financial_modeling/propane-founder-metrics-review/SKILL.md",
-    "size": 1585,
-    "sha256": "8ca19dff0f9a457c8edb35f548a619c8c3d0b900a146d398c4b7893b2c94f953"
-  },
-  "propane-gtm-forecast": {
-    "category": "financial_modeling",
-    "path": "financial_modeling/propane-gtm-forecast/SKILL.md",
-    "size": 3617,
-    "sha256": "a0b0d1d0f226abdc69481a32e21f465683a3c48c2977f0e94efb9a3256e4a83a"
-  },
-  "propane-gtm-roi-calculator": {
-    "category": "financial_modeling",
-    "path": "financial_modeling/propane-gtm-roi-calculator/SKILL.md",
-    "size": 2734,
-    "sha256": "0e6c44c1cb30773548de6ec6574b6d7d67a29dcaebaf0fc790c71e5f2de561b1"
-  },
-  "antigravity-launch-strategy": {
-    "category": "gtm_sales",
-    "path": "gtm_sales/antigravity-launch-strategy/SKILL.md",
-    "size": 12221,
-    "sha256": "f4bb88f62b9217214a9362f7ab2787cf1f3c47065623c9ae43aab0f932c5e84d"
-  },
-  "propane-cx-expansion-playbook": {
-    "category": "gtm_sales",
-    "path": "gtm_sales/propane-cx-expansion-playbook/SKILL.md",
-    "size": 3759,
-    "sha256": "140bfd246d9baaa19dcc5e2a088f4275c98a2cdc23c82a01d6decda0f847ea62"
-  },
-  "propane-gtm-account-research": {
-    "category": "gtm_sales",
-    "path": "gtm_sales/propane-gtm-account-research/SKILL.md",
-    "size": 8259,
-    "sha256": "156dae2640c3dd4bbbb8014ff58e4fbd1b2eee9e40bc796898986b2b76b5f8be"
-  },
-  "propane-gtm-call-prep": {
-    "category": "gtm_sales",
-    "path": "gtm_sales/propane-gtm-call-prep/SKILL.md",
-    "size": 8765,
-    "sha256": "8e399727a6b6bf7eb29628d696cbb196e54939933904f7c086f2bcbcf2023576"
-  },
-  "propane-gtm-competitive-intelligence": {
-    "category": "gtm_sales",
-    "path": "gtm_sales/propane-gtm-competitive-intelligence/SKILL.md",
-    "size": 13422,
-    "sha256": "124bcb8d1e5ba1cda6be1abd42a794e8d8ef120c4c988ad3191a7550b962f418"
-  },
-  "propane-gtm-demo-script": {
-    "category": "gtm_sales",
-    "path": "gtm_sales/propane-gtm-demo-script/SKILL.md",
-    "size": 2576,
-    "sha256": "4fe31628633b8b3678d10d49eb2c7e20970053700076f524ad4a1180d768b47b"
-  },
-  "propane-gtm-draft-outreach": {
-    "category": "gtm_sales",
-    "path": "gtm_sales/propane-gtm-draft-outreach/SKILL.md",
-    "size": 10328,
-    "sha256": "27563c6362841f439c491e8c0e72cedfdf5e87fe1f064ebe89f19594b8fe76ab"
-  },
-  "propane-gtm-gtm-strategy": {
-    "category": "gtm_sales",
-    "path": "gtm_sales/propane-gtm-gtm-strategy/SKILL.md",
-    "size": 2673,
-    "sha256": "e786c1c97cdb0649794759265f0050be5005098a73c6b39739d6669a52193b02"
-  },
-  "propane-gtm-sales-playbook": {
-    "category": "gtm_sales",
-    "path": "gtm_sales/propane-gtm-sales-playbook/SKILL.md",
-    "size": 2820,
-    "sha256": "b545eddca34ce312735c0e21d30892aecab4f397597f46bc0f2d30647b25282a"
-  },
-  "propane-marketing-product-marketing": {
-    "category": "gtm_sales",
-    "path": "gtm_sales/propane-marketing-product-marketing/SKILL.md",
-    "size": 4006,
-    "sha256": "90ebb37c6f83699a816484139930df724862e1d7c0beb45aa29f5209c1b2edb5"
-  },
-  "skillsmp-product-led-growth": {
-    "category": "gtm_sales",
-    "path": "gtm_sales/skillsmp-product-led-growth/SKILL.md",
-    "size": 5542,
-    "sha256": "2a23cf4dfcf4456036e73deef9bf60957c96fa27a3b2da4ffe019df87fdd5d4f"
-  },
-  "skillsmp-startup-go-to-market": {
-    "category": "gtm_sales",
-    "path": "gtm_sales/skillsmp-startup-go-to-market/SKILL.md",
-    "size": 10086,
-    "sha256": "8915da5c402dcfd7ad4c3226c686f175a5241872bbd5b0b0b37dab1ec1b1c10d"
-  },
-  "antigravity-business-analyst": {
-    "category": "investment_analysis",
-    "path": "investment_analysis/antigravity-business-analyst/SKILL.md",
-    "size": 7823,
-    "sha256": "d42b575d16bf30d753fe5f11abde3bb6aee0b041fa5d5ca409d2aecab4fa0e84"
-  },
-  "antigravity-startup-analyst": {
-    "category": "investment_analysis",
-    "path": "investment_analysis/antigravity-startup-analyst/SKILL.md",
-    "size": 11649,
-    "sha256": "e0ce9f4ea7dea8bcb6d068f13202f51f8a313051cc64df97d9eed1212855bb30"
-  },
-  "skillsmp-analyzing-funding-landscape": {
-    "category": "investment_analysis",
-    "path": "investment_analysis/skillsmp-analyzing-funding-landscape/SKILL.md",
-    "size": 15632,
-    "sha256": "f1d8692fe97c38f4a956f11f41f6475d8a4df9ec2547606a3fb7064b4144ac53"
-  },
-  "skillsmp-superforecaster": {
-    "category": "investment_analysis",
-    "path": "investment_analysis/skillsmp-superforecaster/SKILL.md",
-    "size": 17446,
-    "sha256": "beb8889c6ce4b00b8f85341cff8ee4f3989d904cfc8ea64ac93b2ef84f5a6e5e"
-  },
-  "skillsmp-yc-startup-fundamentals": {
-    "category": "investment_analysis",
-    "path": "investment_analysis/skillsmp-yc-startup-fundamentals/SKILL.md",
-    "size": 8208,
-    "sha256": "02ece18de5148ec73f131a4d73de0a596337ac274678fdd67756f1010c30072a"
-  },
-  "tradermonty-bubble-detector": {
-    "category": "investment_analysis",
-    "path": "investment_analysis/tradermonty-bubble-detector/SKILL.md",
-    "size": 18891,
-    "sha256": "920d37cf2afab5c9ebf6d010288e5eedc828f5c3a378912e6915f9efcfadd648"
-  },
-  "propane-founder-board-prep": {
-    "category": "investor_relations",
-    "path": "investor_relations/propane-founder-board-prep/SKILL.md",
-    "size": 1839,
-    "sha256": "c9f6900e6e88b5015a15b77afd0cce2829d3116e4fed1faef123c1e2eb38b3d8"
-  },
-  "propane-founder-investor-management": {
-    "category": "investor_relations",
-    "path": "investor_relations/propane-founder-investor-management/SKILL.md",
-    "size": 1611,
-    "sha256": "57049e82671300dd240216e7fc97fbade4e8977dbcf40154dbc8b6fd5eea4207"
-  },
-  "propane-founder-investor-research": {
-    "category": "investor_relations",
-    "path": "investor_relations/propane-founder-investor-research/SKILL.md",
-    "size": 1678,
-    "sha256": "3f946efb602328556510da4eb6336f520164e8d571c91b907c0d66642e7dd476"
-  },
-  "propane-founder-investor-updates": {
-    "category": "investor_relations",
-    "path": "investor_relations/propane-founder-investor-updates/SKILL.md",
-    "size": 1700,
-    "sha256": "98f973ed96d61cba86f07055e71bc8938e4b401a107189dcb86fa735f72b62e9"
-  },
-  "propane-founder-pitch-deck": {
-    "category": "investor_relations",
-    "path": "investor_relations/propane-founder-pitch-deck/SKILL.md",
-    "size": 1821,
-    "sha256": "0074b18e04253a147f778174edeb08bb18632dbaafdd3cce0d860cc61d9fe1c5"
-  },
-  "propane-founder-sales-investor-emails": {
-    "category": "investor_relations",
-    "path": "investor_relations/propane-founder-sales-investor-emails/SKILL.md",
-    "size": 1775,
-    "sha256": "4052eb031ff170402d66feb4697e7728ac0e20b72bc23fc65344df6c934711b0"
-  },
-  "skillsmp-fundraising": {
-    "category": "investor_relations",
-    "path": "investor_relations/skillsmp-fundraising/SKILL.md",
-    "size": 8439,
-    "sha256": "edc61893eaa2e37b19ff8c6352fff55d94b60ab3af8e473524e2468509664a2b"
-  },
-  "skillsmp-strategic-pitch-optimization": {
-    "category": "investor_relations",
-    "path": "investor_relations/skillsmp-strategic-pitch-optimization/SKILL.md",
-    "size": 5096,
-    "sha256": "23751b87b1282e11bc0c3e802c1d01ca614d72c8fd1868f1a9047fdffeb933c6"
-  },
-  "antigravity-market-sizing-analysis": {
-    "category": "market_research",
-    "path": "market_research/antigravity-market-sizing-analysis/SKILL.md",
-    "size": 12802,
-    "sha256": "43040d2ed78447e05dc84dc9be50abe80dc3e2c8059316808bb7a9d0be9deaff"
-  },
-  "kwp-competitive-analysis-pm": {
-    "category": "market_research",
-    "path": "market_research/kwp-competitive-analysis-pm/SKILL.md",
-    "size": 10540,
-    "sha256": "ac3860cec29139440a9b4e50df430378ecedebfd2f537ce1eaa6d4ce866f73be"
-  },
-  "openclaw-market-environment-analysis": {
-    "category": "market_research",
-    "path": "market_research/openclaw-market-environment-analysis/SKILL.md",
-    "size": 4506,
-    "sha256": "76d00c0d2a1d0e02be76df4de441e26a6763587a26f127601f0d39bf1ab114e1"
-  },
-  "propane-founder-market-research": {
-    "category": "market_research",
-    "path": "market_research/propane-founder-market-research/SKILL.md",
-    "size": 1634,
-    "sha256": "37cf231f0417f6087cb03ee20fdec263228eb6e799319e37f5b5e9b37e1b7128"
-  },
-  "propane-marketing-competitive-analysis": {
-    "category": "market_research",
-    "path": "market_research/propane-marketing-competitive-analysis/SKILL.md",
-    "size": 10389,
-    "sha256": "ae202970a25a90fc50bbe187fbba01a195d609939c97beb697a903c2671a22bd"
-  },
-  "propane-product-competitive-analysis": {
-    "category": "market_research",
-    "path": "market_research/propane-product-competitive-analysis/SKILL.md",
-    "size": 11514,
-    "sha256": "b83382cfd8508b63cd4b5308304010f88fd8683497a4bc6cbe170242a65ca19d"
-  },
-  "propane-product-user-research-synthesis": {
-    "category": "market_research",
-    "path": "market_research/propane-product-user-research-synthesis/SKILL.md",
-    "size": 12307,
-    "sha256": "3e18617a7694ef8d648fa0e988580f46c11a461e640fa5a46e4b5563cde2ee16"
-  },
-  "skillsmp-competitive-landscape": {
-    "category": "market_research",
-    "path": "market_research/skillsmp-competitive-landscape/SKILL.md",
-    "size": 12317,
-    "sha256": "fbd77ca40e2d4fac6c80b5ee1cd8f7d7a8aeb0a81579942e124ac4d47c57d09a"
-  },
-  "sundial-competitive-intelligence": {
-    "category": "market_research",
-    "path": "market_research/sundial-competitive-intelligence/SKILL.md",
-    "size": 91063,
-    "sha256": "23633f277b20cdfba2bbf7194164b4a11a6c740ed528870e8e55247c277fe761"
-  },
-  "vc-skills-market-sizing": {
-    "category": "market_research",
-    "path": "market_research/vc-skills-market-sizing/SKILL.md",
-    "size": 5937,
-    "sha256": "84815832fe49b3f9b2dfdcdae41e9802c430ab5ae9e02cba7d258dcbb079c4f5"
-  },
-  "alirezarezvani-ceo-advisor": {
-    "category": "portfolio_operations",
-    "path": "portfolio_operations/alirezarezvani-ceo-advisor/SKILL.md",
-    "size": 11220,
-    "sha256": "9d3f78c6a91752bd2ebd434699b442a9c595e06ba42f117dbb8d8ac1b6e19cbc"
-  },
-  "antigravity-ai-product": {
-    "category": "portfolio_operations",
-    "path": "portfolio_operations/antigravity-ai-product/SKILL.md",
-    "size": 2170,
-    "sha256": "1f0fbff109d1caaa3148f4fff7a2e65d6fd4ce3b53f756e4dced9bc5f27b80b7"
-  },
-  "antigravity-kpi-dashboard-design": {
-    "category": "portfolio_operations",
-    "path": "portfolio_operations/antigravity-kpi-dashboard-design/SKILL.md",
-    "size": 17822,
-    "sha256": "81d488c0707292a7eca176f0a1d73237a15289997844584f105ac4ebabc76de5"
-  },
-  "antigravity-pricing-strategy": {
-    "category": "portfolio_operations",
-    "path": "portfolio_operations/antigravity-pricing-strategy/SKILL.md",
-    "size": 6957,
-    "sha256": "1fbe411aef84867d06f20bead286f4ee7750451608b931858b9e9aa9d6d08d88"
-  },
-  "antigravity-product-manager-toolkit": {
-    "category": "portfolio_operations",
-    "path": "portfolio_operations/antigravity-product-manager-toolkit/SKILL.md",
-    "size": 8924,
-    "sha256": "51cae5e4162bdeae1c66b9b7e55f6e4a04334d7001fc706c86d88d92ddad7705"
-  },
-  "kwp-feature-spec": {
-    "category": "portfolio_operations",
-    "path": "portfolio_operations/kwp-feature-spec/SKILL.md",
-    "size": 8860,
-    "sha256": "f5d5d24e062b86a354b300440e5cd6a3759e0bc9078e1935b4a5f18da4f4c1f4"
-  },
-  "propane-cx-churn-prediction": {
-    "category": "portfolio_operations",
-    "path": "portfolio_operations/propane-cx-churn-prediction/SKILL.md",
-    "size": 5217,
-    "sha256": "dbc360c1a19c82b9a9df9c38a95f743baeb536525886c3a9173d90f893acef84"
-  },
-  "propane-cx-health-scoring": {
-    "category": "portfolio_operations",
-    "path": "portfolio_operations/propane-cx-health-scoring/SKILL.md",
-    "size": 5126,
-    "sha256": "efcdfd6188ba47b1a2823d228a9f87538e4e7e9b9f25f40d4899970e302556a0"
-  },
-  "propane-cx-prepare-quarterly-business-review": {
-    "category": "portfolio_operations",
-    "path": "portfolio_operations/propane-cx-prepare-quarterly-business-review/SKILL.md",
-    "size": 5491,
-    "sha256": "e996ef6548e16d32070cdbfbcff4b7041bc72ab0c3c41b6853554af882470fab"
-  },
-  "propane-founder-hiring": {
-    "category": "portfolio_operations",
-    "path": "portfolio_operations/propane-founder-hiring/SKILL.md",
-    "size": 1931,
-    "sha256": "0d3156e21f4e45671a53fbb0515cb31b075ecd273b56cd5b4d8ff4e116b7ffbc"
-  },
-  "propane-founder-plan-creation": {
-    "category": "portfolio_operations",
-    "path": "portfolio_operations/propane-founder-plan-creation/SKILL.md",
-    "size": 1661,
-    "sha256": "f2d57d265dada52c3c6f846c01aa70f58fafec877352849a442daab619ebfef0"
-  },
-  "propane-product-metrics-tracking": {
-    "category": "portfolio_operations",
-    "path": "portfolio_operations/propane-product-metrics-tracking/SKILL.md",
-    "size": 14156,
-    "sha256": "549cd97c2dee5135d37f1f77d781d368d52f0ad992f844b9c9b31f7f3d0ce0ad"
-  },
-  "propane-product-progress-reporting": {
-    "category": "portfolio_operations",
-    "path": "portfolio_operations/propane-product-progress-reporting/SKILL.md",
-    "size": 4902,
-    "sha256": "b709d6f7773931edddd14b2414cd13274740ef94bfca0b93d7bea91790ca688c"
-  },
-  "propane-product-roadmap-management": {
-    "category": "portfolio_operations",
-    "path": "portfolio_operations/propane-product-roadmap-management/SKILL.md",
-    "size": 9565,
-    "sha256": "cf07e8a5d4edbfaf19bedc9a35b0d72f28e2a5e1a6b4c6a7bb1f8cbf4b71179e"
-  },
-  "skillsmp-founder-coach": {
-    "category": "portfolio_operations",
-    "path": "portfolio_operations/skillsmp-founder-coach/SKILL.md",
-    "size": 5126,
-    "sha256": "940672d4f0f8c8432fafbfbf74baa39e09dcb177d7355737fe7736375e92621c"
-  },
-  "skillsmp-lean-startup": {
-    "category": "portfolio_operations",
-    "path": "portfolio_operations/skillsmp-lean-startup/SKILL.md",
-    "size": 19653,
-    "sha256": "dd8a3e06b37defb2f48fc1742548b6fbc3013d66a2fd37546212100d32db39ac"
-  }
+  "skills": {
+    "antigravity-copywriting": {
+      "category": "communications",
+      "path": "communications/antigravity-copywriting/SKILL.md",
+      "size": 5127,
+      "sha256": "6a11ad5b02ff660dbc632ad3fd50b7e19451e03c64954af1fff88a64bfc3b9b0"
+    },
+    "antigravity-data-storytelling": {
+      "category": "communications",
+      "path": "communications/antigravity-data-storytelling/SKILL.md",
+      "size": 12856,
+      "sha256": "2859d14c679243bee29e9b9e46853355dd6b3a51c3fc88362c018ec89786548d"
+    },
+    "kwp-canned-responses": {
+      "category": "communications",
+      "path": "communications/kwp-canned-responses/SKILL.md",
+      "size": 11574,
+      "sha256": "e245cfd0612604f4a8c1e060124dc72aa1db829a65250b40e22d119f02570415"
+    },
+    "kwp-meeting-briefing": {
+      "category": "communications",
+      "path": "communications/kwp-meeting-briefing/SKILL.md",
+      "size": 8990,
+      "sha256": "4d19bc2ddb2138d1b306b150c5d0900ce0a398d5ab690b8eba8101ef33d98baa"
+    },
+    "propane-founder-company-narrative": {
+      "category": "communications",
+      "path": "communications/propane-founder-company-narrative/SKILL.md",
+      "size": 1708,
+      "sha256": "12473b3d231eb09766f7a4749b1b84eb6730e81f669bcca97361d62a5f3d2f7d"
+    },
+    "propane-founder-stakeholder-comms": {
+      "category": "communications",
+      "path": "communications/propane-founder-stakeholder-comms/SKILL.md",
+      "size": 1529,
+      "sha256": "4705492051ffbb7e27cb08d354a7ec32b1c8f90e94e995bedcc3634343a43f42"
+    },
+    "evolsb-contract-review": {
+      "category": "due_diligence",
+      "path": "due_diligence/evolsb-contract-review/SKILL.md",
+      "size": 14501,
+      "sha256": "82e890a13fe0219d0852b2815a778d906ee3c197c3db277337802dce625be5ea"
+    },
+    "kwp-audit-support": {
+      "category": "due_diligence",
+      "path": "due_diligence/kwp-audit-support/SKILL.md",
+      "size": 16779,
+      "sha256": "4592b5d4153a707e7ac4abdc3485a08b02a6052a8952e748d27c7e7acd962d2e"
+    },
+    "kwp-compliance": {
+      "category": "due_diligence",
+      "path": "due_diligence/kwp-compliance/SKILL.md",
+      "size": 12818,
+      "sha256": "e327e02605a40aacaa311eaf70a93aed19e530f6a108e8e2ed45246b4f1a4c80"
+    },
+    "kwp-contract-review": {
+      "category": "due_diligence",
+      "path": "due_diligence/kwp-contract-review/SKILL.md",
+      "size": 10859,
+      "sha256": "a81446e3dc73c8295fc493fe5e6cb56946c57c2f4eefcaf16efe8ff0c7efca0a"
+    },
+    "kwp-legal-risk-assessment": {
+      "category": "due_diligence",
+      "path": "due_diligence/kwp-legal-risk-assessment/SKILL.md",
+      "size": 12581,
+      "sha256": "9f7985e3a98ac8419b52067cdaa1b72f754fa38c20489e7f0bf9de36347d4d89"
+    },
+    "kwp-nda-triage": {
+      "category": "due_diligence",
+      "path": "due_diligence/kwp-nda-triage/SKILL.md",
+      "size": 11485,
+      "sha256": "01c4636b30c6f6f0ae06f0a8bdb504a8a7b0a0763836deada48ea705a63e0710"
+    },
+    "skillsmp-product-market-fit": {
+      "category": "due_diligence",
+      "path": "due_diligence/skillsmp-product-market-fit/SKILL.md",
+      "size": 12660,
+      "sha256": "1f34bd67cb9104ccadd469a8379d49f4055c7b52b499115694c4901d903aee29"
+    },
+    "skillsmp-willingness-to-pay": {
+      "category": "due_diligence",
+      "path": "due_diligence/skillsmp-willingness-to-pay/SKILL.md",
+      "size": 4601,
+      "sha256": "5ff4b65f312e94088474507d4e05679563ca24573cbd9975ae10f7ca574a537e"
+    },
+    "alirezarezvani-financial-analyst": {
+      "category": "financial_modeling",
+      "path": "financial_modeling/alirezarezvani-financial-analyst/SKILL.md",
+      "size": 6913,
+      "sha256": "b7c372018a89321520a7b6ff5de9a981ab401b6ce3e17dc13c9ec8e375f8cef2"
+    },
+    "antigravity-startup-financial-modeling": {
+      "category": "financial_modeling",
+      "path": "financial_modeling/antigravity-startup-financial-modeling/SKILL.md",
+      "size": 11551,
+      "sha256": "257a1a9b2594355da9300b5829d9bf77085d9aae3475981af523f44d3e9bdc67"
+    },
+    "cookbooks-creating-financial-models": {
+      "category": "financial_modeling",
+      "path": "financial_modeling/cookbooks-creating-financial-models/SKILL.md",
+      "size": 5107,
+      "sha256": "c6fd5ad7cb6d3abe013187455c3406019c6694c17b1ee389ea1e4c0f23eba8cb"
+    },
+    "kwp-financial-statements": {
+      "category": "financial_modeling",
+      "path": "financial_modeling/kwp-financial-statements/SKILL.md",
+      "size": 10009,
+      "sha256": "430a41aeec6d283987058290394681e4563a8f472679a0a665fc614afe5f7d19"
+    },
+    "kwp-reconciliation": {
+      "category": "financial_modeling",
+      "path": "financial_modeling/kwp-reconciliation/SKILL.md",
+      "size": 8108,
+      "sha256": "3412ddd23f36ab61a2fd8b664982f127a533469f8f707e59499fa1e7380e7d5d"
+    },
+    "kwp-variance-analysis": {
+      "category": "financial_modeling",
+      "path": "financial_modeling/kwp-variance-analysis/SKILL.md",
+      "size": 11178,
+      "sha256": "ebfe7448e7c0c2eb6a67eeb943c3f588bfb95122c5926f6ecc31759b66a56de9"
+    },
+    "propane-founder-data-and-metrics": {
+      "category": "financial_modeling",
+      "path": "financial_modeling/propane-founder-data-and-metrics/SKILL.md",
+      "size": 1413,
+      "sha256": "312322f0215832e93d3daf8c8dd91bbac6b91d6ddb62870118dba7d77e9da7ba"
+    },
+    "propane-founder-finance-and-runway": {
+      "category": "financial_modeling",
+      "path": "financial_modeling/propane-founder-finance-and-runway/SKILL.md",
+      "size": 1682,
+      "sha256": "c2c0a659142a0369fbe4417ed431ee7c3175ba90cc5d85c87e481c90e6288c1e"
+    },
+    "propane-founder-metrics-review": {
+      "category": "financial_modeling",
+      "path": "financial_modeling/propane-founder-metrics-review/SKILL.md",
+      "size": 1585,
+      "sha256": "8ca19dff0f9a457c8edb35f548a619c8c3d0b900a146d398c4b7893b2c94f953"
+    },
+    "propane-gtm-forecast": {
+      "category": "financial_modeling",
+      "path": "financial_modeling/propane-gtm-forecast/SKILL.md",
+      "size": 3617,
+      "sha256": "a0b0d1d0f226abdc69481a32e21f465683a3c48c2977f0e94efb9a3256e4a83a"
+    },
+    "propane-gtm-roi-calculator": {
+      "category": "financial_modeling",
+      "path": "financial_modeling/propane-gtm-roi-calculator/SKILL.md",
+      "size": 2734,
+      "sha256": "0e6c44c1cb30773548de6ec6574b6d7d67a29dcaebaf0fc790c71e5f2de561b1"
+    },
+    "antigravity-launch-strategy": {
+      "category": "gtm_sales",
+      "path": "gtm_sales/antigravity-launch-strategy/SKILL.md",
+      "size": 12221,
+      "sha256": "f4bb88f62b9217214a9362f7ab2787cf1f3c47065623c9ae43aab0f932c5e84d"
+    },
+    "propane-cx-expansion-playbook": {
+      "category": "gtm_sales",
+      "path": "gtm_sales/propane-cx-expansion-playbook/SKILL.md",
+      "size": 3759,
+      "sha256": "140bfd246d9baaa19dcc5e2a088f4275c98a2cdc23c82a01d6decda0f847ea62"
+    },
+    "propane-gtm-account-research": {
+      "category": "gtm_sales",
+      "path": "gtm_sales/propane-gtm-account-research/SKILL.md",
+      "size": 8259,
+      "sha256": "156dae2640c3dd4bbbb8014ff58e4fbd1b2eee9e40bc796898986b2b76b5f8be"
+    },
+    "propane-gtm-call-prep": {
+      "category": "gtm_sales",
+      "path": "gtm_sales/propane-gtm-call-prep/SKILL.md",
+      "size": 8765,
+      "sha256": "8e399727a6b6bf7eb29628d696cbb196e54939933904f7c086f2bcbcf2023576"
+    },
+    "propane-gtm-competitive-intelligence": {
+      "category": "gtm_sales",
+      "path": "gtm_sales/propane-gtm-competitive-intelligence/SKILL.md",
+      "size": 13422,
+      "sha256": "124bcb8d1e5ba1cda6be1abd42a794e8d8ef120c4c988ad3191a7550b962f418"
+    },
+    "propane-gtm-demo-script": {
+      "category": "gtm_sales",
+      "path": "gtm_sales/propane-gtm-demo-script/SKILL.md",
+      "size": 2576,
+      "sha256": "4fe31628633b8b3678d10d49eb2c7e20970053700076f524ad4a1180d768b47b"
+    },
+    "propane-gtm-draft-outreach": {
+      "category": "gtm_sales",
+      "path": "gtm_sales/propane-gtm-draft-outreach/SKILL.md",
+      "size": 10328,
+      "sha256": "27563c6362841f439c491e8c0e72cedfdf5e87fe1f064ebe89f19594b8fe76ab"
+    },
+    "propane-gtm-gtm-strategy": {
+      "category": "gtm_sales",
+      "path": "gtm_sales/propane-gtm-gtm-strategy/SKILL.md",
+      "size": 2673,
+      "sha256": "e786c1c97cdb0649794759265f0050be5005098a73c6b39739d6669a52193b02"
+    },
+    "propane-gtm-sales-playbook": {
+      "category": "gtm_sales",
+      "path": "gtm_sales/propane-gtm-sales-playbook/SKILL.md",
+      "size": 2820,
+      "sha256": "b545eddca34ce312735c0e21d30892aecab4f397597f46bc0f2d30647b25282a"
+    },
+    "propane-marketing-product-marketing": {
+      "category": "gtm_sales",
+      "path": "gtm_sales/propane-marketing-product-marketing/SKILL.md",
+      "size": 4006,
+      "sha256": "90ebb37c6f83699a816484139930df724862e1d7c0beb45aa29f5209c1b2edb5"
+    },
+    "skillsmp-product-led-growth": {
+      "category": "gtm_sales",
+      "path": "gtm_sales/skillsmp-product-led-growth/SKILL.md",
+      "size": 5542,
+      "sha256": "2a23cf4dfcf4456036e73deef9bf60957c96fa27a3b2da4ffe019df87fdd5d4f"
+    },
+    "skillsmp-startup-go-to-market": {
+      "category": "gtm_sales",
+      "path": "gtm_sales/skillsmp-startup-go-to-market/SKILL.md",
+      "size": 10086,
+      "sha256": "8915da5c402dcfd7ad4c3226c686f175a5241872bbd5b0b0b37dab1ec1b1c10d"
+    },
+    "antigravity-business-analyst": {
+      "category": "investment_analysis",
+      "path": "investment_analysis/antigravity-business-analyst/SKILL.md",
+      "size": 7823,
+      "sha256": "d42b575d16bf30d753fe5f11abde3bb6aee0b041fa5d5ca409d2aecab4fa0e84"
+    },
+    "antigravity-startup-analyst": {
+      "category": "investment_analysis",
+      "path": "investment_analysis/antigravity-startup-analyst/SKILL.md",
+      "size": 11649,
+      "sha256": "e0ce9f4ea7dea8bcb6d068f13202f51f8a313051cc64df97d9eed1212855bb30"
+    },
+    "skillsmp-analyzing-funding-landscape": {
+      "category": "investment_analysis",
+      "path": "investment_analysis/skillsmp-analyzing-funding-landscape/SKILL.md",
+      "size": 15632,
+      "sha256": "f1d8692fe97c38f4a956f11f41f6475d8a4df9ec2547606a3fb7064b4144ac53"
+    },
+    "skillsmp-superforecaster": {
+      "category": "investment_analysis",
+      "path": "investment_analysis/skillsmp-superforecaster/SKILL.md",
+      "size": 17446,
+      "sha256": "beb8889c6ce4b00b8f85341cff8ee4f3989d904cfc8ea64ac93b2ef84f5a6e5e"
+    },
+    "skillsmp-yc-startup-fundamentals": {
+      "category": "investment_analysis",
+      "path": "investment_analysis/skillsmp-yc-startup-fundamentals/SKILL.md",
+      "size": 8208,
+      "sha256": "02ece18de5148ec73f131a4d73de0a596337ac274678fdd67756f1010c30072a"
+    },
+    "tradermonty-bubble-detector": {
+      "category": "investment_analysis",
+      "path": "investment_analysis/tradermonty-bubble-detector/SKILL.md",
+      "size": 18891,
+      "sha256": "920d37cf2afab5c9ebf6d010288e5eedc828f5c3a378912e6915f9efcfadd648"
+    },
+    "propane-founder-board-prep": {
+      "category": "investor_relations",
+      "path": "investor_relations/propane-founder-board-prep/SKILL.md",
+      "size": 1839,
+      "sha256": "c9f6900e6e88b5015a15b77afd0cce2829d3116e4fed1faef123c1e2eb38b3d8"
+    },
+    "propane-founder-investor-management": {
+      "category": "investor_relations",
+      "path": "investor_relations/propane-founder-investor-management/SKILL.md",
+      "size": 1611,
+      "sha256": "57049e82671300dd240216e7fc97fbade4e8977dbcf40154dbc8b6fd5eea4207"
+    },
+    "propane-founder-investor-research": {
+      "category": "investor_relations",
+      "path": "investor_relations/propane-founder-investor-research/SKILL.md",
+      "size": 1678,
+      "sha256": "3f946efb602328556510da4eb6336f520164e8d571c91b907c0d66642e7dd476"
+    },
+    "propane-founder-investor-updates": {
+      "category": "investor_relations",
+      "path": "investor_relations/propane-founder-investor-updates/SKILL.md",
+      "size": 1700,
+      "sha256": "98f973ed96d61cba86f07055e71bc8938e4b401a107189dcb86fa735f72b62e9"
+    },
+    "propane-founder-pitch-deck": {
+      "category": "investor_relations",
+      "path": "investor_relations/propane-founder-pitch-deck/SKILL.md",
+      "size": 1821,
+      "sha256": "0074b18e04253a147f778174edeb08bb18632dbaafdd3cce0d860cc61d9fe1c5"
+    },
+    "propane-founder-sales-investor-emails": {
+      "category": "investor_relations",
+      "path": "investor_relations/propane-founder-sales-investor-emails/SKILL.md",
+      "size": 1775,
+      "sha256": "4052eb031ff170402d66feb4697e7728ac0e20b72bc23fc65344df6c934711b0"
+    },
+    "skillsmp-fundraising": {
+      "category": "investor_relations",
+      "path": "investor_relations/skillsmp-fundraising/SKILL.md",
+      "size": 8439,
+      "sha256": "edc61893eaa2e37b19ff8c6352fff55d94b60ab3af8e473524e2468509664a2b"
+    },
+    "skillsmp-strategic-pitch-optimization": {
+      "category": "investor_relations",
+      "path": "investor_relations/skillsmp-strategic-pitch-optimization/SKILL.md",
+      "size": 5096,
+      "sha256": "23751b87b1282e11bc0c3e802c1d01ca614d72c8fd1868f1a9047fdffeb933c6"
+    },
+    "antigravity-market-sizing-analysis": {
+      "category": "market_research",
+      "path": "market_research/antigravity-market-sizing-analysis/SKILL.md",
+      "size": 12802,
+      "sha256": "43040d2ed78447e05dc84dc9be50abe80dc3e2c8059316808bb7a9d0be9deaff"
+    },
+    "kwp-competitive-analysis-pm": {
+      "category": "market_research",
+      "path": "market_research/kwp-competitive-analysis-pm/SKILL.md",
+      "size": 10540,
+      "sha256": "ac3860cec29139440a9b4e50df430378ecedebfd2f537ce1eaa6d4ce866f73be"
+    },
+    "openclaw-market-environment-analysis": {
+      "category": "market_research",
+      "path": "market_research/openclaw-market-environment-analysis/SKILL.md",
+      "size": 4506,
+      "sha256": "76d00c0d2a1d0e02be76df4de441e26a6763587a26f127601f0d39bf1ab114e1"
+    },
+    "propane-founder-market-research": {
+      "category": "market_research",
+      "path": "market_research/propane-founder-market-research/SKILL.md",
+      "size": 1634,
+      "sha256": "37cf231f0417f6087cb03ee20fdec263228eb6e799319e37f5b5e9b37e1b7128"
+    },
+    "propane-marketing-competitive-analysis": {
+      "category": "market_research",
+      "path": "market_research/propane-marketing-competitive-analysis/SKILL.md",
+      "size": 10389,
+      "sha256": "ae202970a25a90fc50bbe187fbba01a195d609939c97beb697a903c2671a22bd"
+    },
+    "propane-product-competitive-analysis": {
+      "category": "market_research",
+      "path": "market_research/propane-product-competitive-analysis/SKILL.md",
+      "size": 11514,
+      "sha256": "b83382cfd8508b63cd4b5308304010f88fd8683497a4bc6cbe170242a65ca19d"
+    },
+    "propane-product-user-research-synthesis": {
+      "category": "market_research",
+      "path": "market_research/propane-product-user-research-synthesis/SKILL.md",
+      "size": 12307,
+      "sha256": "3e18617a7694ef8d648fa0e988580f46c11a461e640fa5a46e4b5563cde2ee16"
+    },
+    "skillsmp-competitive-landscape": {
+      "category": "market_research",
+      "path": "market_research/skillsmp-competitive-landscape/SKILL.md",
+      "size": 12317,
+      "sha256": "fbd77ca40e2d4fac6c80b5ee1cd8f7d7a8aeb0a81579942e124ac4d47c57d09a"
+    },
+    "sundial-competitive-intelligence": {
+      "category": "market_research",
+      "path": "market_research/sundial-competitive-intelligence/SKILL.md",
+      "size": 91063,
+      "sha256": "23633f277b20cdfba2bbf7194164b4a11a6c740ed528870e8e55247c277fe761"
+    },
+    "vc-skills-market-sizing": {
+      "category": "market_research",
+      "path": "market_research/vc-skills-market-sizing/SKILL.md",
+      "size": 5937,
+      "sha256": "84815832fe49b3f9b2dfdcdae41e9802c430ab5ae9e02cba7d258dcbb079c4f5"
+    },
+    "alirezarezvani-ceo-advisor": {
+      "category": "portfolio_operations",
+      "path": "portfolio_operations/alirezarezvani-ceo-advisor/SKILL.md",
+      "size": 11220,
+      "sha256": "9d3f78c6a91752bd2ebd434699b442a9c595e06ba42f117dbb8d8ac1b6e19cbc"
+    },
+    "antigravity-ai-product": {
+      "category": "portfolio_operations",
+      "path": "portfolio_operations/antigravity-ai-product/SKILL.md",
+      "size": 2170,
+      "sha256": "1f0fbff109d1caaa3148f4fff7a2e65d6fd4ce3b53f756e4dced9bc5f27b80b7"
+    },
+    "antigravity-kpi-dashboard-design": {
+      "category": "portfolio_operations",
+      "path": "portfolio_operations/antigravity-kpi-dashboard-design/SKILL.md",
+      "size": 17822,
+      "sha256": "81d488c0707292a7eca176f0a1d73237a15289997844584f105ac4ebabc76de5"
+    },
+    "antigravity-pricing-strategy": {
+      "category": "portfolio_operations",
+      "path": "portfolio_operations/antigravity-pricing-strategy/SKILL.md",
+      "size": 6957,
+      "sha256": "1fbe411aef84867d06f20bead286f4ee7750451608b931858b9e9aa9d6d08d88"
+    },
+    "antigravity-product-manager-toolkit": {
+      "category": "portfolio_operations",
+      "path": "portfolio_operations/antigravity-product-manager-toolkit/SKILL.md",
+      "size": 8924,
+      "sha256": "51cae5e4162bdeae1c66b9b7e55f6e4a04334d7001fc706c86d88d92ddad7705"
+    },
+    "kwp-feature-spec": {
+      "category": "portfolio_operations",
+      "path": "portfolio_operations/kwp-feature-spec/SKILL.md",
+      "size": 8860,
+      "sha256": "f5d5d24e062b86a354b300440e5cd6a3759e0bc9078e1935b4a5f18da4f4c1f4"
+    },
+    "propane-cx-churn-prediction": {
+      "category": "portfolio_operations",
+      "path": "portfolio_operations/propane-cx-churn-prediction/SKILL.md",
+      "size": 5217,
+      "sha256": "dbc360c1a19c82b9a9df9c38a95f743baeb536525886c3a9173d90f893acef84"
+    },
+    "propane-cx-health-scoring": {
+      "category": "portfolio_operations",
+      "path": "portfolio_operations/propane-cx-health-scoring/SKILL.md",
+      "size": 5126,
+      "sha256": "efcdfd6188ba47b1a2823d228a9f87538e4e7e9b9f25f40d4899970e302556a0"
+    },
+    "propane-cx-prepare-quarterly-business-review": {
+      "category": "portfolio_operations",
+      "path": "portfolio_operations/propane-cx-prepare-quarterly-business-review/SKILL.md",
+      "size": 5491,
+      "sha256": "e996ef6548e16d32070cdbfbcff4b7041bc72ab0c3c41b6853554af882470fab"
+    },
+    "propane-founder-hiring": {
+      "category": "portfolio_operations",
+      "path": "portfolio_operations/propane-founder-hiring/SKILL.md",
+      "size": 1931,
+      "sha256": "0d3156e21f4e45671a53fbb0515cb31b075ecd273b56cd5b4d8ff4e116b7ffbc"
+    },
+    "propane-founder-plan-creation": {
+      "category": "portfolio_operations",
+      "path": "portfolio_operations/propane-founder-plan-creation/SKILL.md",
+      "size": 1661,
+      "sha256": "f2d57d265dada52c3c6f846c01aa70f58fafec877352849a442daab619ebfef0"
+    },
+    "propane-product-metrics-tracking": {
+      "category": "portfolio_operations",
+      "path": "portfolio_operations/propane-product-metrics-tracking/SKILL.md",
+      "size": 14156,
+      "sha256": "549cd97c2dee5135d37f1f77d781d368d52f0ad992f844b9c9b31f7f3d0ce0ad"
+    },
+    "propane-product-progress-reporting": {
+      "category": "portfolio_operations",
+      "path": "portfolio_operations/propane-product-progress-reporting/SKILL.md",
+      "size": 4902,
+      "sha256": "b709d6f7773931edddd14b2414cd13274740ef94bfca0b93d7bea91790ca688c"
+    },
+    "propane-product-roadmap-management": {
+      "category": "portfolio_operations",
+      "path": "portfolio_operations/propane-product-roadmap-management/SKILL.md",
+      "size": 9565,
+      "sha256": "cf07e8a5d4edbfaf19bedc9a35b0d72f28e2a5e1a6b4c6a7bb1f8cbf4b71179e"
+    },
+    "skillsmp-founder-coach": {
+      "category": "portfolio_operations",
+      "path": "portfolio_operations/skillsmp-founder-coach/SKILL.md",
+      "size": 5126,
+      "sha256": "940672d4f0f8c8432fafbfbf74baa39e09dcb177d7355737fe7736375e92621c"
+    },
+    "skillsmp-lean-startup": {
+      "category": "portfolio_operations",
+      "path": "portfolio_operations/skillsmp-lean-startup/SKILL.md",
+      "size": 19653,
+      "sha256": "dd8a3e06b37defb2f48fc1742548b6fbc3013d66a2fd37546212100d32db39ac"
+    },
+    "stratarts-fundraising-strategy-planner": {
+      "skill_id": "stratarts-fundraising-strategy-planner",
+      "repo": "maigentic/stratarts",
+      "path": "skills/fundraising-operations/fundraising-strategy-planner",
+      "category": "investor_relations",
+      "source_label": "maigentic/stratarts",
+      "files": {
+        "SKILL.md": {
+          "size": 32207,
+          "sha256": "85ad22eca8b884f15d0fbd3a16c50bed41b436d4510f9985217b4d6a0547cbbe",
+          "cached": true
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-10T18:13:52.060101+00:00"
+    },
+    "stratarts-investor-brief-writer": {
+      "skill_id": "stratarts-investor-brief-writer",
+      "repo": "maigentic/stratarts",
+      "path": "skills/fundraising-operations/investor-brief-writer",
+      "category": "investor_relations",
+      "source_label": "maigentic/stratarts",
+      "files": {
+        "SKILL.md": {
+          "size": 25346,
+          "sha256": "efa585b70fb0b60af94e17bc9d1e4980a1b0a37ff69b12cb71e7f6771a78bad2",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-10T18:13:52.229134+00:00"
+    },
+    "stratarts-investor-pitch-deck-builder": {
+      "skill_id": "stratarts-investor-pitch-deck-builder",
+      "repo": "maigentic/stratarts",
+      "path": "skills/fundraising-operations/investor-pitch-deck-builder",
+      "category": "investor_relations",
+      "source_label": "maigentic/stratarts",
+      "files": {
+        "SKILL.md": {
+          "size": 31961,
+          "sha256": "2914bea90abcf6a464641675dc2d335d720b34ba4b4d29b1aadbb28b241d044e",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-10T18:13:52.543442+00:00"
+    },
+    "stratarts-financial-model-architect": {
+      "skill_id": "stratarts-financial-model-architect",
+      "repo": "maigentic/stratarts",
+      "path": "skills/fundraising-operations/financial-model-architect",
+      "category": "financial_modeling",
+      "source_label": "maigentic/stratarts",
+      "files": {
+        "SKILL.md": {
+          "size": 33021,
+          "sha256": "5a159a287c8a51d50cd406637fc6b030cc6b566b90118e8e9cc66cc53b2e745a",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-10T18:13:52.858083+00:00"
+    },
+    "stratarts-go-to-market-planner": {
+      "skill_id": "stratarts-go-to-market-planner",
+      "repo": "maigentic/stratarts",
+      "path": "skills/market-product-strategy/go-to-market-planner",
+      "category": "gtm_sales",
+      "source_label": "maigentic/stratarts",
+      "files": {
+        "SKILL.md": {
+          "size": 10067,
+          "sha256": "d5f011c4745607c00844a45003ff3b4d0ad2525fda51d63adcaaa1f4c51281d7",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-10T18:13:53.172824+00:00"
+    },
+    "stratarts-pricing-strategy-architect": {
+      "skill_id": "stratarts-pricing-strategy-architect",
+      "repo": "maigentic/stratarts",
+      "path": "skills/market-product-strategy/pricing-strategy-architect",
+      "category": "portfolio_operations",
+      "source_label": "maigentic/stratarts",
+      "files": {
+        "SKILL.md": {
+          "size": 42623,
+          "sha256": "ab81b461723132c1dfa3ab7b6148ff47f1e1f9b926a64f609f4130b6602e8989",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-10T18:13:53.489368+00:00"
+    },
+    "stratarts-growth-hacking-playbook": {
+      "skill_id": "stratarts-growth-hacking-playbook",
+      "repo": "maigentic/stratarts",
+      "path": "skills/marketing-growth/growth-hacking-playbook",
+      "category": "gtm_sales",
+      "source_label": "maigentic/stratarts",
+      "files": {
+        "SKILL.md": {
+          "size": 48336,
+          "sha256": "9a80a371879cf406f877636e212012ac4e0534255273edf1c7fd9aaa89032e20",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-10T18:13:53.809000+00:00"
+    },
+    "stratarts-customer-persona-builder": {
+      "skill_id": "stratarts-customer-persona-builder",
+      "repo": "maigentic/stratarts",
+      "path": "skills/foundation-strategy/customer-persona-builder",
+      "category": "market_research",
+      "source_label": "maigentic/stratarts",
+      "files": {
+        "SKILL.md": {
+          "size": 34949,
+          "sha256": "79c72143bb63df2903516888a3e9cf580b50b5a8baa55ea1cb659f11f97725e3",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-10T18:13:54.152674+00:00"
+    },
+    "stratarts-competitive-intelligence": {
+      "skill_id": "stratarts-competitive-intelligence",
+      "repo": "maigentic/stratarts",
+      "path": "skills/foundation-strategy/competitive-intelligence",
+      "category": "market_research",
+      "source_label": "maigentic/stratarts",
+      "files": {
+        "SKILL.md": {
+          "size": 40616,
+          "sha256": "3372658dac66f74cf40068a7d47151d69aa1315fecf814c7af103505fc226a18",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-10T18:13:54.537588+00:00"
+    },
+    "thepexcel-design-business-model": {
+      "skill_id": "thepexcel-design-business-model",
+      "repo": "ThepExcel/agent-skills",
+      "path": "design-business-model",
+      "category": "portfolio_operations",
+      "source_label": "ThepExcel/agent-skills",
+      "files": {
+        "SKILL.md": {
+          "size": 7015,
+          "sha256": "e8799237d1aab6f9c5acc7b1900424f1fbf6f8060dea6cceb6a7845b70161a68",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-10T18:13:54.867515+00:00"
+    },
+    "founder-skills-competitor-intel": {
+      "skill_id": "founder-skills-competitor-intel",
+      "repo": "ognjengt/founder-skills",
+      "path": "skills/competitor-intel",
+      "category": "market_research",
+      "source_label": "ognjengt/founder-skills",
+      "files": {
+        "SKILL.md": {
+          "size": 10432,
+          "sha256": "6f805d64254bcd22e9995147cd541e89e067065a7d5d7c5148851f469ebab61f",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-10T18:14:02.555867+00:00"
+    },
+    "founder-skills-pricing-strategist": {
+      "skill_id": "founder-skills-pricing-strategist",
+      "repo": "ognjengt/founder-skills",
+      "path": "skills/pricing-strategist",
+      "category": "portfolio_operations",
+      "source_label": "ognjengt/founder-skills",
+      "files": {
+        "SKILL.md": {
+          "size": 9470,
+          "sha256": "f517838c3bfaec413d8b577527c1ed04b758149928420d25483d362bc3408363",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-10T18:14:03.152550+00:00"
+    },
+    "founder-skills-go-to-market-plan": {
+      "skill_id": "founder-skills-go-to-market-plan",
+      "repo": "ognjengt/founder-skills",
+      "path": "skills/go-to-market-plan",
+      "category": "gtm_sales",
+      "source_label": "ognjengt/founder-skills",
+      "files": {
+        "SKILL.md": {
+          "size": 22200,
+          "sha256": "432aa9426b776552f415dc700dbc9abb04f68c0edbe109159f9f756ec58b1672",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-10T18:14:03.746141+00:00"
+    },
+    "founder-skills-outreach-specialist": {
+      "skill_id": "founder-skills-outreach-specialist",
+      "repo": "ognjengt/founder-skills",
+      "path": "skills/outreach-specialist",
+      "category": "gtm_sales",
+      "source_label": "ognjengt/founder-skills",
+      "files": {
+        "SKILL.md": {
+          "size": 12948,
+          "sha256": "7e6ed8798aa3e8477690c38303da90747744c2262e297dbc1a2565b6a1958bc0",
+          "cached": false
+        },
+        "references/outreach-templates.md": {
+          "size": 8943,
+          "sha256": "c0c8ef8f8b4319da395d091a9af67d7f8957ed121cd933e35e0141cc1ba5b2b6",
+          "cached": false
+        },
+        "references/sequence-strategy.md": {
+          "size": 7109,
+          "sha256": "c3116d4b9ea032d97a1c2bce03e31cb613d3cf7e4bc801bcd476588774d2ebf5",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-10T18:14:04.376545+00:00"
+    },
+    "founder-skills-strategic-planning": {
+      "skill_id": "founder-skills-strategic-planning",
+      "repo": "ognjengt/founder-skills",
+      "path": "skills/strategic-planning",
+      "category": "portfolio_operations",
+      "source_label": "ognjengt/founder-skills",
+      "files": {
+        "SKILL.md": {
+          "size": 18335,
+          "sha256": "5499b9aa663641f06d37efb6723c546811e80994970781758521b48cf502dc7c",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-10T18:14:05.372187+00:00"
+    },
+    "lenny-plus-startup-pivoting": {
+      "skill_id": "lenny-plus-startup-pivoting",
+      "repo": "liqiongyu/lenny_skills_plus",
+      "path": "skills/startup-pivoting",
+      "category": "portfolio_operations",
+      "source_label": "liqiongyu/lenny_skills_plus",
+      "files": {
+        "SKILL.md": {
+          "size": 8140,
+          "sha256": "e7da8aebe11971c41f06839b486b1cca087d81222bed930af6a89e0e30974dc6",
+          "cached": false
+        },
+        "references/CHECKLISTS.md": {
+          "size": 1857,
+          "sha256": "b15204d28663a47d421b93d16ae9f1e74e30276238a91c99e40eb64f52aebc07",
+          "cached": false
+        },
+        "references/EXAMPLES.md": {
+          "size": 1078,
+          "sha256": "228a7bcb76e3b2dcf4d0df13781f96c9645322db3b3d751aec4d998bc06f3495",
+          "cached": false
+        },
+        "references/INTAKE.md": {
+          "size": 1759,
+          "sha256": "f90304a76bad64754c31fad97b9efb26ffa37682bc79230794276a847aa906ed",
+          "cached": false
+        },
+        "references/RUBRIC.md": {
+          "size": 1279,
+          "sha256": "498a242f31b72efc78a1d6b05f79c3311d49217b4381b728b623f3a0e1c25794",
+          "cached": false
+        },
+        "references/SOURCE_SUMMARY.md": {
+          "size": 1253,
+          "sha256": "16a8604b33424be0d0c51a00a4a5954596955acbf64e16d6251ae3562528d2f9",
+          "cached": false
+        },
+        "references/TEMPLATES.md": {
+          "size": 2563,
+          "sha256": "53bbc274ee13328eba998ea3c2e44eb19fbf418d78fc211bcfb501ed8c624b95",
+          "cached": false
+        },
+        "references/WORKFLOW.md": {
+          "size": 2970,
+          "sha256": "e2c85930477683879cd4a837ef324d47c42970af563d276cec9c663287c26c26",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-10T18:14:05.948069+00:00"
+    },
+    "lenny-plus-founder-sales": {
+      "skill_id": "lenny-plus-founder-sales",
+      "repo": "liqiongyu/lenny_skills_plus",
+      "path": "skills/founder-sales",
+      "category": "gtm_sales",
+      "source_label": "liqiongyu/lenny_skills_plus",
+      "files": {
+        "SKILL.md": {
+          "size": 8296,
+          "sha256": "1fa32cd93e030a2407308a3ffa83f2b562efefd499123830e524dd69a7842914",
+          "cached": false
+        },
+        "references/CHECKLISTS.md": {
+          "size": 2197,
+          "sha256": "8cb802ec058e3039cad057654763698c5f833789ddfeab89a23103fc7424f33a",
+          "cached": false
+        },
+        "references/EXAMPLES.md": {
+          "size": 1454,
+          "sha256": "049df5d640ab17520f7686efec8c4ffa8615c9121618db19b9293db46fe71603",
+          "cached": false
+        },
+        "references/INTAKE.md": {
+          "size": 2039,
+          "sha256": "130355ade3dc28dbb78902246e698eca3f55d3c639f065d8afb95619cd1f672c",
+          "cached": false
+        },
+        "references/RUBRIC.md": {
+          "size": 2162,
+          "sha256": "c66a299ca49b6ebb0e166dee894e3c3b815564f4d84fc36faf526b3279459996",
+          "cached": false
+        },
+        "references/SOURCE_SUMMARY.md": {
+          "size": 1848,
+          "sha256": "0837d390c1dd6d21775407c8bec9b28c3bea649e2b7805a5ae2aa081ab9fd942",
+          "cached": false
+        },
+        "references/TEMPLATES.md": {
+          "size": 6605,
+          "sha256": "84b69e5482068dd39a8ac7a9b4deb3bc80da983ab3794f111ff6260699a52146",
+          "cached": false
+        },
+        "references/WORKFLOW.md": {
+          "size": 3468,
+          "sha256": "7e429c27e4fb099f4f32b25faf5c5356db109c8b593ed59422f9553307c87768",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-10T18:14:07.617675+00:00"
+    },
+    "lenny-measuring-product-market-fit": {
+      "skill_id": "lenny-measuring-product-market-fit",
+      "repo": "RefoundAI/lenny-skills",
+      "path": "skills/measuring-product-market-fit",
+      "category": "due_diligence",
+      "source_label": "RefoundAI/lenny-skills",
+      "files": {
+        "SKILL.md": {
+          "size": 5509,
+          "sha256": "27e9eb992068c208ed8c6330843983ab489980e1ac25fc64d8ff11173343a356",
+          "cached": false
+        },
+        "references/guest-insights.md": {
+          "size": 43499,
+          "sha256": "a8836bbc61d43ed278b3a93bbb9ba95d5cc9e0b648b75120e77ab2792e167cd5",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-10T18:14:09.257219+00:00"
+    },
+    "lenny-startup-ideation": {
+      "skill_id": "lenny-startup-ideation",
+      "repo": "RefoundAI/lenny-skills",
+      "path": "skills/startup-ideation",
+      "category": "investment_analysis",
+      "source_label": "RefoundAI/lenny-skills",
+      "files": {
+        "SKILL.md": {
+          "size": 3012,
+          "sha256": "9dedec353e8f64c0a8b7ba9e16c4f646c47503896c49b432c67af731b1b01966",
+          "cached": false
+        },
+        "references/guest-insights.md": {
+          "size": 720,
+          "sha256": "13adb125a8f9274b4474977fbca7557efcaeca0ca15c194af64745b7aba8de8e",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-10T18:39:31.364087+00:00"
+    },
+    "vasilyu-startup-idea-validation": {
+      "skill_id": "vasilyu-startup-idea-validation",
+      "repo": "vasilyu1983/AI-Agents-public",
+      "path": "frameworks/shared-skills/skills/startup-idea-validation",
+      "category": "due_diligence",
+      "source_label": "vasilyu1983/AI-Agents-public",
+      "files": {
+        "SKILL.md": {
+          "size": 7550,
+          "sha256": "a8b81cb3a9a0d9008f783be2705163ac0d6ee8ad78ecca68223b090d7470a930",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-10T18:39:48.721975+00:00"
+    },
+    "vasilyu-startup-business-models": {
+      "skill_id": "vasilyu-startup-business-models",
+      "repo": "vasilyu1983/AI-Agents-public",
+      "path": "frameworks/shared-skills/skills/startup-business-models",
+      "category": "portfolio_operations",
+      "source_label": "vasilyu1983/AI-Agents-public",
+      "files": {
+        "SKILL.md": {
+          "size": 7180,
+          "sha256": "5457890151ef84d7f182c250d29d5083548bab40d3df1cc53e4ebf85f24a3ed0",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-10T18:39:56.933643+00:00"
+    },
+    "vasilyu-startup-competitive-analysis": {
+      "skill_id": "vasilyu-startup-competitive-analysis",
+      "repo": "vasilyu1983/AI-Agents-public",
+      "path": "frameworks/shared-skills/skills/startup-competitive-analysis",
+      "category": "market_research",
+      "source_label": "vasilyu1983/AI-Agents-public",
+      "files": {
+        "SKILL.md": {
+          "size": 4886,
+          "sha256": "66ab2173aed0f9eb08cba4be8fd3163d4b2c21eb0268aa610775b51423dab22f",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-10T18:39:59.064792+00:00"
+    },
+    "ailabs-startup-validator": {
+      "skill_id": "ailabs-startup-validator",
+      "repo": "ailabs-393/ai-labs-claude-skills",
+      "path": "dist/skills/startup-validator",
+      "category": "due_diligence",
+      "source_label": "ailabs-393/ai-labs-claude-skills",
+      "files": {
+        "SKILL.md": {
+          "size": 11024,
+          "sha256": "6ae854a0f595526caa0dc07452d5f1558e0a9e8e0a046433c0a4a8fe27bd0432",
+          "cached": false
+        },
+        "references/frameworks.md": {
+          "size": 3893,
+          "sha256": "21c60cc6a7f7dfe7e334e3344a13e1e2e09ce203f0f028f9c1832af82d48d2c5",
+          "cached": false
+        },
+        "references/research_templates.md": {
+          "size": 4719,
+          "sha256": "fa4396b006480966cf8a5daa0600403a11ff04cc21b8bf716b0466a047b17f30",
+          "cached": false
+        },
+        "scripts/market_analyzer.py": {
+          "size": 9959,
+          "sha256": "b38ceb846f477b9d2d2bdf810adda34fe089cb2308043a56eec2a9776e595de1",
+          "cached": false
+        }
+      },
+      "status": "downloaded",
+      "timestamp": "2026-02-10T18:40:02.174010+00:00"
+    }
+  },
+  "stubs": {
+    "anthropic-fs-3-statement-modeling": {
+      "status": "unavailable",
+      "name": "3-Statement Financial Modeling",
+      "category": "financial_modeling",
+      "timestamp": "2026-02-10T18:40:03.485884+00:00"
+    },
+    "anthropic-fs-comps-analysis": {
+      "status": "unavailable",
+      "name": "Comps Analysis",
+      "category": "financial_modeling",
+      "timestamp": "2026-02-10T18:40:03.488897+00:00"
+    },
+    "anthropic-fs-competitive-landscape": {
+      "status": "unavailable",
+      "name": "Competitive Landscape Analysis",
+      "category": "market_research",
+      "timestamp": "2026-02-10T18:40:03.489552+00:00"
+    },
+    "anthropic-fs-dcf-modeling": {
+      "status": "unavailable",
+      "name": "DCF Modeling",
+      "category": "financial_modeling",
+      "timestamp": "2026-02-10T18:40:03.489709+00:00"
+    },
+    "anthropic-fs-dd-data-pack": {
+      "status": "unavailable",
+      "name": "Due Diligence Data Pack",
+      "category": "due_diligence",
+      "timestamp": "2026-02-10T18:40:03.490474+00:00"
+    },
+    "anthropic-fs-earnings-analysis": {
+      "status": "unavailable",
+      "name": "Earnings Analysis",
+      "category": "investment_analysis",
+      "timestamp": "2026-02-10T18:40:03.490796+00:00"
+    },
+    "anthropic-fs-initiating-coverage": {
+      "status": "unavailable",
+      "name": "Initiating Coverage Research",
+      "category": "investment_analysis",
+      "timestamp": "2026-02-10T18:40:03.491012+00:00"
+    },
+    "anthropic-fs-ib-pitch-deck": {
+      "status": "unavailable",
+      "name": "Investment Banking Pitch Deck",
+      "category": "investor_relations",
+      "timestamp": "2026-02-10T18:40:03.491133+00:00"
+    },
+    "anthropic-fs-presentation-checker": {
+      "status": "unavailable",
+      "name": "Presentation Quality Checker",
+      "category": "communications",
+      "timestamp": "2026-02-10T18:40:03.491225+00:00"
+    },
+    "anthropic-fs-company-profile": {
+      "status": "unavailable",
+      "name": "Company Profile/Strip Creator",
+      "category": "investment_analysis",
+      "timestamp": "2026-02-10T18:40:03.491317+00:00"
+    },
+    "anthropic-fs-creating-financial-models": {
+      "status": "unavailable",
+      "name": "Creating Financial Models",
+      "category": "financial_modeling",
+      "timestamp": "2026-02-10T18:40:03.492132+00:00"
+    }
+  },
+  "generated": "2026-02-10T18:40:03.492253+00:00",
+  "api_calls": 2,
+  "api_remaining": "44"
 }
