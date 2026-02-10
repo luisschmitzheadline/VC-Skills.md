@@ -613,7 +613,7 @@ REGISTRY = {
         "path": ".claude/skills/founder-coach",
         "files": ["SKILL.md"],
         "dirs": [],
-        "category": "portfolio_operations",
+        "category": "founder_toolkit",
         "source_label": "acossta/chief-of-staff-oss",
     },
     "skillsmp-fundraising": {
@@ -669,7 +669,7 @@ REGISTRY = {
         "path": "frameworks/shared-skills/skills/startup-go-to-market",
         "files": ["SKILL.md"],
         "dirs": [],
-        "category": "gtm_sales",
+        "category": "founder_toolkit",
         "source_label": "vasilyu1983/AI-Agents-public",
     },
     "skillsmp-willingness-to-pay": {
@@ -685,7 +685,7 @@ REGISTRY = {
         "path": ".claude/skills/lean-startup",
         "files": ["SKILL.md"],
         "dirs": [],
-        "category": "portfolio_operations",
+        "category": "founder_toolkit",
         "source_label": "rwHiveAqua/_idea_spinner",
     },
 
@@ -743,7 +743,7 @@ REGISTRY = {
         "path": "system-skills/sales-skills/founder-sales",
         "files": ["SKILL.md"],
         "dirs": [],
-        "category": "gtm_sales",
+        "category": "founder_toolkit",
         "source_label": "oldwinter/skills",
     },
 
@@ -789,7 +789,7 @@ REGISTRY = {
         "path": "skills/market-product-strategy/go-to-market-planner",
         "files": ["SKILL.md"],
         "dirs": [],
-        "category": "gtm_sales",
+        "category": "founder_toolkit",
         "source_label": "maigentic/stratarts",
     },
     "stratarts-pricing-strategy-architect": {
@@ -797,7 +797,7 @@ REGISTRY = {
         "path": "skills/market-product-strategy/pricing-strategy-architect",
         "files": ["SKILL.md"],
         "dirs": [],
-        "category": "portfolio_operations",
+        "category": "founder_toolkit",
         "source_label": "maigentic/stratarts",
     },
 
@@ -807,7 +807,7 @@ REGISTRY = {
         "path": "skills/marketing-growth/growth-hacking-playbook",
         "files": ["SKILL.md"],
         "dirs": [],
-        "category": "gtm_sales",
+        "category": "founder_toolkit",
         "source_label": "maigentic/stratarts",
     },
 
@@ -817,7 +817,7 @@ REGISTRY = {
         "path": "skills/foundation-strategy/customer-persona-builder",
         "files": ["SKILL.md"],
         "dirs": [],
-        "category": "market_research",
+        "category": "founder_toolkit",
         "source_label": "maigentic/stratarts",
     },
     "stratarts-competitive-intelligence": {
@@ -835,7 +835,7 @@ REGISTRY = {
         "path": "skills/competitor-intel",
         "files": ["SKILL.md"],
         "dirs": ["references"],
-        "category": "market_research",
+        "category": "founder_toolkit",
         "source_label": "ognjengt/founder-skills",
     },
     "founder-skills-pricing-strategist": {
@@ -843,7 +843,7 @@ REGISTRY = {
         "path": "skills/pricing-strategist",
         "files": ["SKILL.md"],
         "dirs": ["references"],
-        "category": "portfolio_operations",
+        "category": "founder_toolkit",
         "source_label": "ognjengt/founder-skills",
     },
     "founder-skills-go-to-market-plan": {
@@ -851,7 +851,7 @@ REGISTRY = {
         "path": "skills/go-to-market-plan",
         "files": ["SKILL.md"],
         "dirs": ["references"],
-        "category": "gtm_sales",
+        "category": "founder_toolkit",
         "source_label": "ognjengt/founder-skills",
     },
     "founder-skills-outreach-specialist": {
@@ -859,7 +859,7 @@ REGISTRY = {
         "path": "skills/outreach-specialist",
         "files": ["SKILL.md"],
         "dirs": ["references"],
-        "category": "gtm_sales",
+        "category": "founder_toolkit",
         "source_label": "ognjengt/founder-skills",
     },
     "founder-skills-strategic-planning": {
@@ -867,7 +867,7 @@ REGISTRY = {
         "path": "skills/strategic-planning",
         "files": ["SKILL.md"],
         "dirs": ["references"],
-        "category": "portfolio_operations",
+        "category": "founder_toolkit",
         "source_label": "ognjengt/founder-skills",
     },
 
@@ -877,7 +877,7 @@ REGISTRY = {
         "path": "skills/startup-pivoting",
         "files": ["SKILL.md"],
         "dirs": ["references"],
-        "category": "portfolio_operations",
+        "category": "founder_toolkit",
         "source_label": "liqiongyu/lenny_skills_plus",
     },
     "lenny-plus-founder-sales": {
@@ -885,7 +885,7 @@ REGISTRY = {
         "path": "skills/founder-sales",
         "files": ["SKILL.md"],
         "dirs": ["references"],
-        "category": "gtm_sales",
+        "category": "founder_toolkit",
         "source_label": "liqiongyu/lenny_skills_plus",
     },
 
@@ -905,7 +905,7 @@ REGISTRY = {
         "path": "design-business-model",
         "files": ["SKILL.md"],
         "dirs": [],
-        "category": "portfolio_operations",
+        "category": "founder_toolkit",
         "source_label": "ThepExcel/agent-skills",
     },
 
@@ -923,7 +923,7 @@ REGISTRY = {
         "path": "frameworks/shared-skills/skills/startup-business-models",
         "files": ["SKILL.md"],
         "dirs": ["assets", "references", "data"],
-        "category": "portfolio_operations",
+        "category": "founder_toolkit",
         "source_label": "vasilyu1983/AI-Agents-public",
     },
     "vasilyu-startup-competitive-analysis": {

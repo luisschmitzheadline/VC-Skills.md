@@ -9251,7 +9251,7 @@
       "notes": "5.0KB. Draws from Trillion Dollar Coach, Reboot, Mochary method. Fills unique gap in portfolio operations.",
       "vc_relevance": 4,
       "requires_integration": false,
-      "knowledge_category": "portfolio_operations",
+      "knowledge_category": "founder_toolkit",
       "download_status": "downloaded"
     },
     {
@@ -9464,7 +9464,7 @@
       "notes": "9.8KB. Best-in-class startup GTM with ACV-based motion selection and stage-based channel sequencing. Modern (Jan 2026).",
       "vc_relevance": 4,
       "requires_integration": false,
-      "knowledge_category": "gtm_sales",
+      "knowledge_category": "founder_toolkit",
       "download_status": "downloaded"
     },
     {
@@ -9522,7 +9522,7 @@
       "notes": "19.1KB. Comprehensive Lean Startup reference. 10 pivot types and Three Engines of Growth particularly useful for portfolio advising.",
       "vc_relevance": 3,
       "requires_integration": false,
-      "knowledge_category": "portfolio_operations",
+      "knowledge_category": "founder_toolkit",
       "download_status": "downloaded"
     },
     {
@@ -9731,7 +9731,7 @@
       "notes": "8.2KB. Diagnostic discovery methodology and decision enablement framework useful for VCs helping early-stage portfolio companies build first sales motion.",
       "vc_relevance": 3,
       "requires_integration": false,
-      "knowledge_category": "gtm_sales",
+      "knowledge_category": "founder_toolkit",
       "download_status": "downloaded"
     },
     {
@@ -9816,7 +9816,7 @@
       "notes": "21KB total (8KB SKILL.md + 13KB references). Fills a zero-coverage gap - no other pivot assessment skill in the database. Directly applicable when advising stuck portfolio companies.",
       "vc_relevance": 5,
       "requires_integration": false,
-      "knowledge_category": "portfolio_operations",
+      "knowledge_category": "founder_toolkit",
       "download_status": "downloaded"
     },
     {
@@ -9846,7 +9846,7 @@
       "notes": "7KB. Fills zero-coverage gap for structured business model frameworks. Useful for DD (evaluating business models) and portfolio support (helping founders iterate on models).",
       "vc_relevance": 4,
       "requires_integration": false,
-      "knowledge_category": "portfolio_operations",
+      "knowledge_category": "founder_toolkit",
       "download_status": "downloaded"
     },
     {
@@ -9875,7 +9875,7 @@
       "notes": "48KB. Fills zero-coverage gap for systematic growth experimentation frameworks. Directly applicable to portfolio growth advising with structured ICE scoring and growth loop design.",
       "vc_relevance": 4,
       "requires_integration": false,
-      "knowledge_category": "gtm_sales",
+      "knowledge_category": "founder_toolkit",
       "download_status": "downloaded"
     },
     {
@@ -9905,7 +9905,7 @@
       "notes": "35KB. Fills zero-coverage gap for dedicated persona/ICP development. Useful for DD (validating ICP clarity) and portfolio ops (helping founders define target customers).",
       "vc_relevance": 4,
       "requires_integration": false,
-      "knowledge_category": "market_research",
+      "knowledge_category": "founder_toolkit",
       "download_status": "downloaded"
     },
     {
@@ -9965,7 +9965,7 @@
       "notes": "43KB. Deep pricing methodology. Complements skill-090 (thin pricing strategy) and skill-357 (WTP discovery) with structured Van Westendorp analysis and tier design framework.",
       "vc_relevance": 4,
       "requires_integration": false,
-      "knowledge_category": "portfolio_operations",
+      "knowledge_category": "founder_toolkit",
       "download_status": "downloaded"
     },
     {
@@ -10084,7 +10084,7 @@
       "notes": "10KB. Tactical 90-day GTM framework. Complements skill-356 (startup GTM) and skill-280 (GTM strategy) with weekly milestone structure.",
       "vc_relevance": 3,
       "requires_integration": false,
-      "knowledge_category": "gtm_sales",
+      "knowledge_category": "founder_toolkit",
       "download_status": "downloaded"
     },
     {
@@ -10114,7 +10114,7 @@
       "notes": "10KB. Unique web-research approach to competitive intelligence. Complements skill-334 (88KB B2B playbook) with practical tool-by-tool research methodology.",
       "vc_relevance": 4,
       "requires_integration": false,
-      "knowledge_category": "market_research",
+      "knowledge_category": "founder_toolkit",
       "download_status": "downloaded"
     },
     {
@@ -10143,7 +10143,7 @@
       "notes": "28KB total (8KB SKILL.md + 20KB references). More structured than skill-365 (oldwinter founder sales) with diagnostic discovery methodology and 7 reference files.",
       "vc_relevance": 4,
       "requires_integration": false,
-      "knowledge_category": "gtm_sales",
+      "knowledge_category": "founder_toolkit",
       "download_status": "downloaded"
     },
     {
@@ -10201,7 +10201,7 @@
       "notes": "18KB. Conversational strategic planning with bottleneck diagnosis. Useful for portfolio company strategy sessions.",
       "vc_relevance": 3,
       "requires_integration": false,
-      "knowledge_category": "portfolio_operations",
+      "knowledge_category": "founder_toolkit",
       "download_status": "downloaded"
     },
     {
@@ -10229,7 +10229,7 @@
       "notes": "22KB. Conversational GTM planning with readiness diagnosis. Overlaps with skill-356 and skill-377 but has unique diagnostic questioning approach.",
       "vc_relevance": 3,
       "requires_integration": false,
-      "knowledge_category": "gtm_sales",
+      "knowledge_category": "founder_toolkit",
       "download_status": "downloaded"
     },
     {
@@ -10257,7 +10257,7 @@
       "notes": "9KB. Conversational pricing strategy with auto-detection. Complements skill-373 (Van Westendorp/analytical) with interactive founder-focused approach.",
       "vc_relevance": 3,
       "requires_integration": false,
-      "knowledge_category": "portfolio_operations",
+      "knowledge_category": "founder_toolkit",
       "download_status": "downloaded"
     },
     {
@@ -10286,7 +10286,7 @@
       "notes": "29KB total (13KB SKILL.md + 16KB references). Includes outreach-templates.md and sequence-strategy.md references. Overlaps with skill-207 (draft outreach) but has richer reference content.",
       "vc_relevance": 3,
       "requires_integration": false,
-      "knowledge_category": "gtm_sales",
+      "knowledge_category": "founder_toolkit",
       "download_status": "downloaded"
     },
     {
@@ -10376,7 +10376,7 @@
       "notes": "7.2KB. Complements thepexcel-design-business-model (Canvas-based) with deeper unit economics and pricing frameworks.",
       "vc_relevance": 5,
       "requires_integration": false,
-      "knowledge_category": "portfolio_operations",
+      "knowledge_category": "founder_toolkit",
       "download_status": "downloaded"
     },
     {

@@ -47,7 +47,7 @@ def validate_data(data):
     valid_categories = {
         None, 'investment_analysis', 'financial_modeling', 'market_research',
         'due_diligence', 'portfolio_operations', 'investor_relations',
-        'gtm_sales', 'communications', 'sentiment_signals'
+        'gtm_sales', 'communications', 'sentiment_signals', 'founder_toolkit'
     }
     valid_download = {None, 'downloaded', 'unavailable'}
 
