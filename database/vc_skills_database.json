@@ -10,7 +10,8 @@
       "portfolio_support",
       "fund_operations",
       "data_infrastructure",
-      "automation"
+      "automation",
+      "founder_support"
     ],
     "last_updated": "2026-02-10"
   },
@@ -9232,7 +9233,7 @@
       "source_type": "github",
       "description": "Executive coaching methodology from Bill Campbell, Jerry Colonna, Marshall Goldsmith, Ben Horowitz, Fred Kofman, Matt Mochary. Coaching session structure, situation-specific question banks, proactive coaching detection (circular thinking, avoidance signals).",
       "vc_workflows": [
-        "portfolio_support"
+        "founder_support"
       ],
       "vc_tasks": [
         "portfolio_advisory",
@@ -9262,7 +9263,7 @@
       "description": "End-to-end fundraising workflow: Raise Decision Memo, Round Design Brief, Pitch Narrative + Deck Outline, Investor ICP + Pipeline Tracker, Outreach + Follow-up Scripts, Diligence Prep, Quality Gate.",
       "vc_workflows": [
         "portfolio_support",
-        "investor_relations"
+        "fund_operations"
       ],
       "vc_tasks": [
         "portfolio_advisory",
@@ -9445,7 +9446,7 @@
       "description": "Startup GTM evaluation: motion types (PLG/Hybrid/Sales-Led/Community-Led/Partner-Led) with ACV-based decision tree, ICP scoring, channel strategy by stage (pre-PMF through scale), PQL scoring, growth loops taxonomy, RevOps alignment.",
       "vc_workflows": [
         "due_diligence",
-        "portfolio_support"
+        "founder_support"
       ],
       "vc_tasks": [
         "competitive_analysis",
@@ -9502,7 +9503,7 @@
       "source_type": "github",
       "description": "Eric Ries Lean Startup methodology: Build-Measure-Learn cycles, MVP types (Concierge, Wizard of Oz, Landing Page, Single-Feature, Piecemeal), Innovation Accounting, 10 pivot types, Three Engines of Growth, actionable vs. vanity metrics.",
       "vc_workflows": [
-        "portfolio_support",
+        "founder_support",
         "due_diligence"
       ],
       "vc_tasks": [
@@ -9713,7 +9714,7 @@
       "source_type": "github",
       "description": "Founder Sales Sprint Pack: ICP wedge, outreach sequences, diagnostic discovery scripts, decision enablement assets ('no decision' as #1 competitor), white-glove activation plans. 7-step workflow with quality gates.",
       "vc_workflows": [
-        "portfolio_support"
+        "founder_support"
       ],
       "vc_tasks": [
         "portfolio_advisory"
@@ -9798,7 +9799,7 @@
       "source_type": "github",
       "description": "Pivot Decision & Execution Pack: diagnosis framework, exhaustion check (Butterfield rule), pivot options map (4P grid, 10% vs 200% pivots), pivot thesis with kill criteria, validation plan, execution plan. 8 deliverables with reference checklists, templates, and rubrics.",
       "vc_workflows": [
-        "portfolio_support"
+        "founder_support"
       ],
       "vc_tasks": [
         "portfolio_advisory"
@@ -9826,7 +9827,7 @@
       "source_type": "github",
       "description": "Business model design and validation using Business Model Canvas, Lean Canvas, and Value Proposition Canvas. Framework selection guide, ASCII canvas visualizations, integration with deep-research and manage-business-strategy skills.",
       "vc_workflows": [
-        "portfolio_support",
+        "founder_support",
         "due_diligence"
       ],
       "vc_tasks": [
@@ -9856,7 +9857,7 @@
       "source_type": "github",
       "description": "Growth experimentation framework: growth loops, AARRR pirate metrics, Bullseye channel prioritization, viral K-factor mechanics, ICE experiment scoring, 90-day experimentation roadmap. Generates HTML reports with 4 Chart.js visualizations.",
       "vc_workflows": [
-        "portfolio_support"
+        "founder_support"
       ],
       "vc_tasks": [
         "portfolio_advisory"
@@ -9885,7 +9886,7 @@
       "source_type": "github",
       "description": "JTBD-based persona development with priority matrix, buying journey mapping, decision criteria analysis. Generates HTML persona cards with behavioral data. Saves output to .strategy/ directory for cross-skill integration.",
       "vc_workflows": [
-        "portfolio_support",
+        "founder_support",
         "due_diligence"
       ],
       "vc_tasks": [
@@ -9916,7 +9917,7 @@
       "description": "Creates investor one-pagers and email briefs with cold email templates, distribution strategy, traction cards, and team cards. Detects and integrates with pitch deck and metrics dashboard outputs from sibling skills.",
       "vc_workflows": [
         "portfolio_support",
-        "investor_relations"
+        "fund_operations"
       ],
       "vc_tasks": [
         "portfolio_advisory",
@@ -9945,7 +9946,7 @@
       "source_type": "github",
       "description": "Value-based pricing methodology: Van Westendorp Price Sensitivity Meter, Good-Better-Best tier design, competitive positioning matrix, price elasticity analysis. Generates HTML pricing reports with interactive components.",
       "vc_workflows": [
-        "portfolio_support",
+        "founder_support",
         "due_diligence"
       ],
       "vc_tasks": [
@@ -10007,7 +10008,7 @@
       "description": "Comprehensive fundraising playbook: timeline planning, investor targeting and funnel, outreach cadence, term sheet negotiation framework, closing process. Generates HTML reports. Integrates with pitch deck, financial model, and investor brief skills.",
       "vc_workflows": [
         "portfolio_support",
-        "investor_relations"
+        "fund_operations"
       ],
       "vc_tasks": [
         "portfolio_advisory",
@@ -10066,7 +10067,7 @@
       "source_type": "github",
       "description": "90-day GTM strategy generator: channel mix design, budget allocation, growth targets, weekly milestones, verification checklists. HTML skeleton templates with structured output format.",
       "vc_workflows": [
-        "portfolio_support"
+        "founder_support"
       ],
       "vc_tasks": [
         "portfolio_advisory"
@@ -10095,7 +10096,7 @@
       "description": "Web-research-based competitive intelligence: Crunchbase, LinkedIn, SimilarWeb, GitHub, Meta Ads Library research. Produces verified metrics, leverage strategies, and predicted competitor next moves. Reads FOUNDER_CONTEXT.md for personalization.",
       "vc_workflows": [
         "due_diligence",
-        "portfolio_support"
+        "founder_support"
       ],
       "vc_tasks": [
         "competitive_analysis",
@@ -10124,7 +10125,7 @@
       "source_type": "github",
       "description": "Founder Sales Sprint Pack: ICP wedge and targeting, outreach sequences, diagnostic discovery script ('no demo first'), decision enablement to beat 'no decision', white-glove activation plan. 9 deliverables with checklists, rubrics, and templates.",
       "vc_workflows": [
-        "portfolio_support"
+        "founder_support"
       ],
       "vc_tasks": [
         "portfolio_advisory"
@@ -10154,7 +10155,7 @@
       "description": "10-15 slide investor pitch deck builder with slide previews, competitor matrix, financial projections, use-of-funds breakdown. Integrates with 8 upstream stratarts skills for context-aware deck generation.",
       "vc_workflows": [
         "portfolio_support",
-        "investor_relations"
+        "fund_operations"
       ],
       "vc_tasks": [
         "portfolio_advisory",
@@ -10183,7 +10184,7 @@
       "source_type": "github",
       "description": "Delivers 3 highest-impact next moves for marketing/sales growth. Diagnoses bottlenecks through up to 10 questions, performs gap analysis and leverage point identification. Reads FOUNDER_CONTEXT.md for personalization.",
       "vc_workflows": [
-        "portfolio_support"
+        "founder_support"
       ],
       "vc_tasks": [
         "portfolio_advisory"
@@ -10211,7 +10212,7 @@
       "source_type": "github",
       "description": "Delivers 3 tailored GTM strategies. Diagnoses GTM readiness via 3-10 questions, analyzes product-market fit status, market entry point, and competitive positioning. Interactive, founder-context-aware.",
       "vc_workflows": [
-        "portfolio_support"
+        "founder_support"
       ],
       "vc_tasks": [
         "portfolio_advisory"
@@ -10239,7 +10240,7 @@
       "source_type": "github",
       "description": "Interactive pricing strategy builder. Reads FOUNDER_CONTEXT.md, asks up to 7 diagnostic questions, auto-selects strategy type (SaaS Tiered, Consumer Tiered, Usage Tiers, etc.), builds justified tier structures with competitive positioning.",
       "vc_workflows": [
-        "portfolio_support"
+        "founder_support"
       ],
       "vc_tasks": [
         "portfolio_advisory"
@@ -10267,7 +10268,7 @@
       "source_type": "github",
       "description": "Crafts personalized outreach sequences (3 messages default) for cold email, LinkedIn DMs, and follow-ups. Includes reference templates and sequence strategy files. Reads FOUNDER_CONTEXT.md for personalization.",
       "vc_workflows": [
-        "portfolio_support"
+        "founder_support"
       ],
       "vc_tasks": [
         "portfolio_advisory"
@@ -10357,7 +10358,7 @@
       "description": "Revenue model classification (subscription, usage-based, freemium, marketplace), segment-level unit economics snapshots, SaaS benchmarks (LTV:CAC 3-5x, payback 6-18mo, gross margins >70%), pricing change testing methodology. Covers AI/infrastructure COGS pitfalls.",
       "vc_workflows": [
         "due_diligence",
-        "portfolio_support"
+        "founder_support"
       ],
       "vc_tasks": [
         "financial_analysis",
