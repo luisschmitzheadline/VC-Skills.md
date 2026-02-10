@@ -2,7 +2,7 @@
 
 Skills for supporting existing portfolio companies including KPI tracking, board materials, and competitor monitoring.
 
-**Total Skills:** 147
+**Total Skills:** 137
 
 ---
 
@@ -22,8 +22,6 @@ Skills for supporting existing portfolio companies including KPI tracking, board
 | Name | Description | Tasks | Official |
 |------|-------------|-------|----------|
 | AI Product Skill | AI product development patterns, anti-patterns, sharp edges. Critical for evalua... | technical_dd, strategic_research | No |
-| AlphaEar Sentiment Analysis Skill | Analyze finance text sentiment using FinBERT or LLM. Determines sentiment (posit... | trend_analysis, competitive_analysis | No |
-| AlphaEar Signal Tracker Skill | Track finance investment signal evolution and update logic based on new market i... | signal_generation, trend_analysis | No |
 | Audit Support Skill | SOX 404 compliance, control testing, sample selection, audit documentation frame... | financial_analysis, document_review | Yes |
 | Board Prep Skill | Prepare board meeting materials including agenda, metrics dashboards, strategic ... | board_materials, strategic_research | No |
 | Business Analyst Skill | Modern business analysis with AI-powered analytics, real-time dashboards, and da... | kpi_tracking, strategic_research | No |
@@ -32,13 +30,9 @@ Skills for supporting existing portfolio companies including KPI tracking, board
 | Canned Responses Skill | Template management for legal teams. Structured response templates for common le... | legal_research | Yes |
 | Churn Prediction Skill | Analyze customer churn patterns with risk scoring, early warning indicators, and... | kpi_tracking, strategic_research | No |
 | Claude D3.js Skill | Data visualizations using D3.js for interactive charts and graphs. | kpi_tracking, lp_reporting | No |
-| Close Management Skill | Month-end close management T+0 to T+5, dependency maps, accelerated 3-day close ... | kpi_tracking, financial_analysis | Yes |
 | Company Narrative Skill | Craft compelling company narratives and positioning statements that resonate wit... | lp_communication, fundraising_support | No |
-| Competitive Analysis Skill (Marketing) | Messaging comparison, content gap analysis, positioning strategy, battlecard cre... | competitive_analysis, strategic_research | Yes |
 | Competitive Analysis Skill (PM) | Landscape mapping, feature matrices, win/loss methodology, market trend signal-v... | competitive_analysis, market_sizing | Yes |
 | Competitive Intelligence & Market Research Skill | Massive B2B SaaS CI playbook: 24 scenarios, 4 verticals, 3 stages, battle cards,... | competitive_analysis, market_sizing, thematic_research | No |
-| Competitive Intelligence Skill (Sales) | Interactive HTML battlecards, YAML competitor data model, refresh cadence framew... | competitive_analysis, strategic_research | Yes |
-| Content Creation Skill | Create VC-focused content including thought leadership pieces, market analyses, ... | document_generation | No |
 | Copywriting Skill | Professional copywriting for marketing materials and communications. | lp_communication, fundraising_support | No |
 | Customer Acquisition Agent | CAC optimization, funnel analysis, multi-channel attribution, customer acquisiti... | strategic_research, kpi_tracking | No |
 | Dashboard Creator Skill | Creates professional HTML dashboards with KPI cards, bar/pie/line charts, progre... | kpi_tracking, lp_reporting | No |
@@ -57,7 +51,6 @@ Skills for supporting existing portfolio companies including KPI tracking, board
 | Health Scoring Skill | Build customer health scoring models with usage metrics, engagement signals, and... | kpi_tracking | No |
 | Hiring Skill | Support startup hiring with job description creation, interview frameworks, comp... | strategic_research | No |
 | Investor Updates Skill | Create structured investor update emails with metrics, milestones, asks, and str... | lp_communication, lp_reporting | No |
-| Journal Entry Prep Skill | Accrual types (ASC 606), journal entry documentation, approval workflows. Founda... | financial_analysis | Yes |
 | KPI Dashboard Design Skill | SaaS metrics dashboards, SQL for KPI calculations, Streamlit code templates. Pra... | kpi_tracking | No |
 | Launch Strategy Skill | ORB Framework for product launches, phased launch planning, Product Hunt strateg... | strategic_research | No |
 | Market Environment Analysis Skill | Comprehensive market environment analysis covering US, European, Asian markets, ... | trend_analysis, market_sizing | No |
@@ -68,7 +61,6 @@ Skills for supporting existing portfolio companies including KPI tracking, board
 | Octagon Earnings Capital Allocation Skill | Extract management's commentary on capital allocation, investment priorities, sh... | financial_analysis, management_research | Yes |
 | PPTX Skill | Presentation creation, editing, and analysis for PowerPoint files. | lp_reporting, board_materials, fundraising_support | Yes |
 | Partnership Strategist Agent | Partner ecosystems, revenue sharing, enablement programs for growth and portfoli... | strategic_research | No |
-| Pipeline Review Skill | Analyze and review sales pipelines with deal health scoring, risk identification... | kpi_tracking, financial_analysis | No |
 | Plan Creation Skill | Create strategic business plans including go-to-market plans, hiring plans, prod... | strategic_research, fundraising_support | No |
 | Pricing Strategy Skill | Developing pricing models and strategies for products and services. | strategic_research | No |
 | Product Competitive Analysis Skill | Conduct product-level competitive analysis with feature matrices, UX comparison,... | competitive_analysis, strategic_research | No |
@@ -76,7 +68,6 @@ Skills for supporting existing portfolio companies including KPI tracking, board
 | Product Marketing Skill | Develop product marketing strategies with positioning, messaging frameworks, lau... | strategic_research | No |
 | Product Metrics Tracking Skill | Track and analyze product metrics including engagement, retention, feature adopt... | kpi_tracking | No |
 | Progress Reporting Skill | Structure project, sprint, or initiative progress reports. What to include (ship... | kpi_tracking, lp_reporting | No |
-| Quant Analyst Skill | Build financial models, backtest trading strategies, and analyze market data. Im... | financial_analysis, trend_analysis | No |
 | Quarterly Business Review Skill | Prepare quarterly business reviews with performance metrics, strategic recommend... | kpi_tracking, board_materials | No |
 | ROI Calculator Skill | Build ROI and business case calculators with value quantification, payback perio... | financial_analysis | No |
 | ROI Tracking Framework Skill | Comprehensive ROI measurement and business impact analysis for development and a... | kpi_tracking | No |
@@ -87,7 +78,6 @@ Skills for supporting existing portfolio companies including KPI tracking, board
 | Sales Forecast Skill | Build sales forecasts with pipeline analysis, conversion rate modeling, and reve... | financial_analysis, kpi_tracking | No |
 | Sales Playbook Skill | Create structured sales playbooks with qualification criteria, objection handlin... | strategic_research | No |
 | Stakeholder Comms Skill | Manage communications with all stakeholders including investors, board members, ... | lp_communication, board_materials | No |
-| Startup Metrics Framework Skill | SaaS and startup metrics tracking framework. Thin wrapper referencing external p... | financial_analysis, kpi_tracking | No |
 | Stock Info Explorer Skill | Yahoo Finance powered financial analysis with real-time quotes, high-resolution ... | financial_analysis, trend_analysis | No |
 | Stripe Best Practices Skill | Best practices for building Stripe integrations for payments. | technical_dd | Yes |
 | Timeline Creator Skill | Creates HTML timelines and project roadmaps with Gantt charts, milestone trackin... | kpi_tracking, board_materials | No |

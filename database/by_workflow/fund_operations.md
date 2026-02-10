@@ -2,7 +2,7 @@
 
 Skills for managing the fund including LP reporting, document generation, and investor relations.
 
-**Total Skills:** 54
+**Total Skills:** 51
 
 ---
 
@@ -26,7 +26,6 @@ Skills for managing the fund including LP reporting, document generation, and in
 | Claude D3.js Skill | Data visualizations using D3.js for interactive charts and graphs. | kpi_tracking, lp_reporting | No |
 | Company Narrative Skill | Craft compelling company narratives and positioning statements that resonate wit... | lp_communication, fundraising_support | No |
 | Company Profile/Strip Creator Skill | Creates concise 1-2 page company summaries for pitch books and buyer lists with ... | document_generation, company_identification | Yes |
-| Content Creation Skill | Create VC-focused content including thought leadership pieces, market analyses, ... | document_generation | No |
 | Contract Review Skill (Anthropic) | Playbook-based clause analysis with GREEN/YELLOW/RED severity classification and... | legal_research, document_review | Yes |
 | Contract Review Skill (CUAD) | CUAD dataset grounded (41 risk categories, 510 real contracts). Party-position-a... | legal_research, document_review | No |
 | Copywriting Skill | Professional copywriting for marketing materials and communications. | lp_communication, fundraising_support | No |
@@ -34,8 +33,6 @@ Skills for managing the fund including LP reporting, document generation, and in
 | Dashboard Creator Skill | Creates professional HTML dashboards with KPI cards, bar/pie/line charts, progre... | kpi_tracking, lp_reporting | No |
 | Data Storytelling Skill | Data narrative construction, visualization best practices, chart selection metho... | board_materials, lp_reporting | No |
 | Draft Outreach GTM Skill | Research a prospect then draft personalized outreach. Uses web research, data en... | lead_generation, lp_prospecting | No |
-| GTD Call Prep & Research Skill | Get Things Done workflows for VC operations including call preparation, outreach... | management_research, lead_generation | No |
-| Internal Comms Skill | Write internal communications like status reports, newsletters, and FAQs using c... | lp_communication, document_generation | Yes |
 | Investment Banking Pitch Deck Skill | Populates investment banking pitch deck templates with data from source files wh... | lp_reporting, document_generation | Yes |
 | Investor Management Skill | Manage investor relationships, track commitments, coordinate communications, and... | lp_communication, lp_prospecting | No |
 | Investor Research Skill | Research potential investors, analyze their portfolios, investment thesis, check... | company_identification, lp_prospecting | No |

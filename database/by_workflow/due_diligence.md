@@ -2,7 +2,7 @@
 
 Skills for evaluating investment opportunities including financial analysis, technical DD, market sizing, and management research.
 
-**Total Skills:** 176
+**Total Skills:** 165
 
 ---
 
@@ -28,7 +28,6 @@ Skills for evaluating investment opportunities including financial analysis, tec
 | 3-Statement Financial Modeling Skill | Builds integrated three-statement financial models (income statement, balance sh... | financial_analysis | Yes |
 | AI Product Skill | AI product development patterns, anti-patterns, sharp edges. Critical for evalua... | technical_dd, strategic_research | No |
 | AWS Skills | AWS development with infrastructure automation and cloud architecture patterns. | technical_dd | No |
-| Account Research Skill (Sales) | Company profiling framework: hiring signals, tech stack analysis, qualification ... | company_identification, strategic_research | Yes |
 | AnyStack Competitor Intelligence Skill | Competitive intelligence across LinkedIn, social media, Y Combinator, and web. T... | competitive_landscape, competitive_analysis, company_identification | No |
 | AnyStack Market Research Skill | Comprehensive market research using Y Combinator data, SEC filings, social media... | thematic_research, market_sizing, company_identification | No |
 | Architecture Diagram Creator Skill | Creates comprehensive HTML architecture diagrams with business objectives, data ... | technical_dd | No |
@@ -42,23 +41,18 @@ Skills for evaluating investment opportunities including financial analysis, tec
 | Claude Scientific Skills | Comprehensive collection of ready-to-use scientific skills including working wit... | technical_dd, market_sizing | No |
 | Cloudflare Skill | Cloudflare platform reference for Workers, Pages, storage, AI, and networking. | technical_dd | No |
 | Code Auditor Skill | Comprehensive codebase analysis covering architecture, quality, security, mainta... | technical_dd | No |
-| Competitive Analysis Skill (Marketing) | Messaging comparison, content gap analysis, positioning strategy, battlecard cre... | competitive_analysis, strategic_research | Yes |
 | Competitive Analysis Skill (PM) | Landscape mapping, feature matrices, win/loss methodology, market trend signal-v... | competitive_analysis, market_sizing | Yes |
 | Competitive Intelligence & Market Research Skill | Massive B2B SaaS CI playbook: 24 scenarios, 4 verticals, 3 stages, battle cards,... | competitive_analysis, market_sizing, thematic_research | No |
 | Competitive Intelligence Agent | Competitor profiles (funding, team, tech stack), win/loss analysis, competitive ... | competitive_analysis | No |
 | Competitive Intelligence Skill | Systematic competitive intelligence gathering and analysis including feature com... | competitive_analysis, market_mapping | No |
-| Competitive Intelligence Skill (Sales) | Interactive HTML battlecards, YAML competitor data model, refresh cadence framew... | competitive_analysis, strategic_research | Yes |
 | Competitive Landscape Analysis Skill | Creates structured competitive landscape assessments with market positioning, co... | competitive_landscape, competitive_analysis, market_mapping | Yes |
-| Competitive Landscape Skill | Porter's Five Forces, market positioning analysis, competitive landscape mapping... | competitive_analysis, market_sizing | No |
 | Compliance Skill (GDPR/CCPA) | Privacy regulation reference covering GDPR, CCPA, LGPD, PIPEDA, PDPA, PIPL with ... | legal_research, document_review | Yes |
 | Comps Analysis Skill | Generates peer benchmarking tables with valuation multiples and operating metric... | financial_analysis, competitive_analysis | Yes |
 | Contract Review Skill (Anthropic) | Playbook-based clause analysis with GREEN/YELLOW/RED severity classification and... | legal_research, document_review | Yes |
 | Contract Review Skill (CUAD) | CUAD dataset grounded (41 risk categories, 510 real contracts). Party-position-a... | legal_research, document_review | No |
 | Creating Financial Models Skill | Advanced financial modeling suite with DCF analysis, sensitivity testing, Monte ... | financial_analysis | No |
 | Creating Financial Models Skill (Cookbooks) | DCF analysis, sensitivity testing, Monte Carlo simulations, and scenario plannin... | financial_analysis | Yes |
-| Cyber•Fund Research Skill | Company due diligence, technology deep-dives, market analysis, and topic explora... | thematic_research, technical_dd, competitive_analysis | No |
 | DCF Modeling Skill | Builds discounted cash flow models with WACC calculations, scenario toggles, and... | financial_analysis | Yes |
-| DD Memo Skill | Generate structured due diligence memos for VC investments with thesis, risks, m... | document_review, financial_analysis, management_research | No |
 | DOCX Skill | Create, edit, and analyze Word documents with support for tracked changes, comme... | document_generation, lp_reporting, board_materials | Yes |
 | Data and Metrics Skill | Define, track, and analyze key startup metrics and KPIs with frameworks for data... | kpi_tracking, financial_analysis | No |
 | Deep Research Skill | 7-phase multi-agent research system with parallel queries, multi-source verifica... | thematic_research, market_sizing, competitive_analysis | No |
@@ -82,24 +76,19 @@ Skills for evaluating investment opportunities including financial analysis, tec
 | Obra Superpowers | Core skills library with 20+ battle-tested skills including TDD, debugging, and ... | technical_dd | No |
 | Octagon Earnings Capital Allocation Skill | Extract management's commentary on capital allocation, investment priorities, sh... | financial_analysis, management_research | Yes |
 | PDF Skill | Comprehensive PDF manipulation for extracting text and tables, creating new PDFs... | document_review, data_room_analysis, lp_reporting | Yes |
-| Pre-Mortem Analyst Skill | Pre-mortem methodology (30% better problem identification). Structured People/Pr... | thematic_research, strategic_research | No |
 | Pricing Strategy Skill | Developing pricing models and strategies for products and services. | strategic_research | No |
 | Product Competitive Analysis Skill | Conduct product-level competitive analysis with feature matrices, UX comparison,... | competitive_analysis, strategic_research | No |
 | Product Manager Toolkit Skill | RICE prioritization, customer interview frameworks, PRD templates. Useful for ev... | strategic_research | No |
-| Quant Analyst Skill | Build financial models, backtest trading strategies, and analyze market data. Im... | financial_analysis, trend_analysis | No |
 | ROI Calculator Skill | Build ROI and business case calculators with value quantification, payback perio... | financial_analysis | No |
 | Revenue Analyst Agent | SaaS metrics (MRR, ARR, NDR, NRR, Rule of 40), cohort LTV/churn analysis, pipeli... | financial_analysis, kpi_tracking | No |
 | Risk Assessor Agent | Enterprise risk management, Monte Carlo simulation, risk heat maps, stress testi... | financial_analysis, strategic_research | No |
 | SEO Audit Skill | Search engine optimization analysis and recommendations. | technical_dd, strategic_research | No |
 | Sales Forecast Skill | Build sales forecasts with pipeline analysis, conversion rate modeling, and reve... | financial_analysis, kpi_tracking | No |
-| Scenario Analyzer Skill | Multi-agent 18-month scenario analysis with probability-weighted base/bull/bear ... | thematic_research, market_sizing | No |
 | Startup Analyst Skill | VC analyst in a box: market sizing, financial analysis, competitive landscape, t... | financial_analysis, competitive_analysis, market_sizing | No |
 | Startup Financial Modeling Skill | Cohort-based revenue modeling (MRR/ARR), startup cost structures, 3-scenario fra... | financial_analysis, market_sizing | No |
-| Startup Metrics Framework Skill | SaaS and startup metrics tracking framework. Thin wrapper referencing external p... | financial_analysis, kpi_tracking | No |
 | Static Analysis Skill | Static analysis toolkit with CodeQL, Semgrep, and SARIF for code security review... | technical_dd | No |
 | Stock Info Explorer Skill | Yahoo Finance powered financial analysis with real-time quotes, high-resolution ... | financial_analysis, trend_analysis | No |
 | Stripe Best Practices Skill | Best practices for building Stripe integrations for payments. | technical_dd | Yes |
-| Summarize Skill | Summarize documents, articles, and research materials with key takeaways, struct... | document_review, thematic_research | No |
 | TAM Market Sizing Agent | McKinsey/BCG/Gartner market sizing methodologies, triangulation, confidence inte... | market_sizing, thematic_research | No |
 | Terraform Code Generation Skill | Generate and validate Terraform HCL code for infrastructure as code. | technical_dd | Yes |
 | US Stock Researcher Skill | US Stock Investment Research Assistant supporting Gemini Deep Research or Claude... | financial_analysis, document_review | No |

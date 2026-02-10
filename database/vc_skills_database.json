@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "version": "1.5.0",
+    "version": "1.5.1",
     "created": "2026-02-03",
     "description": "Comprehensive database of VC-relevant skills, MCP servers, and connectors for venture capital workflows",
-    "total_skills": 346,
+    "total_skills": 327,
     "categories": [
       "deal_sourcing",
       "due_diligence",
@@ -103,7 +103,7 @@
         "markets"
       ],
       "notes": "Accessed via Claude integrations settings",
-      "vc_relevance": 5,
+      "vc_relevance": 4,
       "requires_integration": true,
       "knowledge_category": null,
       "download_status": null
@@ -159,7 +159,7 @@
         "funds"
       ],
       "notes": "Accessed via Claude integrations settings",
-      "vc_relevance": 5,
+      "vc_relevance": 4,
       "requires_integration": true,
       "knowledge_category": null,
       "download_status": null
@@ -189,7 +189,7 @@
         "events"
       ],
       "notes": "Accessed via Claude integrations settings",
-      "vc_relevance": 5,
+      "vc_relevance": 4,
       "requires_integration": true,
       "knowledge_category": null,
       "download_status": null
@@ -277,7 +277,7 @@
         "security"
       ],
       "notes": "Accessed via Claude integrations settings",
-      "vc_relevance": 5,
+      "vc_relevance": 4,
       "requires_integration": true,
       "knowledge_category": null,
       "download_status": null
@@ -335,7 +335,7 @@
         "research"
       ],
       "notes": "Accessed via Claude integrations settings",
-      "vc_relevance": 5,
+      "vc_relevance": 4,
       "requires_integration": true,
       "knowledge_category": null,
       "download_status": null
@@ -391,7 +391,7 @@
         "api"
       ],
       "notes": "Free tier available. Good for public company analysis.",
-      "vc_relevance": 4,
+      "vc_relevance": 3,
       "requires_integration": true,
       "knowledge_category": null,
       "download_status": null
@@ -422,7 +422,7 @@
         "indicators"
       ],
       "notes": "One of the most comprehensive financial data MCP servers.",
-      "vc_relevance": 4,
+      "vc_relevance": 3,
       "requires_integration": true,
       "knowledge_category": null,
       "download_status": null
@@ -480,7 +480,7 @@
         "valuation"
       ],
       "notes": "Good for DCF modeling and valuation metrics.",
-      "vc_relevance": 5,
+      "vc_relevance": 4,
       "requires_integration": true,
       "knowledge_category": null,
       "download_status": null
@@ -2241,33 +2241,6 @@
       "requires_integration": true,
       "knowledge_category": null,
       "download_status": null
-    },
-    {
-      "id": "skill-080",
-      "name": "Internal Comms Skill",
-      "source": "github.com/anthropics/skills/tree/main/skills/internal-comms",
-      "source_type": "anthropic",
-      "description": "Write internal communications like status reports, newsletters, and FAQs using company formats.",
-      "vc_workflows": [
-        "fund_operations"
-      ],
-      "vc_tasks": [
-        "lp_communication",
-        "document_generation"
-      ],
-      "skill_type": "skill",
-      "official": true,
-      "verified": true,
-      "tags": [
-        "communications",
-        "reports",
-        "newsletters"
-      ],
-      "notes": "Good for internal fund communications.",
-      "vc_relevance": 2,
-      "requires_integration": false,
-      "knowledge_category": "communications",
-      "download_status": "downloaded"
     },
     {
       "id": "skill-081",
@@ -4622,7 +4595,7 @@
         "visualization"
       ],
       "notes": "Good for tracking public market portfolio positions.",
-      "vc_relevance": 4,
+      "vc_relevance": 3,
       "requires_integration": true,
       "knowledge_category": null,
       "download_status": null
@@ -5074,36 +5047,6 @@
       "download_status": null
     },
     {
-      "id": "skill-184",
-      "name": "Cyber\u2022Fund Research Skill",
-      "source": "skillsmp.com/skills/gerstep-cybos-claude-skills-research-skill-md",
-      "source_type": "skillsmp",
-      "description": "Company due diligence, technology deep-dives, market analysis, and topic exploration for investment decisions. Supports 3 intensity levels (quick/standard/deep) for speed-quality tradeoffs.",
-      "vc_workflows": [
-        "deal_sourcing",
-        "due_diligence"
-      ],
-      "vc_tasks": [
-        "thematic_research",
-        "technical_dd",
-        "competitive_analysis"
-      ],
-      "skill_type": "skill",
-      "official": false,
-      "verified": true,
-      "tags": [
-        "research",
-        "due_diligence",
-        "cyber",
-        "technology"
-      ],
-      "notes": "Purpose-built for VC fund investment decisions. 35 stars.",
-      "vc_relevance": 5,
-      "requires_integration": false,
-      "knowledge_category": "due_diligence",
-      "download_status": "downloaded"
-    },
-    {
       "id": "skill-185",
       "name": "VC Signals LinkedIn Research",
       "source": "skillsmp.com/skills/assafkip-vc-signals-claude-skills-research-linkedin-skill-md",
@@ -5131,35 +5074,6 @@
       "requires_integration": true,
       "knowledge_category": null,
       "download_status": null
-    },
-    {
-      "id": "skill-186",
-      "name": "Quant Analyst Skill",
-      "source": "skillsmp.com/skills/sickn33-antigravity-awesome-skills-skills-quant-analyst-skill-md",
-      "source_type": "skillsmp",
-      "description": "Build financial models, backtest trading strategies, and analyze market data. Implements risk metrics, portfolio optimization, and statistical arbitrage.",
-      "vc_workflows": [
-        "due_diligence",
-        "portfolio_support"
-      ],
-      "vc_tasks": [
-        "financial_analysis",
-        "trend_analysis"
-      ],
-      "skill_type": "skill",
-      "official": false,
-      "verified": true,
-      "tags": [
-        "quant",
-        "backtesting",
-        "risk",
-        "portfolio"
-      ],
-      "notes": "From antigravity-awesome-skills. 6746 stars.",
-      "vc_relevance": 4,
-      "requires_integration": false,
-      "knowledge_category": "financial_modeling",
-      "download_status": "downloaded"
     },
     {
       "id": "skill-187",
@@ -5245,62 +5159,6 @@
       "vc_relevance": 4,
       "requires_integration": false,
       "knowledge_category": "market_research",
-      "download_status": "downloaded"
-    },
-    {
-      "id": "skill-190",
-      "name": "AlphaEar Sentiment Analysis Skill",
-      "source": "skillsmp.com/skills/rkiding-awesome-finance-skills-skills-alphaear-sentiment-skill-md",
-      "source_type": "skillsmp",
-      "description": "Analyze finance text sentiment using FinBERT or LLM. Determines sentiment (positive/negative/neutral) and score of financial text.",
-      "vc_workflows": [
-        "portfolio_support",
-        "deal_sourcing"
-      ],
-      "vc_tasks": [
-        "trend_analysis",
-        "competitive_analysis"
-      ],
-      "skill_type": "skill",
-      "official": false,
-      "verified": true,
-      "tags": [
-        "sentiment",
-        "finbert",
-        "nlp",
-        "analysis"
-      ],
-      "notes": "Good for analyzing earnings calls, news, and filings sentiment.",
-      "vc_relevance": 4,
-      "requires_integration": false,
-      "knowledge_category": "sentiment_signals",
-      "download_status": "downloaded"
-    },
-    {
-      "id": "skill-191",
-      "name": "AlphaEar Signal Tracker Skill",
-      "source": "skillsmp.com/skills/rkiding-awesome-finance-skills-skills-alphaear-signal-tracker-skill-md",
-      "source_type": "skillsmp",
-      "description": "Track finance investment signal evolution and update logic based on new market information. Monitors if signals are strengthened, weakened, or falsified.",
-      "vc_workflows": [
-        "portfolio_support"
-      ],
-      "vc_tasks": [
-        "signal_generation",
-        "trend_analysis"
-      ],
-      "skill_type": "skill",
-      "official": false,
-      "verified": true,
-      "tags": [
-        "signals",
-        "tracking",
-        "investment"
-      ],
-      "notes": "Good for monitoring portfolio company and market signals.",
-      "vc_relevance": 3,
-      "requires_integration": false,
-      "knowledge_category": "sentiment_signals",
       "download_status": "downloaded"
     },
     {
@@ -6048,7 +5906,7 @@
       ],
       "notes": "Unique for tracking institutional investor positions",
       "id": "skill-217",
-      "vc_relevance": 5,
+      "vc_relevance": 4,
       "requires_integration": true,
       "knowledge_category": null,
       "download_status": null
@@ -6105,7 +5963,7 @@
       ],
       "notes": "Part of Octagon AI suite",
       "id": "skill-219",
-      "vc_relevance": 4,
+      "vc_relevance": 3,
       "requires_integration": true,
       "knowledge_category": null,
       "download_status": null
@@ -7434,7 +7292,7 @@
         "branding"
       ],
       "notes": "",
-      "vc_relevance": 3,
+      "vc_relevance": 4,
       "requires_integration": false,
       "knowledge_category": "communications",
       "download_status": "downloaded"
@@ -7922,34 +7780,6 @@
       "download_status": "downloaded"
     },
     {
-      "id": "skill-285",
-      "name": "Pipeline Review Skill",
-      "source": "github.com/propane-ai/kits/tree/main/plugins/GTM/skills/review-pipeline",
-      "source_type": "github",
-      "description": "Analyze and review sales pipelines with deal health scoring, risk identification, and action recommendations.",
-      "vc_workflows": [
-        "portfolio_support"
-      ],
-      "vc_tasks": [
-        "kpi_tracking",
-        "financial_analysis"
-      ],
-      "skill_type": "skill",
-      "official": false,
-      "verified": false,
-      "tags": [
-        "pipeline",
-        "deal-review",
-        "sales-ops",
-        "forecasting"
-      ],
-      "notes": "",
-      "vc_relevance": 4,
-      "requires_integration": false,
-      "knowledge_category": "gtm_sales",
-      "download_status": "downloaded"
-    },
-    {
       "id": "skill-286",
       "name": "ROI Calculator Skill",
       "source": "github.com/propane-ai/kits/tree/main/plugins/GTM/skills/roi-calculator",
@@ -8258,121 +8088,6 @@
       "download_status": "downloaded"
     },
     {
-      "id": "skill-297",
-      "name": "DD Memo Skill",
-      "source": "github.com/gerstep/cybos/tree/main/.claude/skills/DDMemo",
-      "source_type": "github",
-      "description": "Generate structured due diligence memos for VC investments with thesis, risks, market analysis, and team assessment sections.",
-      "vc_workflows": [
-        "due_diligence"
-      ],
-      "vc_tasks": [
-        "document_review",
-        "financial_analysis",
-        "management_research"
-      ],
-      "skill_type": "skill",
-      "official": false,
-      "verified": false,
-      "tags": [
-        "due-diligence",
-        "memo",
-        "investment",
-        "thesis"
-      ],
-      "notes": "",
-      "vc_relevance": 5,
-      "requires_integration": false,
-      "knowledge_category": "due_diligence",
-      "download_status": "downloaded"
-    },
-    {
-      "id": "skill-298",
-      "name": "GTD Call Prep & Research Skill",
-      "source": "github.com/gerstep/cybos/tree/main/.claude/skills/GTD",
-      "source_type": "github",
-      "description": "Get Things Done workflows for VC operations including call preparation, outreach sequences, and research task management.",
-      "vc_workflows": [
-        "deal_sourcing",
-        "fund_operations"
-      ],
-      "vc_tasks": [
-        "management_research",
-        "lead_generation"
-      ],
-      "skill_type": "skill",
-      "official": false,
-      "verified": false,
-      "tags": [
-        "GTD",
-        "call-prep",
-        "outreach",
-        "workflows"
-      ],
-      "notes": "",
-      "vc_relevance": 4,
-      "requires_integration": false,
-      "knowledge_category": "gtm_sales",
-      "download_status": "downloaded"
-    },
-    {
-      "id": "skill-299",
-      "name": "Content Creation Skill",
-      "source": "github.com/gerstep/cybos/tree/main/.claude/skills/Content",
-      "source_type": "github",
-      "description": "Create VC-focused content including thought leadership pieces, market analyses, newsletter content, and social media posts.",
-      "vc_workflows": [
-        "fund_operations",
-        "portfolio_support"
-      ],
-      "vc_tasks": [
-        "document_generation"
-      ],
-      "skill_type": "skill",
-      "official": false,
-      "verified": false,
-      "tags": [
-        "content",
-        "thought-leadership",
-        "newsletter",
-        "writing"
-      ],
-      "notes": "",
-      "vc_relevance": 3,
-      "requires_integration": false,
-      "knowledge_category": "communications",
-      "download_status": "downloaded"
-    },
-    {
-      "id": "skill-300",
-      "name": "Summarize Skill",
-      "source": "github.com/gerstep/cybos/tree/main/.claude/skills/Summarize",
-      "source_type": "github",
-      "description": "Summarize documents, articles, and research materials with key takeaways, structured highlights, and actionable insights.",
-      "vc_workflows": [
-        "due_diligence",
-        "deal_sourcing"
-      ],
-      "vc_tasks": [
-        "document_review",
-        "thematic_research"
-      ],
-      "skill_type": "skill",
-      "official": false,
-      "verified": false,
-      "tags": [
-        "summarization",
-        "research",
-        "analysis",
-        "takeaways"
-      ],
-      "notes": "",
-      "vc_relevance": 3,
-      "requires_integration": false,
-      "knowledge_category": "due_diligence",
-      "download_status": "downloaded"
-    },
-    {
       "id": "skill-301",
       "name": "Variance Analysis Skill",
       "source": "github.com/anthropics/knowledge-work-plugins/tree/main/finance/skills/variance-analysis",
@@ -8458,61 +8173,6 @@
       "vc_relevance": 4,
       "requires_integration": false,
       "knowledge_category": "due_diligence",
-      "download_status": "downloaded"
-    },
-    {
-      "id": "skill-304",
-      "name": "Close Management Skill",
-      "source": "github.com/anthropics/knowledge-work-plugins/tree/main/finance/skills/close-management",
-      "source_type": "github",
-      "description": "Month-end close management T+0 to T+5, dependency maps, accelerated 3-day close target. Practical for portfolio company operations.",
-      "vc_workflows": [
-        "portfolio_support"
-      ],
-      "vc_tasks": [
-        "kpi_tracking",
-        "financial_analysis"
-      ],
-      "skill_type": "skill",
-      "official": true,
-      "verified": true,
-      "tags": [
-        "close-management",
-        "month-end",
-        "operations",
-        "anthropic"
-      ],
-      "notes": "Official Anthropic. 10.3KB practical ops methodology.",
-      "vc_relevance": 4,
-      "requires_integration": false,
-      "knowledge_category": "portfolio_operations",
-      "download_status": "downloaded"
-    },
-    {
-      "id": "skill-305",
-      "name": "Journal Entry Prep Skill",
-      "source": "github.com/anthropics/knowledge-work-plugins/tree/main/finance/skills/journal-entry-prep",
-      "source_type": "github",
-      "description": "Accrual types (ASC 606), journal entry documentation, approval workflows. Foundational accounting methodology.",
-      "vc_workflows": [
-        "portfolio_support"
-      ],
-      "vc_tasks": [
-        "financial_analysis"
-      ],
-      "skill_type": "skill",
-      "official": true,
-      "verified": true,
-      "tags": [
-        "journal-entries",
-        "accounting",
-        "asc-606",
-        "anthropic"
-      ],
-      "notes": "Official Anthropic. 7.8KB foundational accounting reference.",
-      "vc_relevance": 3,
-      "requires_integration": false,
-      "knowledge_category": "financial_modeling",
       "download_status": "downloaded"
     },
     {
@@ -8715,64 +8375,6 @@
       "download_status": "downloaded"
     },
     {
-      "id": "skill-313",
-      "name": "Competitive Intelligence Skill (Sales)",
-      "source": "github.com/anthropics/knowledge-work-plugins/tree/main/sales/skills/competitive-intelligence",
-      "source_type": "github",
-      "description": "Interactive HTML battlecards, YAML competitor data model, refresh cadence frameworks for competitive intelligence.",
-      "vc_workflows": [
-        "due_diligence",
-        "portfolio_support"
-      ],
-      "vc_tasks": [
-        "competitive_analysis",
-        "strategic_research"
-      ],
-      "skill_type": "skill",
-      "official": true,
-      "verified": true,
-      "tags": [
-        "competitive-intelligence",
-        "battlecards",
-        "sales",
-        "anthropic"
-      ],
-      "notes": "Official Anthropic. 13.2KB. Structured CI methodology with output templates.",
-      "vc_relevance": 4,
-      "requires_integration": false,
-      "knowledge_category": "market_research",
-      "download_status": "downloaded"
-    },
-    {
-      "id": "skill-314",
-      "name": "Account Research Skill (Sales)",
-      "source": "github.com/anthropics/knowledge-work-plugins/tree/main/sales/skills/account-research",
-      "source_type": "github",
-      "description": "Company profiling framework: hiring signals, tech stack analysis, qualification signals, CRM integration patterns.",
-      "vc_workflows": [
-        "deal_sourcing",
-        "due_diligence"
-      ],
-      "vc_tasks": [
-        "company_identification",
-        "strategic_research"
-      ],
-      "skill_type": "skill",
-      "official": true,
-      "verified": true,
-      "tags": [
-        "account-research",
-        "company-profiling",
-        "signals",
-        "anthropic"
-      ],
-      "notes": "Official Anthropic. 8KB. Great for deal sourcing signal identification.",
-      "vc_relevance": 4,
-      "requires_integration": false,
-      "knowledge_category": "market_research",
-      "download_status": "downloaded"
-    },
-    {
       "id": "skill-315",
       "name": "Competitive Analysis Skill (PM)",
       "source": "github.com/anthropics/knowledge-work-plugins/tree/main/product-management/skills/competitive-analysis",
@@ -8826,35 +8428,6 @@
       "vc_relevance": 4,
       "requires_integration": false,
       "knowledge_category": "portfolio_operations",
-      "download_status": "downloaded"
-    },
-    {
-      "id": "skill-317",
-      "name": "Competitive Analysis Skill (Marketing)",
-      "source": "github.com/anthropics/knowledge-work-plugins/tree/main/marketing/skills/competitive-analysis",
-      "source_type": "github",
-      "description": "Messaging comparison, content gap analysis, positioning strategy, battlecard creation for marketing teams.",
-      "vc_workflows": [
-        "due_diligence",
-        "portfolio_support"
-      ],
-      "vc_tasks": [
-        "competitive_analysis",
-        "strategic_research"
-      ],
-      "skill_type": "skill",
-      "official": true,
-      "verified": true,
-      "tags": [
-        "competitive-analysis",
-        "marketing",
-        "positioning",
-        "anthropic"
-      ],
-      "notes": "Official Anthropic. 9.8KB. Marketing-focused competitive analysis and positioning.",
-      "vc_relevance": 4,
-      "requires_integration": false,
-      "knowledge_category": "market_research",
       "download_status": "downloaded"
     },
     {
@@ -8946,62 +8519,6 @@
       "vc_relevance": 5,
       "requires_integration": false,
       "knowledge_category": "investment_analysis",
-      "download_status": "downloaded"
-    },
-    {
-      "id": "skill-321",
-      "name": "Startup Metrics Framework Skill",
-      "source": "github.com/sickn33/antigravity-awesome-skills/tree/main/skills/startup-metrics-framework",
-      "source_type": "github",
-      "description": "SaaS and startup metrics tracking framework. Thin wrapper referencing external playbook methodology.",
-      "vc_workflows": [
-        "due_diligence",
-        "portfolio_support"
-      ],
-      "vc_tasks": [
-        "financial_analysis",
-        "kpi_tracking"
-      ],
-      "skill_type": "skill",
-      "official": false,
-      "verified": false,
-      "tags": [
-        "startup-metrics",
-        "saas",
-        "kpi"
-      ],
-      "notes": "1.2KB stub. Topic is essential but content is skeletal.",
-      "vc_relevance": 4,
-      "requires_integration": false,
-      "knowledge_category": "financial_modeling",
-      "download_status": "downloaded"
-    },
-    {
-      "id": "skill-322",
-      "name": "Competitive Landscape Skill",
-      "source": "github.com/sickn33/antigravity-awesome-skills/tree/main/skills/competitive-landscape",
-      "source_type": "github",
-      "description": "Porter's Five Forces, market positioning analysis, competitive landscape mapping framework.",
-      "vc_workflows": [
-        "due_diligence",
-        "deal_sourcing"
-      ],
-      "vc_tasks": [
-        "competitive_analysis",
-        "market_sizing"
-      ],
-      "skill_type": "skill",
-      "official": false,
-      "verified": false,
-      "tags": [
-        "competitive-landscape",
-        "porters-five-forces",
-        "positioning"
-      ],
-      "notes": "1.2KB stub. Thin wrapper referencing external playbook.",
-      "vc_relevance": 4,
-      "requires_integration": false,
-      "knowledge_category": "market_research",
       "download_status": "downloaded"
     },
     {
@@ -9146,35 +8663,6 @@
       "download_status": "downloaded"
     },
     {
-      "id": "skill-328",
-      "name": "Scenario Analyzer Skill",
-      "source": "github.com/tradermonty/claude-trading-skills/tree/main/skills/scenario-analyzer",
-      "source_type": "github",
-      "description": "Multi-agent 18-month scenario analysis with probability-weighted base/bull/bear cases and 1st/2nd/3rd order effects.",
-      "vc_workflows": [
-        "due_diligence",
-        "deal_sourcing"
-      ],
-      "vc_tasks": [
-        "thematic_research",
-        "market_sizing"
-      ],
-      "skill_type": "skill",
-      "official": false,
-      "verified": false,
-      "tags": [
-        "scenario-analysis",
-        "probability",
-        "macro",
-        "multi-agent"
-      ],
-      "notes": "6.2KB. Multi-agent scenario framework adaptable to VC investment theses.",
-      "vc_relevance": 4,
-      "requires_integration": false,
-      "knowledge_category": "investment_analysis",
-      "download_status": "downloaded"
-    },
-    {
       "id": "skill-329",
       "name": "US Market Bubble Detector Skill",
       "source": "github.com/tradermonty/claude-trading-skills/tree/main/skills/us-market-bubble-detector",
@@ -9288,34 +8776,6 @@
       "vc_relevance": 4,
       "requires_integration": false,
       "knowledge_category": "financial_modeling",
-      "download_status": "downloaded"
-    },
-    {
-      "id": "skill-333",
-      "name": "Pre-Mortem Analyst Skill",
-      "source": "github.com/sundial-org/awesome-openclaw-skills/tree/main/skills/pre-mortem-analyst",
-      "source_type": "github",
-      "description": "Pre-mortem methodology (30% better problem identification). Structured People/Process/Tech/External failure analysis framework.",
-      "vc_workflows": [
-        "due_diligence"
-      ],
-      "vc_tasks": [
-        "thematic_research",
-        "strategic_research"
-      ],
-      "skill_type": "skill",
-      "official": false,
-      "verified": false,
-      "tags": [
-        "pre-mortem",
-        "risk-analysis",
-        "failure-modes",
-        "decision-making"
-      ],
-      "notes": "2.3KB. Compact but high-signal risk methodology.",
-      "vc_relevance": 5,
-      "requires_integration": false,
-      "knowledge_category": "due_diligence",
       "download_status": "downloaded"
     },
     {

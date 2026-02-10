@@ -45,16 +45,6 @@ _api_remaining = None
 # =============================================================================
 
 REGISTRY = {
-    # --- anthropics/skills ---
-    "anthropics-internal-comms": {
-        "repo": "anthropics/skills",
-        "path": "skills/internal-comms",
-        "files": ["SKILL.md"],
-        "dirs": ["examples"],
-        "category": "communications",
-        "source_label": "anthropics/skills",
-    },
-
     # --- sickn33/antigravity-awesome-skills ---
     "antigravity-copywriting": {
         "repo": "sickn33/antigravity-awesome-skills",
@@ -70,14 +60,6 @@ REGISTRY = {
         "files": ["SKILL.md"],
         "dirs": [],
         "category": "portfolio_operations",
-        "source_label": "sickn33/antigravity-awesome-skills",
-    },
-    "antigravity-quant-analyst": {
-        "repo": "sickn33/antigravity-awesome-skills",
-        "path": "skills/quant-analyst",
-        "files": ["SKILL.md"],
-        "dirs": [],
-        "category": "financial_modeling",
         "source_label": "sickn33/antigravity-awesome-skills",
     },
     "antigravity-business-analyst": {
@@ -98,24 +80,6 @@ REGISTRY = {
         "category": "market_research",
         "source_label": "openclaw/skills",
     },
-    # --- rkiding/awesome-finance-skills ---
-    "rkiding-alphaear-sentiment": {
-        "repo": "rkiding/awesome-finance-skills",
-        "path": "skills/alphaear-sentiment",
-        "files": ["SKILL.md"],
-        "dirs": ["references"],
-        "category": "sentiment_signals",
-        "source_label": "rkiding/awesome-finance-skills",
-    },
-    "rkiding-alphaear-signal-tracker": {
-        "repo": "rkiding/awesome-finance-skills",
-        "path": "skills/alphaear-signal-tracker",
-        "files": ["SKILL.md"],
-        "dirs": ["references"],
-        "category": "sentiment_signals",
-        "source_label": "rkiding/awesome-finance-skills",
-    },
-
     # --- propane-ai/kits — Founder persona ---
     "propane-founder-board-prep": {
         "repo": "propane-ai/kits",
@@ -295,14 +259,6 @@ REGISTRY = {
         "category": "gtm_sales",
         "source_label": "propane-ai/kits",
     },
-    "propane-gtm-review-pipeline": {
-        "repo": "propane-ai/kits",
-        "path": "plugins/GTM/skills/review-pipeline",
-        "files": ["SKILL.md"],
-        "dirs": [],
-        "category": "gtm_sales",
-        "source_label": "propane-ai/kits",
-    },
     "propane-gtm-roi-calculator": {
         "repo": "propane-ai/kits",
         "path": "plugins/GTM/skills/roi-calculator",
@@ -407,46 +363,6 @@ REGISTRY = {
     },
 
     # --- gerstep/cybos ---
-    "cybos-research": {
-        "repo": "gerstep/cybos",
-        "path": ".claude/skills/Research",
-        "files": ["SKILL.md"],
-        "dirs": ["shared", "workflows", "evals"],
-        "category": "due_diligence",
-        "source_label": "gerstep/cybos",
-    },
-    "cybos-ddmemo": {
-        "repo": "gerstep/cybos",
-        "path": ".claude/skills/DDMemo",
-        "files": ["SKILL.md"],
-        "dirs": [],
-        "category": "due_diligence",
-        "source_label": "gerstep/cybos",
-    },
-    "cybos-gtd": {
-        "repo": "gerstep/cybos",
-        "path": ".claude/skills/GTD",
-        "files": ["SKILL.md"],
-        "dirs": [],
-        "category": "gtm_sales",
-        "source_label": "gerstep/cybos",
-    },
-    "cybos-content": {
-        "repo": "gerstep/cybos",
-        "path": ".claude/skills/Content",
-        "files": ["SKILL.md"],
-        "dirs": [],
-        "category": "communications",
-        "source_label": "gerstep/cybos",
-    },
-    "cybos-summarize": {
-        "repo": "gerstep/cybos",
-        "path": ".claude/skills/Summarize",
-        "files": ["SKILL.md"],
-        "dirs": [],
-        "category": "due_diligence",
-        "source_label": "gerstep/cybos",
-    },
 
     # --- anthropics/knowledge-work-plugins (finance) ---
     "kwp-variance-analysis": {
@@ -471,22 +387,6 @@ REGISTRY = {
         "files": ["SKILL.md"],
         "dirs": [],
         "category": "due_diligence",
-        "source_label": "anthropics/knowledge-work-plugins",
-    },
-    "kwp-close-management": {
-        "repo": "anthropics/knowledge-work-plugins",
-        "path": "finance/skills/close-management",
-        "files": ["SKILL.md"],
-        "dirs": [],
-        "category": "portfolio_operations",
-        "source_label": "anthropics/knowledge-work-plugins",
-    },
-    "kwp-journal-entry-prep": {
-        "repo": "anthropics/knowledge-work-plugins",
-        "path": "finance/skills/journal-entry-prep",
-        "files": ["SKILL.md"],
-        "dirs": [],
-        "category": "financial_modeling",
         "source_label": "anthropics/knowledge-work-plugins",
     },
     "kwp-reconciliation": {
@@ -548,24 +448,6 @@ REGISTRY = {
         "source_label": "anthropics/knowledge-work-plugins",
     },
 
-    # --- anthropics/knowledge-work-plugins (sales) ---
-    "kwp-competitive-intelligence-sales": {
-        "repo": "anthropics/knowledge-work-plugins",
-        "path": "sales/skills/competitive-intelligence",
-        "files": ["SKILL.md"],
-        "dirs": [],
-        "category": "market_research",
-        "source_label": "anthropics/knowledge-work-plugins",
-    },
-    "kwp-account-research": {
-        "repo": "anthropics/knowledge-work-plugins",
-        "path": "sales/skills/account-research",
-        "files": ["SKILL.md"],
-        "dirs": [],
-        "category": "market_research",
-        "source_label": "anthropics/knowledge-work-plugins",
-    },
-
     # --- anthropics/knowledge-work-plugins (product-management) ---
     "kwp-competitive-analysis-pm": {
         "repo": "anthropics/knowledge-work-plugins",
@@ -581,16 +463,6 @@ REGISTRY = {
         "files": ["SKILL.md"],
         "dirs": [],
         "category": "portfolio_operations",
-        "source_label": "anthropics/knowledge-work-plugins",
-    },
-
-    # --- anthropics/knowledge-work-plugins (marketing) ---
-    "kwp-competitive-analysis-marketing": {
-        "repo": "anthropics/knowledge-work-plugins",
-        "path": "marketing/skills/competitive-analysis",
-        "files": ["SKILL.md"],
-        "dirs": [],
-        "category": "market_research",
         "source_label": "anthropics/knowledge-work-plugins",
     },
 
@@ -617,22 +489,6 @@ REGISTRY = {
         "files": ["SKILL.md"],
         "dirs": [],
         "category": "investment_analysis",
-        "source_label": "sickn33/antigravity-awesome-skills",
-    },
-    "antigravity-startup-metrics-framework": {
-        "repo": "sickn33/antigravity-awesome-skills",
-        "path": "skills/startup-metrics-framework",
-        "files": ["SKILL.md"],
-        "dirs": [],
-        "category": "financial_modeling",
-        "source_label": "sickn33/antigravity-awesome-skills",
-    },
-    "antigravity-competitive-landscape": {
-        "repo": "sickn33/antigravity-awesome-skills",
-        "path": "skills/competitive-landscape",
-        "files": ["SKILL.md"],
-        "dirs": [],
-        "category": "market_research",
         "source_label": "sickn33/antigravity-awesome-skills",
     },
     "antigravity-data-storytelling": {
@@ -677,14 +533,6 @@ REGISTRY = {
     },
 
     # --- tradermonty/claude-trading-skills ---
-    "tradermonty-scenario-analyzer": {
-        "repo": "tradermonty/claude-trading-skills",
-        "path": "skills/scenario-analyzer",
-        "files": ["SKILL.md"],
-        "dirs": [],
-        "category": "investment_analysis",
-        "source_label": "tradermonty/claude-trading-skills",
-    },
     "tradermonty-bubble-detector": {
         "repo": "tradermonty/claude-trading-skills",
         "path": "skills/us-market-bubble-detector",
@@ -723,14 +571,6 @@ REGISTRY = {
     },
 
     # --- sundial-org/awesome-openclaw-skills ---
-    "sundial-pre-mortem-analyst": {
-        "repo": "sundial-org/awesome-openclaw-skills",
-        "path": "skills/pre-mortem-analyst",
-        "files": ["SKILL.md"],
-        "dirs": [],
-        "category": "due_diligence",
-        "source_label": "sundial-org/awesome-openclaw-skills",
-    },
     "sundial-competitive-intelligence": {
         "repo": "sundial-org/awesome-openclaw-skills",
         "path": "skills/competitive-intelligence-market-research",
@@ -748,6 +588,17 @@ REGISTRY = {
         "dirs": [],
         "category": "due_diligence",
         "source_label": "evolsb/claude-legal-skill",
+    },
+
+    # --- Custom/local skills ---
+    "vc-skills-market-sizing": {
+        "repo": None,  # Local skill, not downloaded from GitHub
+        "path": None,
+        "files": ["SKILL.md"],
+        "dirs": [],
+        "category": "market_research",
+        "source_label": "local/vc-skills",
+        "local": True,
     },
 }
 
@@ -820,7 +671,6 @@ CATEGORIES = {
     "investor_relations": "LP communication, fundraising materials, pitch decks, and board prep",
     "gtm_sales": "Go-to-market strategy, sales playbooks, outreach, and pipeline management",
     "communications": "Internal comms, content creation, copywriting, and stakeholder updates",
-    "sentiment_signals": "Market sentiment analysis, signal tracking, and news aggregation",
 }
 
 

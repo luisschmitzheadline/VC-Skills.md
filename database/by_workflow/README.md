@@ -4,13 +4,13 @@ This folder contains skills organized by VC workflow category. Each file lists a
 
 | File | Workflow | Skills |
 |------|----------|--------|
-| [deal_sourcing.md](deal_sourcing.md) | Deal Sourcing & Flow | 96 |
-| [due_diligence.md](due_diligence.md) | Due Diligence | 176 |
-| [portfolio_support.md](portfolio_support.md) | Portfolio Support | 147 |
-| [fund_operations.md](fund_operations.md) | Fund Operations | 54 |
+| [deal_sourcing.md](deal_sourcing.md) | Deal Sourcing & Flow | 89 |
+| [due_diligence.md](due_diligence.md) | Due Diligence | 165 |
+| [portfolio_support.md](portfolio_support.md) | Portfolio Support | 137 |
+| [fund_operations.md](fund_operations.md) | Fund Operations | 51 |
 | [data_infrastructure.md](data_infrastructure.md) | Data Infrastructure | 52 |
 | [automation.md](automation.md) | Automation & Productivity | 20 |
 
-Note: Skills can appear in multiple workflows, so totals exceed 346.
+Note: Skills can appear in multiple workflows, so totals exceed 327.
 
 For interactive browsing, use the [dashboard](../index.html) in the parent folder.

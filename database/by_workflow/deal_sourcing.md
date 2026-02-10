@@ -2,7 +2,7 @@
 
 Skills for finding and evaluating new investment opportunities including thematic research, market mapping, and company identification.
 
-**Total Skills:** 96
+**Total Skills:** 89
 
 ---
 
@@ -20,8 +20,6 @@ Skills for finding and evaluating new investment opportunities including themati
 | Name | Description | Tasks | Official |
 |------|-------------|-------|----------|
 | Account Research GTM Skill | Research a company or person and get actionable GTM intel. Works standalone with... | company_identification, lead_generation | No |
-| Account Research Skill (Sales) | Company profiling framework: hiring signals, tech stack analysis, qualification ... | company_identification, strategic_research | Yes |
-| AlphaEar Sentiment Analysis Skill | Analyze finance text sentiment using FinBERT or LLM. Determines sentiment (posit... | trend_analysis, competitive_analysis | No |
 | AnyStack Competitor Intelligence Skill | Competitive intelligence across LinkedIn, social media, Y Combinator, and web. T... | competitive_landscape, competitive_analysis, company_identification | No |
 | AnyStack Market Research Skill | Comprehensive market research using Y Combinator data, SEC filings, social media... | thematic_research, market_sizing, company_identification | No |
 | Apify Lead Generation Skill | Generate B2B/B2C leads by scraping Google Maps, websites, Instagram, TikTok, Fac... | lead_generation, company_identification, lp_prospecting | Yes |
@@ -34,14 +32,11 @@ Skills for finding and evaluating new investment opportunities including themati
 | Competitive Intelligence Agent | Competitor profiles (funding, team, tech stack), win/loss analysis, competitive ... | competitive_analysis | No |
 | Competitive Intelligence Skill | Systematic competitive intelligence gathering and analysis including feature com... | competitive_analysis, market_mapping | No |
 | Competitive Landscape Analysis Skill | Creates structured competitive landscape assessments with market positioning, co... | competitive_landscape, competitive_analysis, market_mapping | Yes |
-| Competitive Landscape Skill | Porter's Five Forces, market positioning analysis, competitive landscape mapping... | competitive_analysis, market_sizing | No |
-| Cyber•Fund Research Skill | Company due diligence, technology deep-dives, market analysis, and topic explora... | thematic_research, technical_dd, competitive_analysis | No |
 | Deep Research Skill | 7-phase multi-agent research system with parallel queries, multi-source verifica... | thematic_research, market_sizing, competitive_analysis | No |
 | Draft Outreach GTM Skill | Research a prospect then draft personalized outreach. Uses web research, data en... | lead_generation, lp_prospecting | No |
 | Finance News Aggregator Skill | Market news briefings with AI summaries. Supports US/Europe/Japan markets, Whats... | trend_analysis, competitor_monitoring | No |
 | Firecrawl CLI Skill | Firecrawl CLI for web scraping, crawling, and search. Scrape single pages or ent... | web_scraping, thematic_research | No |
 | Founder Market Research Skill | Conduct market research for startups including TAM/SAM/SOM analysis, competitive... | market_sizing, competitive_analysis, trend_analysis | No |
-| GTD Call Prep & Research Skill | Get Things Done workflows for VC operations including call preparation, outreach... | management_research, lead_generation | No |
 | Initiating Coverage Research Skill | Conducts comprehensive company research for initiating coverage including busine... | thematic_research, competitive_analysis, financial_analysis | Yes |
 | Investment Analyst Agent | VC-focused investment evaluation with staged funding analysis, dilution modeling... | financial_analysis, thematic_research | No |
 | Investor Research Skill | Research potential investors, analyze their portfolios, investment thesis, check... | company_identification, lp_prospecting | No |
@@ -51,10 +46,8 @@ Skills for finding and evaluating new investment opportunities including themati
 | News Aggregator Skill | Comprehensive news aggregator from 8 sources: Hacker News, GitHub Trending, Prod... | trend_analysis, thematic_research | No |
 | Pipedrive CRM Skill | Pipedrive CRM API for managing deals, contacts, organizations, activities, leads... | lead_generation, communication_management | No |
 | Sales & Investor Emails Skill | Draft professional emails for investor outreach, follow-ups, introductions, and ... | lp_communication, lead_generation | No |
-| Scenario Analyzer Skill | Multi-agent 18-month scenario analysis with probability-weighted base/bull/bear ... | thematic_research, market_sizing | No |
 | Startup Analyst Skill | VC analyst in a box: market sizing, financial analysis, competitive landscape, t... | financial_analysis, competitive_analysis, market_sizing | No |
 | Startup Financial Modeling Skill | Cohort-based revenue modeling (MRR/ARR), startup cost structures, 3-scenario fra... | financial_analysis, market_sizing | No |
-| Summarize Skill | Summarize documents, articles, and research materials with key takeaways, struct... | document_review, thematic_research | No |
 | TAM Market Sizing Agent | McKinsey/BCG/Gartner market sizing methodologies, triangulation, confidence inte... | market_sizing, thematic_research | No |
 | US Market Bubble Detector Skill | Minsky/Kindleberger quantitative bubble scoring methodology. Useful for timing f... | thematic_research, trend_analysis | No |
 | VC Market Sizing | Bottom-up market sizing (TAM/SAM/SOM) using ARPC decomposition method with top-d... | market_sizing, financial_analysis, thematic_research | No |
