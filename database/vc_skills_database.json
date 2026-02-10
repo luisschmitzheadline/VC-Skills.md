@@ -2534,7 +2534,7 @@
         "business"
       ],
       "notes": "Useful for helping portfolio companies with pricing.",
-      "vc_relevance": 2,
+      "vc_relevance": 3,
       "requires_integration": false,
       "knowledge_category": "portfolio_operations",
       "download_status": "downloaded"
@@ -4455,7 +4455,7 @@
         "cim"
       ],
       "notes": "HIGHLY RELEVANT for VC DD. Official Anthropic Financial Services skill.",
-      "vc_relevance": 3,
+      "vc_relevance": 5,
       "requires_integration": false,
       "knowledge_category": "due_diligence",
       "download_status": "unavailable"
@@ -4594,7 +4594,7 @@
         "summary"
       ],
       "notes": "Official Anthropic Financial Services skill. Good for deal sourcing outreach.",
-      "vc_relevance": 3,
+      "vc_relevance": 5,
       "requires_integration": false,
       "knowledge_category": "investment_analysis",
       "download_status": "unavailable"
@@ -4678,7 +4678,7 @@
         "cfo"
       ],
       "notes": "Good for portfolio company CFO advisory.",
-      "vc_relevance": 1,
+      "vc_relevance": 2,
       "requires_integration": false,
       "knowledge_category": "financial_modeling",
       "download_status": null
@@ -5185,7 +5185,7 @@
         "strategy"
       ],
       "notes": "From antigravity-awesome-skills. 6746 stars.",
-      "vc_relevance": 2,
+      "vc_relevance": 3,
       "requires_integration": false,
       "knowledge_category": "investment_analysis",
       "download_status": "downloaded"
@@ -5242,7 +5242,7 @@
         "global"
       ],
       "notes": "Good for macro environment assessment affecting portfolio.",
-      "vc_relevance": 3,
+      "vc_relevance": 4,
       "requires_integration": false,
       "knowledge_category": "market_research",
       "download_status": "downloaded"
@@ -5271,7 +5271,7 @@
         "analysis"
       ],
       "notes": "Good for analyzing earnings calls, news, and filings sentiment.",
-      "vc_relevance": 3,
+      "vc_relevance": 4,
       "requires_integration": false,
       "knowledge_category": "sentiment_signals",
       "download_status": "downloaded"
@@ -5788,7 +5788,7 @@
         "metrics"
       ],
       "notes": "Good for portfolio company runway monitoring.",
-      "vc_relevance": 3,
+      "vc_relevance": 4,
       "requires_integration": false,
       "knowledge_category": "financial_modeling",
       "download_status": "downloaded"
@@ -5816,7 +5816,7 @@
         "status"
       ],
       "notes": "Good for portfolio company and LP progress reports.",
-      "vc_relevance": 2,
+      "vc_relevance": 3,
       "requires_integration": false,
       "knowledge_category": "portfolio_operations",
       "download_status": "downloaded"
@@ -7662,7 +7662,7 @@
         "sales"
       ],
       "notes": "",
-      "vc_relevance": 3,
+      "vc_relevance": 4,
       "requires_integration": false,
       "knowledge_category": "investor_relations",
       "download_status": "downloaded"
@@ -7746,7 +7746,7 @@
         "dashboards"
       ],
       "notes": "",
-      "vc_relevance": 3,
+      "vc_relevance": 4,
       "requires_integration": false,
       "knowledge_category": "financial_modeling",
       "download_status": "downloaded"
@@ -7944,7 +7944,7 @@
         "forecasting"
       ],
       "notes": "",
-      "vc_relevance": 3,
+      "vc_relevance": 4,
       "requires_integration": false,
       "knowledge_category": "gtm_sales",
       "download_status": "downloaded"
@@ -7972,7 +7972,7 @@
         "value"
       ],
       "notes": "",
-      "vc_relevance": 3,
+      "vc_relevance": 4,
       "requires_integration": false,
       "knowledge_category": "financial_modeling",
       "download_status": "downloaded"
@@ -8056,7 +8056,7 @@
         "risk"
       ],
       "notes": "",
-      "vc_relevance": 3,
+      "vc_relevance": 4,
       "requires_integration": false,
       "knowledge_category": "portfolio_operations",
       "download_status": "downloaded"
@@ -8085,7 +8085,7 @@
         "quarterly"
       ],
       "notes": "",
-      "vc_relevance": 3,
+      "vc_relevance": 4,
       "requires_integration": false,
       "knowledge_category": "portfolio_operations",
       "download_status": "downloaded"
@@ -8114,7 +8114,7 @@
         "UX"
       ],
       "notes": "",
-      "vc_relevance": 3,
+      "vc_relevance": 4,
       "requires_integration": false,
       "knowledge_category": "market_research",
       "download_status": "downloaded"
@@ -8141,7 +8141,7 @@
         "PMF"
       ],
       "notes": "",
-      "vc_relevance": 3,
+      "vc_relevance": 4,
       "requires_integration": false,
       "knowledge_category": "portfolio_operations",
       "download_status": "downloaded"
@@ -8168,7 +8168,7 @@
         "product"
       ],
       "notes": "",
-      "vc_relevance": 3,
+      "vc_relevance": 4,
       "requires_integration": false,
       "knowledge_category": "portfolio_operations",
       "download_status": "downloaded"
@@ -8225,7 +8225,7 @@
         "positioning"
       ],
       "notes": "",
-      "vc_relevance": 3,
+      "vc_relevance": 4,
       "requires_integration": false,
       "knowledge_category": "market_research",
       "download_status": "downloaded"
@@ -8455,7 +8455,7 @@
         "anthropic"
       ],
       "notes": "Official Anthropic. 16.8KB deep audit methodology.",
-      "vc_relevance": 3,
+      "vc_relevance": 4,
       "requires_integration": false,
       "knowledge_category": "due_diligence",
       "download_status": "downloaded"
@@ -9028,7 +9028,7 @@
         "presentations"
       ],
       "notes": "11.5KB. Comprehensive data narrative methodology.",
-      "vc_relevance": 3,
+      "vc_relevance": 4,
       "requires_integration": false,
       "knowledge_category": "communications",
       "download_status": "downloaded"
@@ -9056,7 +9056,7 @@
         "sql"
       ],
       "notes": "14KB. Includes SQL templates and Streamlit code for SaaS KPI dashboards.",
-      "vc_relevance": 3,
+      "vc_relevance": 4,
       "requires_integration": false,
       "knowledge_category": "portfolio_operations",
       "download_status": "downloaded"
@@ -9111,7 +9111,7 @@
         "go-to-market"
       ],
       "notes": "12.2KB. Comprehensive launch methodology.",
-      "vc_relevance": 3,
+      "vc_relevance": 4,
       "requires_integration": false,
       "knowledge_category": "gtm_sales",
       "download_status": "downloaded"
@@ -9198,7 +9198,7 @@
         "market-timing"
       ],
       "notes": "18.5KB. Public market focus but useful for VC market cycle awareness.",
-      "vc_relevance": 3,
+      "vc_relevance": 4,
       "requires_integration": false,
       "knowledge_category": "investment_analysis",
       "download_status": "downloaded"
