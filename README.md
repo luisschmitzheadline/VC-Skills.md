@@ -2,12 +2,12 @@
 
 Claude Code can be extended with skills, MCP servers, and connectors -- but they're scattered across dozens of GitHub repos, marketplaces, and registries. This repo does two things:
 
-1. **Indexes 346 VC-relevant skills** in a searchable [dashboard](https://luisschmitzheadline.github.io/VC-Skills.md/dashboard/) -- so you can discover what's out there
-2. **Ships 84 ready-to-use methodology skills** -- frameworks for financial modeling, due diligence, market research, and more that work without any API keys or setup
+1. **Indexes 375 VC-relevant skills** in a searchable [dashboard](https://luisschmitzheadline.github.io/VC-Skills.md/dashboard/) -- so you can discover what's out there
+2. **Ships 107 ready-to-use methodology skills** -- frameworks for financial modeling, due diligence, market research, and more that work without any API keys or setup
 
 ## Quick Start
 
-**[Browse the Dashboard](https://luisschmitzheadline.github.io/VC-Skills.md/dashboard/)** -- search, filter, and explore all 346 skills. Use the "Knowledge Only" toggle to see the 117 that need no integrations.
+**[Browse the Dashboard](https://luisschmitzheadline.github.io/VC-Skills.md/dashboard/)** -- search, filter, and explore all 375 skills. Use the "Knowledge Only" toggle to see the 147 that need no integrations.
 
 **Use a skill** -- copy any downloaded skill into your Claude Code skills directory:
 
@@ -17,19 +17,19 @@ cp knowledge_skills/due_diligence/cybos-ddmemo/SKILL.md ~/.claude/skills/dd-memo
 
 ## Ready-to-Use Skills
 
-The [`knowledge_skills/`](knowledge_skills/) directory contains 84 downloaded methodology skills -- pure frameworks and mental models, no API keys needed. Browse by workflow:
+The [`knowledge_skills/`](knowledge_skills/) directory contains 107 downloaded methodology skills -- pure frameworks and mental models, no API keys needed. Browse by workflow:
 
 | Workflow | Skills |
 |----------|--------|
-| [Financial Modeling](knowledge_skills/financial_modeling/) | 14 |
-| [Portfolio Operations](knowledge_skills/portfolio_operations/) | 15 |
+| [Founder Toolkit](knowledge_skills/founder_toolkit/) | 17 |
+| [Portfolio Operations](knowledge_skills/portfolio_operations/) | 14 |
+| [Financial Modeling](knowledge_skills/financial_modeling/) | 13 |
 | [Market Research](knowledge_skills/market_research/) | 13 |
-| [GTM & Sales](knowledge_skills/gtm_sales/) | 12 |
-| [Due Diligence](knowledge_skills/due_diligence/) | 10 |
-| [Communications](knowledge_skills/communications/) | 8 |
-| [Investor Relations](knowledge_skills/investor_relations/) | 6 |
-| [Investment Analysis](knowledge_skills/investment_analysis/) | 4 |
-| [Sentiment & Signals](knowledge_skills/sentiment_signals/) | 2 |
+| [Investor Relations](knowledge_skills/investor_relations/) | 13 |
+| [Due Diligence](knowledge_skills/due_diligence/) | 11 |
+| [GTM & Sales](knowledge_skills/gtm_sales/) | 11 |
+| [Investment Analysis](knowledge_skills/investment_analysis/) | 9 |
+| [Communications](knowledge_skills/communications/) | 6 |
 
 See the full [`knowledge_skills/` README](knowledge_skills/) for source tracking, download scripts, and the 11 Anthropic Financial Services stubs behind a waitlist.
 
@@ -37,11 +37,11 @@ See the full [`knowledge_skills/` README](knowledge_skills/) for source tracking
 
 ```
 database/                    # Skills database + dashboard
-  vc_skills_database.json    #   Source of truth (346 skills)
+  vc_skills_database.json    #   Source of truth (375 skills)
   index.html                 #   Interactive dashboard
   sources.html               #   Sources & attribution page
   build.py                   #   Regenerates CSV, dashboard, workflow docs
-knowledge_skills/            # Downloaded skill content (84 skills)
+knowledge_skills/            # Downloaded skill content (107 skills)
   {category}/{skill_id}/     #   SKILL.md + supporting files
   unavailable/               #   11 Anthropic FS stubs (waitlist)
   download_skills.py         #   Download/refresh script

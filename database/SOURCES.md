@@ -5,7 +5,7 @@ This document tracks all sources used to compile the VC Skills Database, with ti
 > **Browsable version:** This data is also available as an HTML page at [`sources.html`](sources.html).
 
 **Last full crawl:** 2026-02-10
-**Database version:** 1.8.0
+**Database version:** 1.8.1
 **Total skills:** 375
 
 **Credits:** All skills are the work of their original authors and maintainers. This project indexes their work for discoverability.
@@ -155,6 +155,7 @@ This regenerates CSV, dashboard, and workflow docs from `vc_skills_database.json
 | Type classification | Passed | 2026-02-08 |
 | Knowledge category validation | Passed | 2026-02-08 |
 | Download status validation | Passed | 2026-02-08 |
+| Companion files audit | Passed | 2026-02-10 |
 
 ### Duplicates Removed (2026-02-04)
 
@@ -171,6 +172,7 @@ This regenerates CSV, dashboard, and workflow docs from `vc_skills_database.json
 
 | Version | Date | Changes | Skills |
 |---------|------|---------|--------|
+| 1.8.1 | 2026-02-10 | Companion files audit: downloaded 155 missing companion files (references, scripts, shared resources) for 22 knowledge skills; added shared_files support for 34 propane-ai/kits skills | 375 |
 | 1.8.0 | 2026-02-10 | Added 27 skills: 18 founder-relevant (maigentic/stratarts, ognjengt/founder-skills, liqiongyu+, RefoundAI, ThepExcel), 5 SkillsMP-research downloads (vasilyu idea-validation/business-models/competitive-analysis, ailabs startup-validator, lenny ideation), 4 index-only (coreyhaines31, ailabs pitch-deck/analytics) | 375 |
 | 1.7.0 | 2026-02-10 | Added 9 Vercel-indexed skills from 4 new repos (founderjourney, yamz8, oldwinter, tenequm); 7 downloaded, 2 index-only | 348 |
 | 1.6.0 | 2026-02-10 | Added 12 SkillsMP knowledge skills from 11 new repos; removed 19 non-VC/low-quality skills | 339 |

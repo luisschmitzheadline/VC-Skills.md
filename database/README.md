@@ -1,18 +1,18 @@
 # VC Skills Database
 
-A comprehensive database of **346 VC-relevant skills**, MCP servers, and connectors for venture capital workflows.
+A comprehensive database of **375 VC-relevant skills**, MCP servers, and connectors for venture capital workflows.
 
 | | |
 |---|---|
-| **Skills** | 346 |
-| **Version** | 1.5.0 |
+| **Skills** | 375 |
+| **Version** | 1.8.1 |
 | **Updated** | February 2026 |
 
 ---
 
 ## Interactive Dashboard
 
-**[Open the Dashboard](index.html)** - Browse and filter all 346 skills with:
+**[Open the Dashboard](index.html)** - Browse and filter all 375 skills with:
 - Full-text search across names, descriptions, and tags
 - Filter by workflow (Deal Sourcing, Due Diligence, Portfolio Support, etc.)
 - Filter by type (MCP Server, Skill, Connector)
@@ -30,7 +30,7 @@ The dashboard is a self-contained HTML file that works offline - share it direct
 database/
 ├── index.html                    # Interactive dashboard (browse & filter)
 ├── sources.html                  # Sources & attribution page
-├── vc_skills_database.json       # Source data (346 skills, structured)
+├── vc_skills_database.json       # Source data (375 skills, structured)
 ├── vc_skills_database.csv        # Spreadsheet export (Excel/Google Sheets)
 ├── build.py                      # Build script (regenerates all exports)
 ├── README.md                     # This documentation
@@ -113,19 +113,20 @@ Each skill has a 1-5 VC relevance score based on how useful it is for venture ca
 
 ### Knowledge Skills
 
-117 skills are **pure knowledge/methodology skills** that work without any external APIs or integrations. These contain frameworks, mental models, and structured approaches:
+147 skills are **pure knowledge/methodology skills** that work without any external APIs or integrations. These contain frameworks, mental models, and structured approaches:
 
 | Category | Skills | Examples |
 |----------|--------|----------|
-| Financial Modeling | 22 | 3-statement models, DCF, comps, variance analysis, startup modeling |
-| Market Research | 20 | Competitive intelligence, sector analysis, TAM/SAM/SOM, battlecards |
-| Portfolio Operations | 16 | Metrics tracking, churn prediction, roadmap management, CEO advisory |
-| Due Diligence | 13 | DD memos, legal risk assessment, contract review, NDA triage, compliance |
-| Investment Analysis | 13 | Earnings analysis, startup analyst, scenario analysis, bubble detection |
+| Market Research | 21 | Competitive intelligence, sector analysis, TAM/SAM/SOM, battlecards |
+| Financial Modeling | 21 | 3-statement models, DCF, comps, variance analysis, startup modeling |
+| Investment Analysis | 19 | Earnings analysis, startup analyst, scenario analysis, bubble detection |
+| Portfolio Operations | 18 | Metrics tracking, churn prediction, roadmap management, CEO advisory |
+| Founder Toolkit | 17 | Fundraising, GTM strategy, pricing, growth, startup validation |
+| Investor Relations | 15 | Board prep, pitch decks, investor updates, fundraising ops |
+| Due Diligence | 14 | DD memos, legal risk assessment, contract review, NDA triage, compliance |
 | GTM & Sales | 13 | Sales playbooks, pipeline review, call prep, launch strategy |
-| Communications | 9 | Internal comms, copywriting, data storytelling, meeting briefing |
-| Investor Relations | 7 | Board prep, pitch decks, investor updates |
-| Sentiment & Signals | 4 | Market sentiment, signal tracking |
+| Communications | 7 | Internal comms, copywriting, data storytelling, meeting briefing |
+| Sentiment & Signals | 2 | Market sentiment, signal tracking |
 
 Use the **Knowledge Only** filter in the dashboard to browse just these skills. See [`knowledge_skills/README.md`](../knowledge_skills/README.md) for the full downloaded catalog.
 

@@ -4,10 +4,10 @@ A curated collection of **pure knowledge/methodology skills** for venture capita
 
 | | |
 |---|---|
-| **Downloaded Skills** | 84 |
+| **Downloaded Skills** | 107 |
 | **Stub Files** | 11 (Anthropic FS waitlist) |
-| **Total Knowledge Skills** | 117 (in database) |
-| **Categories** | 9 |
+| **Total Knowledge Skills** | 147 (in database) |
+| **Categories** | 10 |
 | **Last Download** | February 2026 |
 
 ---
@@ -27,19 +27,20 @@ Unlike MCP servers or connectors that require API keys and external services, kn
 
 ## Browse by Workflow
 
-Skills are organized into 9 workflow folders:
+Skills are organized into 10 workflow folders:
 
 | Category | Skills | Description |
 |----------|--------|-------------|
-| [investment_analysis/](investment_analysis/) | 4 | Thesis development, scenario analysis, startup evaluation |
-| [financial_modeling/](financial_modeling/) | 14 | Valuation, forecasting, variance analysis, startup modeling |
+| [founder_toolkit/](founder_toolkit/) | 17 | Fundraising, GTM strategy, pricing, growth, startup validation |
+| [portfolio_operations/](portfolio_operations/) | 14 | Supporting portfolio companies, CEO advisory, KPI dashboards |
+| [financial_modeling/](financial_modeling/) | 13 | Valuation, forecasting, variance analysis, startup modeling |
 | [market_research/](market_research/) | 13 | Market sizing, competitive landscapes, sector analysis |
-| [due_diligence/](due_diligence/) | 10 | DD processes, legal risk, contract review, NDA triage |
-| [portfolio_operations/](portfolio_operations/) | 15 | Supporting portfolio companies, CEO advisory, KPI dashboards |
-| [investor_relations/](investor_relations/) | 6 | Board prep, pitch decks, investor updates |
-| [gtm_sales/](gtm_sales/) | 12 | Go-to-market, sales playbooks, pipeline, launch strategy |
-| [communications/](communications/) | 8 | Internal comms, content, data storytelling, meeting briefing |
-| [sentiment_signals/](sentiment_signals/) | 2 | Market sentiment, signal tracking |
+| [investor_relations/](investor_relations/) | 13 | Board prep, pitch decks, investor updates |
+| [due_diligence/](due_diligence/) | 11 | DD processes, legal risk, contract review, NDA triage |
+| [gtm_sales/](gtm_sales/) | 11 | Go-to-market, sales playbooks, pipeline, launch strategy |
+| [investment_analysis/](investment_analysis/) | 9 | Thesis development, scenario analysis, startup evaluation |
+| [communications/](communications/) | 6 | Internal comms, content, data storytelling, meeting briefing |
+| [sentiment_signals/](sentiment_signals/) | 0 | Market sentiment, signal tracking (database-only) |
 
 Each skill lives in its own subfolder: `{category}/{skill_id}/SKILL.md`
 
