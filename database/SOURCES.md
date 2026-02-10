@@ -4,9 +4,9 @@ This document tracks all sources used to compile the VC Skills Database, with ti
 
 > **Browsable version:** This data is also available as an HTML page at [`sources.html`](sources.html).
 
-**Last full crawl:** 2026-02-09
-**Database version:** 1.5.0
-**Total skills:** 346
+**Last full crawl:** 2026-02-10
+**Database version:** 1.6.0
+**Total skills:** 339
 
 **Credits:** All skills are the work of their original authors and maintainers. This project indexes their work for discoverability.
 
@@ -16,7 +16,7 @@ This document tracks all sources used to compile the VC Skills Database, with ti
 
 | Category | Sources | Skills Added |
 |----------|---------|--------------|
-| GitHub Repositories | 23 | 254 |
+| GitHub Repositories | 34 | 266 |
 | SkillsMP API | 1 | 31 |
 | Apify Marketplace | 1 | 23 |
 | Glama Registry | 1 | 15 |
@@ -54,6 +54,17 @@ This document tracks all sources used to compile the VC Skills Database, with ti
 | anthropics/claude-cookbooks | github.com/anthropics/claude-cookbooks | MIT | 2026-02-09 | 1 | Creating Financial Models (official cookbook) |
 | sundial-org/awesome-openclaw-skills | github.com/sundial-org/awesome-openclaw-skills | No license | 2026-02-09 | 2 | Pre-mortem analyst, 88KB CI playbook |
 | evolsb/claude-legal-skill | github.com/evolsb/claude-legal-skill | MIT | 2026-02-09 | 1 | CUAD-grounded contract review (41 risk categories) |
+| agentydragon/ducktape | github.com/agentydragon/ducktape | — | 2026-02-10 | 1 | Superforecasting methodology (devel branch) |
+| wshobson/agents | github.com/wshobson/agents | — | 2026-02-10 | 1 | Competitive landscape with moats/defensibility |
+| acossta/chief-of-staff-oss | github.com/acossta/chief-of-staff-oss | — | 2026-02-10 | 1 | Founder coaching (Campbell, Mochary method) |
+| liqiongyu/lenny_skills_plus | github.com/liqiongyu/lenny_skills_plus | — | 2026-02-10 | 1 | End-to-end fundraising process |
+| samarv/Shanon | github.com/samarv/Shanon | — | 2026-02-10 | 2 | Pitch narrative psychology, WTP discovery |
+| jona/ycombinator-skills | github.com/jona/ycombinator-skills | — | 2026-02-10 | 1 | YC startup fundamentals |
+| jesseotremblay/claude-skills | github.com/jesseotremblay/claude-skills | — | 2026-02-10 | 1 | Funding landscape analysis templates |
+| wdavidturner/product-skills | github.com/wdavidturner/product-skills | — | 2026-02-10 | 1 | Product-led growth (Elena Verna frameworks) |
+| slgoodrich/agents | github.com/slgoodrich/agents | — | 2026-02-10 | 1 | Product-market fit assessment (Sean Ellis) |
+| vasilyu1983/AI-Agents-public | github.com/vasilyu1983/AI-Agents-public | — | 2026-02-10 | 1 | Startup GTM with ACV-based motion selection |
+| rwHiveAqua/_idea_spinner | github.com/rwHiveAqua/_idea_spinner | — | 2026-02-10 | 1 | Lean Startup methodology (Ries) |
 
 ### Skills Marketplaces
 
@@ -150,6 +161,7 @@ This regenerates CSV, dashboard, and workflow docs from `vc_skills_database.json
 
 | Version | Date | Changes | Skills |
 |---------|------|---------|--------|
+| 1.6.0 | 2026-02-10 | Added 12 SkillsMP knowledge skills from 11 new repos; removed 19 non-VC/low-quality skills | 339 |
 | 1.5.0 | 2026-02-09 | Added 45 skills from 7 new repos (Anthropic KWP, sickn33, tradermonty, alirezarezvani, cookbooks, sundial, evolsb, NicholasSpisak) | 346 |
 | 1.4.0 | 2026-02-08 | Added 35 knowledge skills, knowledge category fields, download catalog | 300 |
 | 1.3.1 | 2026-02-04 | Removed 4 duplicates, added source tracking | 271 |

@@ -2,7 +2,7 @@
 
 Skills for finding and evaluating new investment opportunities including thematic research, market mapping, and company identification.
 
-**Total Skills:** 89
+**Total Skills:** 95
 
 ---
 

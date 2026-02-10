@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": "1.5.1",
+    "version": "1.6.0",
     "created": "2026-02-03",
     "description": "Comprehensive database of VC-relevant skills, MCP servers, and connectors for venture capital workflows",
     "total_skills": 327,
@@ -9159,6 +9159,369 @@
       "vc_relevance": 5,
       "requires_integration": false,
       "knowledge_category": "market_research",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-347",
+      "name": "Superforecaster Skill",
+      "source": "github.com/agentydragon/ducktape/tree/devel/nix/home/claude_code/skills/superforecaster",
+      "source_type": "github",
+      "description": "Probabilistic forecasting using superforecasting methodology: Fermi decomposition, hierarchical Bayesian priors, Monte Carlo simulation, calibration tables, and tail risk decomposition with worked startup valuation examples.",
+      "vc_workflows": [
+        "deal_sourcing",
+        "due_diligence"
+      ],
+      "vc_tasks": [
+        "financial_analysis",
+        "market_sizing",
+        "risk_assessment"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "forecasting",
+        "probability",
+        "monte-carlo",
+        "fermi",
+        "calibration",
+        "knowledge-skill"
+      ],
+      "notes": "17.0KB. Superforecasting cookbook with startup-specific domain (power law outcomes, stage survival rates). Prediction market references, output format templates.",
+      "vc_relevance": 4,
+      "requires_integration": false,
+      "knowledge_category": "investment_analysis",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-348",
+      "name": "Competitive Landscape Analysis Skill (wshobson)",
+      "source": "github.com/wshobson/agents/tree/main/plugins/startup-business-analyst/skills/competitive-landscape",
+      "source_type": "github",
+      "description": "Comprehensive competitive analysis: Porter's Five Forces, Blue Ocean Strategy (Four Actions Framework, Strategy Canvas), competitive positioning maps, sustainable competitive advantages (network effects, switching costs, scale, brand, proprietary tech, regulatory moats).",
+      "vc_workflows": [
+        "due_diligence",
+        "deal_sourcing"
+      ],
+      "vc_tasks": [
+        "competitive_analysis",
+        "thematic_research"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "competitive-analysis",
+        "porters-five-forces",
+        "blue-ocean",
+        "moats",
+        "defensibility",
+        "knowledge-skill"
+      ],
+      "notes": "12.0KB. Full Porter's Five Forces treatment plus moats/defensibility analysis directly applicable to VC due diligence.",
+      "vc_relevance": 4,
+      "requires_integration": false,
+      "knowledge_category": "market_research",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-349",
+      "name": "Founder Coach Skill",
+      "source": "github.com/acossta/chief-of-staff-oss/tree/main/.claude/skills/founder-coach",
+      "source_type": "github",
+      "description": "Executive coaching methodology from Bill Campbell, Jerry Colonna, Marshall Goldsmith, Ben Horowitz, Fred Kofman, Matt Mochary. Coaching session structure, situation-specific question banks, proactive coaching detection (circular thinking, avoidance signals).",
+      "vc_workflows": [
+        "portfolio_support"
+      ],
+      "vc_tasks": [
+        "portfolio_advisory",
+        "management_research"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "coaching",
+        "founder-support",
+        "portfolio-ops",
+        "mochary-method",
+        "knowledge-skill"
+      ],
+      "notes": "5.0KB. Draws from Trillion Dollar Coach, Reboot, Mochary method. Fills unique gap in portfolio operations.",
+      "vc_relevance": 4,
+      "requires_integration": false,
+      "knowledge_category": "portfolio_operations",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-350",
+      "name": "Fundraising Process Skill",
+      "source": "github.com/liqiongyu/lenny_skills_plus/tree/main/skills/fundraising",
+      "source_type": "github",
+      "description": "End-to-end fundraising workflow: Raise Decision Memo, Round Design Brief, Pitch Narrative + Deck Outline, Investor ICP + Pipeline Tracker, Outreach + Follow-up Scripts, Diligence Prep, Quality Gate.",
+      "vc_workflows": [
+        "portfolio_support",
+        "investor_relations"
+      ],
+      "vc_tasks": [
+        "portfolio_advisory",
+        "lp_communication"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "fundraising",
+        "raise-decision",
+        "pipeline",
+        "portfolio-ops",
+        "knowledge-skill"
+      ],
+      "notes": "8.2KB. 8-step fundraising process with Raise Decision Memo and pipeline math. Directly applicable to portfolio advisory.",
+      "vc_relevance": 4,
+      "requires_integration": false,
+      "knowledge_category": "investor_relations",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-351",
+      "name": "Strategic Pitch Optimization Skill",
+      "source": "github.com/samarv/Shanon/tree/main/.claude/skills/strategic-pitch-optimization",
+      "source_type": "github",
+      "description": "Pitch narrative psychology: problem-focused storytelling, High-Value First Slide technique, emotional micro-details, 'One More Story' close, '20-Stranger Test' for problem validation, Complexity Trap avoidance.",
+      "vc_workflows": [
+        "portfolio_support",
+        "deal_sourcing"
+      ],
+      "vc_tasks": [
+        "portfolio_advisory",
+        "management_research"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "pitch",
+        "narrative",
+        "storytelling",
+        "presentation",
+        "knowledge-skill"
+      ],
+      "notes": "4.9KB. Focuses on narrative/psychological layer of pitching. Complements existing deck-structure skills.",
+      "vc_relevance": 4,
+      "requires_integration": false,
+      "knowledge_category": "investor_relations",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-352",
+      "name": "YC Startup Fundamentals Skill",
+      "source": "github.com/jona/ycombinator-skills/tree/main/skills/yc-startup-fundamentals",
+      "source_type": "github",
+      "description": "Y Combinator methodology: team formation (2-4 co-founders, 50%+ engineers), Idea Frequency Filter, 2-month MVP timeline, Three Growth Paths, FOMO Compressed Timeline fundraising, Investor Evaluation hierarchy (growth > team > experience).",
+      "vc_workflows": [
+        "deal_sourcing",
+        "due_diligence"
+      ],
+      "vc_tasks": [
+        "management_research",
+        "competitive_analysis",
+        "financial_analysis"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "yc",
+        "y-combinator",
+        "startup-evaluation",
+        "seed-stage",
+        "knowledge-skill"
+      ],
+      "notes": "8.0KB. Core YC methodology with specific quantitative guidance. Foundational seed/early-stage evaluation framework.",
+      "vc_relevance": 5,
+      "requires_integration": false,
+      "knowledge_category": "investment_analysis",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-353",
+      "name": "Analyzing Funding Landscape Skill",
+      "source": "github.com/jesseotremblay/claude-skills/tree/main/analyzing-funding-landscape",
+      "source_type": "github",
+      "description": "Funding landscape analysis templates: volume/stage/valuation trends, investor landscape mapping (tiered investors, co-investment networks, thesis mapping), M&A activity analysis, round benchmarking, four analysis patterns (pre-fundraising, competitive intelligence, market entry, M&A exit).",
+      "vc_workflows": [
+        "deal_sourcing",
+        "due_diligence"
+      ],
+      "vc_tasks": [
+        "thematic_research",
+        "financial_analysis",
+        "market_sizing"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "funding-landscape",
+        "investor-mapping",
+        "m-and-a",
+        "benchmarking",
+        "knowledge-skill"
+      ],
+      "notes": "15.2KB. Structured templates for funding trends, investor landscape, and M&A activity analysis.",
+      "vc_relevance": 5,
+      "requires_integration": false,
+      "knowledge_category": "investment_analysis",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-354",
+      "name": "Product-Led Growth Skill",
+      "source": "github.com/wdavidturner/product-skills/tree/main/skills/product-led-growth",
+      "source_type": "github",
+      "description": "PLG evaluation framework: when to use/when NOT to use PLG (5 anti-conditions), critical anti-patterns (PLG without individual use case, freemium cannibalizing revenue), PQL without buyer identification. Based on Elena Verna and Hila Qu frameworks.",
+      "vc_workflows": [
+        "due_diligence",
+        "deal_sourcing"
+      ],
+      "vc_tasks": [
+        "competitive_analysis",
+        "thematic_research"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "plg",
+        "product-led-growth",
+        "b2b-saas",
+        "anti-patterns",
+        "knowledge-skill"
+      ],
+      "notes": "5.4KB. PLG anti-pattern framework particularly valuable for B2B SaaS investment diligence.",
+      "vc_relevance": 4,
+      "requires_integration": false,
+      "knowledge_category": "gtm_sales",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-355",
+      "name": "Product-Market Fit Assessment Skill",
+      "source": "github.com/slgoodrich/agents/tree/main/plugins/ai-pm-copilot/skills/product-market-fit",
+      "source_type": "github",
+      "description": "Operationalized PMF assessment: Sean Ellis 40% Test, Superhuman PMF Engine (5-step process), Retention Curve Analysis (leaky bucket/flattening/smiling), leading vs. lagging indicators, PMF Dashboard (Big 3 metrics), case studies (Superhuman, Slack, Quibi, Figma).",
+      "vc_workflows": [
+        "due_diligence",
+        "portfolio_support"
+      ],
+      "vc_tasks": [
+        "competitive_analysis",
+        "financial_analysis",
+        "portfolio_advisory"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "pmf",
+        "product-market-fit",
+        "sean-ellis",
+        "retention",
+        "knowledge-skill"
+      ],
+      "notes": "12.3KB. Highest-quality PMF skill with specific thresholds and leading vs. lagging indicator frameworks for early-stage evaluation.",
+      "vc_relevance": 5,
+      "requires_integration": false,
+      "knowledge_category": "due_diligence",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-356",
+      "name": "Startup Go-to-Market Skill",
+      "source": "github.com/vasilyu1983/AI-Agents-public/tree/main/frameworks/shared-skills/skills/startup-go-to-market",
+      "source_type": "github",
+      "description": "Startup GTM evaluation: motion types (PLG/Hybrid/Sales-Led/Community-Led/Partner-Led) with ACV-based decision tree, ICP scoring, channel strategy by stage (pre-PMF through scale), PQL scoring, growth loops taxonomy, RevOps alignment.",
+      "vc_workflows": [
+        "due_diligence",
+        "portfolio_support"
+      ],
+      "vc_tasks": [
+        "competitive_analysis",
+        "portfolio_advisory"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "gtm",
+        "go-to-market",
+        "startup-evaluation",
+        "growth-loops",
+        "knowledge-skill"
+      ],
+      "notes": "9.8KB. Best-in-class startup GTM with ACV-based motion selection and stage-based channel sequencing. Modern (Jan 2026).",
+      "vc_relevance": 4,
+      "requires_integration": false,
+      "knowledge_category": "gtm_sales",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-357",
+      "name": "Willingness-to-Pay Discovery Skill",
+      "source": "github.com/samarv/Shanon/tree/main/.claude/skills/willingness-to-pay-discovery",
+      "source_type": "github",
+      "description": "Pricing assessment framework: relative value mapping, psychological price thresholds (acceptable/expensive/prohibitive), purchase probability heuristics, Leaders/Fillers/Killers product configuration, feature prioritization methods.",
+      "vc_workflows": [
+        "due_diligence"
+      ],
+      "vc_tasks": [
+        "financial_analysis",
+        "competitive_analysis"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "pricing",
+        "willingness-to-pay",
+        "unit-economics",
+        "knowledge-skill"
+      ],
+      "notes": "4.4KB. Pricing power assessment useful for due diligence on SaaS packaging and unit economics defensibility.",
+      "vc_relevance": 3,
+      "requires_integration": false,
+      "knowledge_category": "due_diligence",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-358",
+      "name": "Lean Startup Methodology Skill",
+      "source": "github.com/rwHiveAqua/_idea_spinner/tree/main/.claude/skills/lean-startup",
+      "source_type": "github",
+      "description": "Eric Ries Lean Startup methodology: Build-Measure-Learn cycles, MVP types (Concierge, Wizard of Oz, Landing Page, Single-Feature, Piecemeal), Innovation Accounting, 10 pivot types, Three Engines of Growth, actionable vs. vanity metrics.",
+      "vc_workflows": [
+        "portfolio_support",
+        "due_diligence"
+      ],
+      "vc_tasks": [
+        "portfolio_advisory",
+        "management_research"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "lean-startup",
+        "mvp",
+        "pivots",
+        "build-measure-learn",
+        "knowledge-skill"
+      ],
+      "notes": "19.1KB. Comprehensive Lean Startup reference. 10 pivot types and Three Engines of Growth particularly useful for portfolio advising.",
+      "vc_relevance": 3,
+      "requires_integration": false,
+      "knowledge_category": "portfolio_operations",
       "download_status": "downloaded"
     }
   ]
