@@ -81,7 +81,7 @@
     {
       "id": "skill-003",
       "name": "S&P Capital IQ Connector",
-      "source": "claude.ai/integrations",
+      "source": "anthropic.com/news/advancing-claude-for-financial-services",
       "source_type": "anthropic_connector",
       "description": "Access S&P Capital IQ data for comprehensive financial analysis, company profiles, and market intelligence.",
       "vc_workflows": [
@@ -111,7 +111,7 @@
     {
       "id": "skill-004",
       "name": "Daloopa Connector",
-      "source": "claude.ai/integrations",
+      "source": "anthropic.com/news/advancing-claude-for-financial-services",
       "source_type": "anthropic_connector",
       "description": "Access Daloopa's financial data extraction and modeling capabilities for automated financial statement analysis.",
       "vc_workflows": [
@@ -138,7 +138,7 @@
     {
       "id": "skill-005",
       "name": "Morningstar Connector",
-      "source": "claude.ai/integrations",
+      "source": "anthropic.com/news/advancing-claude-for-financial-services",
       "source_type": "anthropic_connector",
       "description": "Access Morningstar investment research, ratings, and analysis for public companies and funds.",
       "vc_workflows": [
@@ -167,7 +167,7 @@
     {
       "id": "skill-006",
       "name": "Aiera Connector",
-      "source": "claude.ai/integrations",
+      "source": "anthropic.com/news/advancing-claude-for-financial-services",
       "source_type": "anthropic_connector",
       "description": "Real-time earnings call transcripts and investor event summaries for public companies.",
       "vc_workflows": [
@@ -197,7 +197,7 @@
     {
       "id": "skill-007",
       "name": "Third Bridge Connector",
-      "source": "claude.ai/integrations",
+      "source": "anthropic.com/news/advancing-claude-for-financial-services",
       "source_type": "anthropic_connector",
       "description": "Expert interviews and industry intelligence with insights from domain experts across sectors.",
       "vc_workflows": [
@@ -227,7 +227,7 @@
     {
       "id": "skill-008",
       "name": "Chronograph Connector",
-      "source": "claude.ai/integrations",
+      "source": "anthropic.com/news/advancing-claude-for-financial-services",
       "source_type": "anthropic_connector",
       "description": "Portfolio monitoring and due diligence for private equity with operational and financial performance metrics.",
       "vc_workflows": [
@@ -256,7 +256,7 @@
     {
       "id": "skill-009",
       "name": "Egnyte Connector",
-      "source": "claude.ai/integrations",
+      "source": "anthropic.com/news/advancing-claude-for-financial-services",
       "source_type": "anthropic_connector",
       "description": "Secure document search and access control for data rooms, investment documents, and financial models.",
       "vc_workflows": [
@@ -285,7 +285,7 @@
     {
       "id": "skill-010",
       "name": "LSEG Connector",
-      "source": "claude.ai/integrations",
+      "source": "anthropic.com/news/advancing-claude-for-financial-services",
       "source_type": "anthropic_connector",
       "description": "Live market data from London Stock Exchange Group including fixed income, equities, FX rates, and macro indicators.",
       "vc_workflows": [
@@ -315,7 +315,7 @@
     {
       "id": "skill-011",
       "name": "Moody's Connector",
-      "source": "claude.ai/integrations",
+      "source": "anthropic.com/news/advancing-claude-for-financial-services",
       "source_type": "anthropic_connector",
       "description": "Credit ratings, research, and company data on 600M+ public and private companies for credit analysis.",
       "vc_workflows": [
@@ -343,7 +343,7 @@
     {
       "id": "skill-012",
       "name": "MT Newswires Connector",
-      "source": "claude.ai/integrations",
+      "source": "anthropic.com/news/advancing-claude-for-financial-services",
       "source_type": "anthropic_connector",
       "description": "Global multi-asset class news on financial markets and economies for real-time market intelligence.",
       "vc_workflows": [
