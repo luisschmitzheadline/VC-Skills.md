@@ -2,7 +2,7 @@
 
 Skills for supporting existing portfolio companies including KPI tracking, board materials, and competitor monitoring.
 
-**Total Skills:** 143
+**Total Skills:** 148
 
 ---
 

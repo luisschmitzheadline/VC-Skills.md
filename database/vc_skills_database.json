@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": "1.6.0",
+    "version": "1.7.0",
     "created": "2026-02-03",
     "description": "Comprehensive database of VC-relevant skills, MCP servers, and connectors for venture capital workflows",
     "total_skills": 327,
@@ -9523,6 +9523,272 @@
       "requires_integration": false,
       "knowledge_category": "portfolio_operations",
       "download_status": "downloaded"
+    },
+    {
+      "id": "skill-359",
+      "name": "SaaS Financial Projections Skill",
+      "source": "github.com/founderjourney/claude-skills/tree/main/saas-financial-projections",
+      "source_type": "github",
+      "description": "2025-2026 SaaS benchmarks (ARR growth, retention, unit economics, valuation multiples), three-scenario projection framework, cohort-based modeling, exit valuation methods (revenue multiple, EBITDA, DCF), formula reference sheet.",
+      "vc_workflows": [
+        "deal_sourcing",
+        "due_diligence"
+      ],
+      "vc_tasks": [
+        "financial_analysis",
+        "valuation",
+        "investment_memo"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "saas",
+        "financial-projections",
+        "benchmarks",
+        "valuation",
+        "unit-economics",
+        "knowledge-skill"
+      ],
+      "notes": "11.6KB. Current benchmarks (2025-2026) make it immediately actionable for VC financial analysis. Three-scenario projection framework and exit valuation methods directly useful for investment memo modeling.",
+      "vc_relevance": 5,
+      "requires_integration": false,
+      "knowledge_category": "financial_modeling",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-360",
+      "name": "Startup Trend Prediction Skill",
+      "source": "github.com/vasilyu1983/AI-Agents-public/tree/main/frameworks/shared-skills/skills/startup-trend-prediction",
+      "source_type": "github",
+      "description": "Adoption curve frameworks (Rogers, Bass diffusion model with parameters), hype cycle defenses, signal vs noise framework (VC funding patterns, job postings, GitHub activity), market timing ROI formula, reference class forecasting.",
+      "vc_workflows": [
+        "deal_sourcing",
+        "due_diligence"
+      ],
+      "vc_tasks": [
+        "thematic_research",
+        "market_sizing",
+        "competitive_analysis"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "trend-analysis",
+        "market-timing",
+        "adoption-curves",
+        "thematic-investing",
+        "knowledge-skill"
+      ],
+      "notes": "14.6KB. Signal vs noise framework (VC funding patterns, job postings, GitHub activity) directly applicable to sourcing and market research. No equivalent in database.",
+      "vc_relevance": 4,
+      "requires_integration": false,
+      "knowledge_category": "market_research",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-361",
+      "name": "Startup Fundraising Skill",
+      "source": "github.com/vasilyu1983/AI-Agents-public/tree/main/frameworks/shared-skills/skills/startup-fundraising",
+      "source_type": "github",
+      "description": "Fundraising stage overview (pre-seed through Series C+), burn multiple benchmarks, SAFE vs convertible note comparison (2026-current), round sizing formulas, ARR multiple benchmarks, pitch deck structure, investor targeting framework.",
+      "vc_workflows": [
+        "due_diligence",
+        "portfolio_support"
+      ],
+      "vc_tasks": [
+        "financial_analysis",
+        "portfolio_advisory"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "fundraising",
+        "burn-multiple",
+        "safe-notes",
+        "round-sizing",
+        "knowledge-skill"
+      ],
+      "notes": "12.0KB. Burn multiple benchmarks, SAFE vs convertible note comparison, and stage-specific ARR multiples useful for evaluating founder fundraising readiness.",
+      "vc_relevance": 4,
+      "requires_integration": false,
+      "knowledge_category": "investor_relations",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-362",
+      "name": "Fundraising Knowledge Skill",
+      "source": "github.com/yamz8/open-ceo/tree/main/fundraising/skills/fundraising-knowledge",
+      "source_type": "github",
+      "description": "Pitch deck formats (Sequoia, YC, a16z), term sheet analysis (red flags, key terms), stage-specific fundraising guidance (pre-seed through Series B+), DD document categories, fundraising metrics benchmarks by stage.",
+      "vc_workflows": [
+        "deal_sourcing",
+        "due_diligence"
+      ],
+      "vc_tasks": [
+        "financial_analysis",
+        "investment_memo"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "fundraising",
+        "term-sheets",
+        "pitch-decks",
+        "due-diligence",
+        "knowledge-skill"
+      ],
+      "notes": "6.1KB. Term sheet analysis with red flags and key terms is investor-native content. Stage-specific fundraising metrics benchmarks complement other fundraising skills with analytical lens.",
+      "vc_relevance": 4,
+      "requires_integration": false,
+      "knowledge_category": "investment_analysis",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-363",
+      "name": "Monthly Investor Updates Skill",
+      "source": "github.com/yamz8/open-ceo/tree/main/investor-updates/skills/monthly-investor-updates",
+      "source_type": "github",
+      "description": "Investor update best practices: TL;DR section structure, metrics snapshots, challenges framing, specific asks format, tone guidelines, update cadence recommendations.",
+      "vc_workflows": [
+        "portfolio_support"
+      ],
+      "vc_tasks": [
+        "portfolio_advisory",
+        "investor_reporting"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "investor-updates",
+        "portfolio-communications",
+        "reporting",
+        "knowledge-skill"
+      ],
+      "notes": "5.5KB. Helps VCs coach portfolio companies on writing better updates. No existing skill covers investor update methodology.",
+      "vc_relevance": 4,
+      "requires_integration": false,
+      "knowledge_category": "investor_relations",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-364",
+      "name": "Fundraising Process Skill (oldwinter)",
+      "source": "github.com/oldwinter/skills/tree/main/system-skills/communication-skills/fundraising",
+      "source_type": "github",
+      "description": "8-step fundraising workflow producing a complete Fundraising Pack: raise decision memo, round design brief, pitch narrative, investor pipeline/tracker, outreach scripts, DD checklist, operating cadence. Tight scope definitions and quality gates.",
+      "vc_workflows": [
+        "deal_sourcing",
+        "portfolio_support"
+      ],
+      "vc_tasks": [
+        "investment_memo",
+        "portfolio_advisory"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "fundraising",
+        "investor-pipeline",
+        "dd-checklist",
+        "process",
+        "knowledge-skill"
+      ],
+      "notes": "8.2KB. Exceptionally well-structured process skill. Raise decision memo framework and investor pipeline tracker methodology directly relevant for VC portfolio support.",
+      "vc_relevance": 4,
+      "requires_integration": false,
+      "knowledge_category": "investment_analysis",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-365",
+      "name": "Founder Sales Sprint Skill",
+      "source": "github.com/oldwinter/skills/tree/main/system-skills/sales-skills/founder-sales",
+      "source_type": "github",
+      "description": "Founder Sales Sprint Pack: ICP wedge, outreach sequences, diagnostic discovery scripts, decision enablement assets ('no decision' as #1 competitor), white-glove activation plans. 7-step workflow with quality gates.",
+      "vc_workflows": [
+        "portfolio_support"
+      ],
+      "vc_tasks": [
+        "portfolio_advisory"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "founder-sales",
+        "icp",
+        "outreach",
+        "discovery",
+        "knowledge-skill"
+      ],
+      "notes": "8.2KB. Diagnostic discovery methodology and decision enablement framework useful for VCs helping early-stage portfolio companies build first sales motion.",
+      "vc_relevance": 3,
+      "requires_integration": false,
+      "knowledge_category": "gtm_sales",
+      "download_status": "downloaded"
+    },
+    {
+      "id": "skill-366",
+      "name": "Startup Metrics Framework Skill",
+      "source": "github.com/wshobson/agents",
+      "source_type": "github",
+      "description": "Deep-dive into SaaS, marketplace, consumer, and B2B metrics frameworks. Burn multiple analysis, Rule of 40, cohort retention, unit economics benchmarks. Structured reference for investment evaluation.",
+      "vc_workflows": [
+        "deal_sourcing",
+        "due_diligence"
+      ],
+      "vc_tasks": [
+        "financial_analysis",
+        "competitive_analysis"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "metrics",
+        "saas",
+        "burn-multiple",
+        "rule-of-40",
+        "knowledge-skill"
+      ],
+      "notes": "Index-only. Covers SaaS/marketplace/consumer/B2B metrics, Rule of 40, burn multiple. Strong VC reference with no downloaded counterpart.",
+      "vc_relevance": 5,
+      "requires_integration": false,
+      "knowledge_category": "investment_analysis",
+      "download_status": null
+    },
+    {
+      "id": "skill-367",
+      "name": "Founder Playbook Skill",
+      "source": "github.com/tenequm/claude-plugins",
+      "source_type": "github",
+      "description": "Comprehensive founder coaching methodology (581 lines): GROW framework, red flag detection (tar pit ideas, AI FOMO, commodity AI trap), structured problem-solving workflows, milestone tracking.",
+      "vc_workflows": [
+        "portfolio_support"
+      ],
+      "vc_tasks": [
+        "portfolio_advisory"
+      ],
+      "skill_type": "knowledge",
+      "official": false,
+      "verified": false,
+      "tags": [
+        "founder-coaching",
+        "red-flags",
+        "grow-framework",
+        "knowledge-skill"
+      ],
+      "notes": "Index-only. Exceptional quality coaching methodology with VC-useful red flag detection (tar pit ideas, AI FOMO). Founder-coaching tool, not investor tool.",
+      "vc_relevance": 3,
+      "requires_integration": false,
+      "knowledge_category": "portfolio_operations",
+      "download_status": null
     }
   ]
 }

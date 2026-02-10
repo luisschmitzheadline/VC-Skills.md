@@ -2,7 +2,7 @@
 
 Skills for evaluating investment opportunities including financial analysis, technical DD, market sizing, and management research.
 
-**Total Skills:** 174
+**Total Skills:** 179
 
 ---
 

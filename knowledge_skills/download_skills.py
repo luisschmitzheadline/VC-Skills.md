@@ -689,6 +689,64 @@ REGISTRY = {
         "source_label": "rwHiveAqua/_idea_spinner",
     },
 
+    # --- Vercel-indexed batch (2026-02-10) ---
+    "vercel-saas-financial-projections": {
+        "repo": "founderjourney/claude-skills",
+        "path": "saas-financial-projections",
+        "files": ["SKILL.md"],
+        "dirs": [],
+        "category": "financial_modeling",
+        "source_label": "founderjourney/claude-skills",
+    },
+    "vercel-startup-trend-prediction": {
+        "repo": "vasilyu1983/AI-Agents-public",
+        "path": "frameworks/shared-skills/skills/startup-trend-prediction",
+        "files": ["SKILL.md"],
+        "dirs": [],
+        "category": "market_research",
+        "source_label": "vasilyu1983/AI-Agents-public",
+    },
+    "vercel-startup-fundraising": {
+        "repo": "vasilyu1983/AI-Agents-public",
+        "path": "frameworks/shared-skills/skills/startup-fundraising",
+        "files": ["SKILL.md"],
+        "dirs": [],
+        "category": "investor_relations",
+        "source_label": "vasilyu1983/AI-Agents-public",
+    },
+    "vercel-fundraising-knowledge": {
+        "repo": "yamz8/open-ceo",
+        "path": "fundraising/skills/fundraising-knowledge",
+        "files": ["SKILL.md"],
+        "dirs": [],
+        "category": "investment_analysis",
+        "source_label": "yamz8/open-ceo",
+    },
+    "vercel-monthly-investor-updates": {
+        "repo": "yamz8/open-ceo",
+        "path": "investor-updates/skills/monthly-investor-updates",
+        "files": ["SKILL.md"],
+        "dirs": [],
+        "category": "investor_relations",
+        "source_label": "yamz8/open-ceo",
+    },
+    "vercel-fundraising-oldwinter": {
+        "repo": "oldwinter/skills",
+        "path": "system-skills/communication-skills/fundraising",
+        "files": ["SKILL.md"],
+        "dirs": [],
+        "category": "investment_analysis",
+        "source_label": "oldwinter/skills",
+    },
+    "vercel-founder-sales-oldwinter": {
+        "repo": "oldwinter/skills",
+        "path": "system-skills/sales-skills/founder-sales",
+        "files": ["SKILL.md"],
+        "dirs": [],
+        "category": "gtm_sales",
+        "source_label": "oldwinter/skills",
+    },
+
     # --- Custom/local skills ---
     "vc-skills-market-sizing": {
         "repo": None,  # Local skill, not downloaded from GitHub
