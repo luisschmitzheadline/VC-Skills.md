@@ -72,3 +72,13 @@ Skills for managing the fund including LP reporting, document generation, and in
 | Salesforce MCP Server | Connect to Salesforce CRM for managing leads, contacts, opportunities, and custo... | lead_generation, lp_prospecting, communication_management | No |
 | eSignatures MCP Server | Contract and template management for drafting and reviewing contracts. | document_generation, legal_research | Yes |
 
+## Knowledge Skills
+
+| Name | Description | Tasks | Official |
+|------|-------------|-------|----------|
+| Business Analytics Reporter (AI Labs) | Business analytics reporting tool from AI Labs skills collection. Generates stru... | portfolio_monitoring, reporting | No |
+| Fundraising Process Skill | End-to-end fundraising workflow: Raise Decision Memo, Round Design Brief, Pitch ... | portfolio_advisory, lp_communication | No |
+| Fundraising Strategy Planner Skill | Comprehensive fundraising playbook: timeline planning, investor targeting and fu... | portfolio_advisory, lp_communication | No |
+| Investor Brief Writer Skill | Creates investor one-pagers and email briefs with cold email templates, distribu... | portfolio_advisory, lp_communication | No |
+| Investor Pitch Deck Builder Skill | 10-15 slide investor pitch deck builder with slide previews, competitor matrix, ... | portfolio_advisory, lp_communication | No |
+

@@ -53,11 +53,13 @@
                 <button data-filter="workflow" data-value="fund_operations" class="filter-btn px-3 py-1 text-xs font-medium rounded-md bg-gray-100 text-gray-700 hover:bg-gray-200">Fund Ops</button>
                 <button data-filter="workflow" data-value="data_infrastructure" class="filter-btn px-3 py-1 text-xs font-medium rounded-md bg-gray-100 text-gray-700 hover:bg-gray-200">Data Infra</button>
                 <button data-filter="workflow" data-value="automation" class="filter-btn px-3 py-1 text-xs font-medium rounded-md bg-gray-100 text-gray-700 hover:bg-gray-200">Automation</button>
+                <button data-filter="workflow" data-value="founder_support" class="filter-btn px-3 py-1 text-xs font-medium rounded-md bg-gray-100 text-gray-700 hover:bg-gray-200">Founder Support</button>
                 <span class="text-gray-300 mx-1">|</span>
                 <span class="text-xs text-gray-500 font-medium">Type:</span>
                 <button data-filter="type" data-value="mcp_server" class="filter-btn px-3 py-1 text-xs font-medium rounded-md bg-gray-100 text-gray-700 hover:bg-gray-200">MCP Server</button>
                 <button data-filter="type" data-value="skill" class="filter-btn px-3 py-1 text-xs font-medium rounded-md bg-gray-100 text-gray-700 hover:bg-gray-200">Skill</button>
                 <button data-filter="type" data-value="connector" class="filter-btn px-3 py-1 text-xs font-medium rounded-md bg-gray-100 text-gray-700 hover:bg-gray-200">Connector</button>
+                <button data-filter="type" data-value="knowledge" class="filter-btn px-3 py-1 text-xs font-medium rounded-md bg-gray-100 text-gray-700 hover:bg-gray-200">Knowledge</button>
                 <span class="text-gray-300 mx-1">|</span>
                 <span class="text-xs text-gray-500 font-medium">VC Relevance:</span>
                 <button data-filter="relevance" data-value="5" class="filter-btn px-3 py-1 text-xs font-medium rounded-md bg-gray-100 text-gray-700 hover:bg-gray-200">★★★★★</button>
@@ -92,13 +94,13 @@
     const skills = DATA.skills;
     const state = { search: '', workflows: new Set(), types: new Set(), relevance: new Set(), sort: 'relevance', knowledgeOnly: false };
     const labels = {
-        workflow: { deal_sourcing: 'Deal Sourcing', due_diligence: 'Due Diligence', portfolio_support: 'Portfolio Support', fund_operations: 'Fund Operations', data_infrastructure: 'Data Infrastructure', automation: 'Automation' },
-        type: { mcp_server: 'MCP Server', skill: 'Skill', connector: 'Connector' },
+        workflow: { deal_sourcing: 'Deal Sourcing', due_diligence: 'Due Diligence', portfolio_support: 'Portfolio Support', fund_operations: 'Fund Operations', data_infrastructure: 'Data Infrastructure', automation: 'Automation', founder_support: 'Founder Support' },
+        type: { mcp_server: 'MCP Server', skill: 'Skill', connector: 'Connector', knowledge: 'Knowledge' },
         task: { thematic_research: 'Thematic Research', market_sizing: 'Market Sizing', competitive_analysis: 'Competitive Analysis', management_research: 'Management Research', company_identification: 'Company Identification', financial_analysis: 'Financial Analysis', technical_dd: 'Technical DD', document_review: 'Document Review', legal_research: 'Legal Research', kpi_tracking: 'KPI Tracking', trend_analysis: 'Trend Analysis', lead_generation: 'Lead Generation', web_scraping: 'Web Scraping', database_queries: 'Database Queries', company_data_enrichment: 'Data Enrichment', lp_reporting: 'LP Reporting', document_generation: 'Document Generation', board_materials: 'Board Materials', communication_management: 'Communication', competitor_monitoring: 'Competitor Monitoring' }
     };
     const colors = {
-        workflow: { deal_sourcing: 'bg-blue-100 text-blue-700', due_diligence: 'bg-green-100 text-green-700', portfolio_support: 'bg-amber-100 text-amber-700', fund_operations: 'bg-pink-100 text-pink-700', data_infrastructure: 'bg-indigo-100 text-indigo-700', automation: 'bg-purple-100 text-purple-700' },
-        type: { mcp_server: 'bg-slate-800 text-white', skill: 'bg-emerald-600 text-white', connector: 'bg-violet-600 text-white' }
+        workflow: { deal_sourcing: 'bg-blue-100 text-blue-700', due_diligence: 'bg-green-100 text-green-700', portfolio_support: 'bg-amber-100 text-amber-700', fund_operations: 'bg-pink-100 text-pink-700', data_infrastructure: 'bg-indigo-100 text-indigo-700', automation: 'bg-purple-100 text-purple-700', founder_support: 'bg-orange-100 text-orange-700' },
+        type: { mcp_server: 'bg-slate-800 text-white', skill: 'bg-emerald-600 text-white', connector: 'bg-violet-600 text-white', knowledge: 'bg-teal-600 text-white' }
     };
     function stars(n) { return '<span class="text-amber-500">' + '★'.repeat(n) + '</span><span class="text-gray-300">' + '★'.repeat(5-n) + '</span>'; }
     function filter() {

@@ -110,3 +110,22 @@ Skills for finding and evaluating new investment opportunities including themati
 | Zillow MCP Server | Real-time access to Zillow real estate data: property search, Zestimates, market... | market_sizing, thematic_research | No |
 | ZoomInfo Company Scraper (Apify) | Extract detailed company data from ZoomInfo including structured formats for rep... | company_identification, company_data_enrichment | No |
 
+## Knowledge Skills
+
+| Name | Description | Tasks | Official |
+|------|-------------|-------|----------|
+| Analyzing Funding Landscape Skill | Funding landscape analysis templates: volume/stage/valuation trends, investor la... | thematic_research, financial_analysis, market_sizing | No |
+| Competitive Landscape Analysis Skill (wshobson) | Comprehensive competitive analysis: Porter's Five Forces, Blue Ocean Strategy (F... | competitive_analysis, thematic_research | No |
+| Fundraising Knowledge Skill | Pitch deck formats (Sequoia, YC, a16z), term sheet analysis (red flags, key term... | financial_analysis, investment_memo | No |
+| Fundraising Process Skill (oldwinter) | 8-step fundraising workflow producing a complete Fundraising Pack: raise decisio... | investment_memo, portfolio_advisory | No |
+| Product-Led Growth Skill | PLG evaluation framework: when to use/when NOT to use PLG (5 anti-conditions), c... | competitive_analysis, thematic_research | No |
+| SaaS Financial Projections Skill | 2025-2026 SaaS benchmarks (ARR growth, retention, unit economics, valuation mult... | financial_analysis, valuation, investment_memo | No |
+| Startup Idea Validation (9-Dimension Scorecard) | Evidence-based GO/NO-GO decisions using a 9-dimension scorecard: problem severit... | startup_evaluation, investment_screening | No |
+| Startup Ideation (Lenny's Podcast Insights) | Startup idea generation and evaluation framework based on insights from Dalton C... | startup_evaluation, portfolio_advisory | No |
+| Startup Metrics Framework Skill | Deep-dive into SaaS, marketplace, consumer, and B2B metrics frameworks. Burn mul... | financial_analysis, competitive_analysis | No |
+| Startup Trend Prediction Skill | Adoption curve frameworks (Rogers, Bass diffusion model with parameters), hype c... | thematic_research, market_sizing, competitive_analysis | No |
+| Startup Validator (Comprehensive Market Analysis) | 7-step startup validation workflow: idea clarification, research planning, compr... | startup_evaluation, market_analysis, investment_screening | No |
+| Strategic Pitch Optimization Skill | Pitch narrative psychology: problem-focused storytelling, High-Value First Slide... | portfolio_advisory, management_research | No |
+| Superforecaster Skill | Probabilistic forecasting using superforecasting methodology: Fermi decompositio... | financial_analysis, market_sizing, risk_assessment | No |
+| YC Startup Fundamentals Skill | Y Combinator methodology: team formation (2-4 co-founders, 50%+ engineers), Idea... | management_research, competitive_analysis, financial_analysis | No |
+

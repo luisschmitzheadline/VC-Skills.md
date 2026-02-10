@@ -164,14 +164,19 @@ def build_workflow_docs(data):
         'automation': {
             'title': 'Automation & Productivity',
             'description': 'Skills for automating workflows including research automation, email management, and process orchestration.'
+        },
+        'founder_support': {
+            'title': 'Founder Support',
+            'description': 'Skills for supporting founders including fundraising, GTM strategy, pricing, growth frameworks, and startup validation.'
         }
     }
 
-    type_order = ['connector', 'skill', 'mcp_server']
+    type_order = ['connector', 'skill', 'mcp_server', 'knowledge']
     type_labels = {
         'connector': 'Official Connectors',
         'skill': 'Claude Code Skills',
-        'mcp_server': 'MCP Servers'
+        'mcp_server': 'MCP Servers',
+        'knowledge': 'Knowledge Skills'
     }
 
     workflow_dir = SCRIPT_DIR / 'by_workflow'

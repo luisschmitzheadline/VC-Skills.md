@@ -186,3 +186,33 @@ Skills for evaluating investment opportunities including financial analysis, tec
 | ZoomInfo Company Scraper (Apify) | Extract detailed company data from ZoomInfo including structured formats for rep... | company_identification, company_data_enrichment | No |
 | fetchSERP MCP Server | All-in-One SEO and Web Intelligence Toolkit API. | competitive_analysis, market_sizing | Yes |
 
+## Knowledge Skills
+
+| Name | Description | Tasks | Official |
+|------|-------------|-------|----------|
+| Analyzing Funding Landscape Skill | Funding landscape analysis templates: volume/stage/valuation trends, investor la... | thematic_research, financial_analysis, market_sizing | No |
+| Business Model Design Skill | Business model design and validation using Business Model Canvas, Lean Canvas, a... | portfolio_advisory, business_model_analysis | No |
+| Competitive Intelligence Skill (Stratarts) | Comprehensive competitive intelligence framework with HTML report output. Market... | competitive_analysis, market_analysis | No |
+| Competitive Landscape Analysis Skill (wshobson) | Comprehensive competitive analysis: Porter's Five Forces, Blue Ocean Strategy (F... | competitive_analysis, thematic_research | No |
+| Competitor Intelligence Skill (Founder) | Web-research-based competitive intelligence: Crunchbase, LinkedIn, SimilarWeb, G... | competitive_analysis, portfolio_advisory | No |
+| Customer Persona Builder Skill | JTBD-based persona development with priority matrix, buying journey mapping, dec... | portfolio_advisory, market_analysis | No |
+| Financial Model Architect Skill | 3-5 year financial model generator: revenue modeling, expense projections, headc... | financial_analysis, portfolio_advisory | No |
+| Fundraising Knowledge Skill | Pitch deck formats (Sequoia, YC, a16z), term sheet analysis (red flags, key term... | financial_analysis, investment_memo | No |
+| Lean Startup Methodology Skill | Eric Ries Lean Startup methodology: Build-Measure-Learn cycles, MVP types (Conci... | portfolio_advisory, management_research | No |
+| Measuring Product-Market Fit Skill (Lenny) | PMF assessment methodology distilled from 46 product leaders and 64 expert insig... | market_analysis, portfolio_advisory | No |
+| Pricing Strategy Architect Skill | Value-based pricing methodology: Van Westendorp Price Sensitivity Meter, Good-Be... | portfolio_advisory, market_analysis | No |
+| Product-Led Growth Skill | PLG evaluation framework: when to use/when NOT to use PLG (5 anti-conditions), c... | competitive_analysis, thematic_research | No |
+| Product-Market Fit Assessment Skill | Operationalized PMF assessment: Sean Ellis 40% Test, Superhuman PMF Engine (5-st... | competitive_analysis, financial_analysis, portfolio_advisory | No |
+| SaaS Financial Projections Skill | 2025-2026 SaaS benchmarks (ARR growth, retention, unit economics, valuation mult... | financial_analysis, valuation, investment_memo | No |
+| Startup Business Models & Unit Economics | Revenue model classification (subscription, usage-based, freemium, marketplace),... | financial_analysis, portfolio_advisory | No |
+| Startup Competitive Analysis (Decision-Oriented) | Decision-oriented competitive intelligence: identify/segment competitors (direct... | competitive_analysis, market_analysis | No |
+| Startup Fundraising Skill | Fundraising stage overview (pre-seed through Series C+), burn multiple benchmark... | financial_analysis, portfolio_advisory | No |
+| Startup Go-to-Market Skill | Startup GTM evaluation: motion types (PLG/Hybrid/Sales-Led/Community-Led/Partner... | competitive_analysis, portfolio_advisory | No |
+| Startup Idea Validation (9-Dimension Scorecard) | Evidence-based GO/NO-GO decisions using a 9-dimension scorecard: problem severit... | startup_evaluation, investment_screening | No |
+| Startup Metrics Framework Skill | Deep-dive into SaaS, marketplace, consumer, and B2B metrics frameworks. Burn mul... | financial_analysis, competitive_analysis | No |
+| Startup Trend Prediction Skill | Adoption curve frameworks (Rogers, Bass diffusion model with parameters), hype c... | thematic_research, market_sizing, competitive_analysis | No |
+| Startup Validator (Comprehensive Market Analysis) | 7-step startup validation workflow: idea clarification, research planning, compr... | startup_evaluation, market_analysis, investment_screening | No |
+| Superforecaster Skill | Probabilistic forecasting using superforecasting methodology: Fermi decompositio... | financial_analysis, market_sizing, risk_assessment | No |
+| Willingness-to-Pay Discovery Skill | Pricing assessment framework: relative value mapping, psychological price thresh... | financial_analysis, competitive_analysis | No |
+| YC Startup Fundamentals Skill | Y Combinator methodology: team formation (2-4 co-founders, 50%+ engineers), Idea... | management_research, competitive_analysis, financial_analysis | No |
+

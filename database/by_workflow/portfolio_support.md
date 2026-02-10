@@ -158,3 +158,27 @@ Skills for supporting existing portfolio companies including KPI tracking, board
 | Yahoo Finance MCP (barvhaim) | Stock quotes, historical data, and financial information via Yahoo Finance API. | financial_analysis, trend_analysis | No |
 | Yahoo Finance Scraper (Apify) | Fetch comprehensive financial data, historical prices, news, and analytics for a... | financial_analysis, trend_analysis | No |
 
+## Knowledge Skills
+
+| Name | Description | Tasks | Official |
+|------|-------------|-------|----------|
+| Business Analytics Reporter (AI Labs) | Business analytics reporting tool from AI Labs skills collection. Generates stru... | portfolio_monitoring, reporting | No |
+| Competitive Intelligence Skill (Stratarts) | Comprehensive competitive intelligence framework with HTML report output. Market... | competitive_analysis, market_analysis | No |
+| Financial Model Architect Skill | 3-5 year financial model generator: revenue modeling, expense projections, headc... | financial_analysis, portfolio_advisory | No |
+| Founder Playbook Skill | Comprehensive founder coaching methodology (581 lines): GROW framework, red flag... | portfolio_advisory | No |
+| Fundraising Process Skill | End-to-end fundraising workflow: Raise Decision Memo, Round Design Brief, Pitch ... | portfolio_advisory, lp_communication | No |
+| Fundraising Process Skill (oldwinter) | 8-step fundraising workflow producing a complete Fundraising Pack: raise decisio... | investment_memo, portfolio_advisory | No |
+| Fundraising Strategy Planner Skill | Comprehensive fundraising playbook: timeline planning, investor targeting and fu... | portfolio_advisory, lp_communication | No |
+| Investor Brief Writer Skill | Creates investor one-pagers and email briefs with cold email templates, distribu... | portfolio_advisory, lp_communication | No |
+| Investor Pitch Deck Builder Skill | 10-15 slide investor pitch deck builder with slide previews, competitor matrix, ... | portfolio_advisory, lp_communication | No |
+| Launch Strategy (coreyhaines31) | Product launch strategy using the ORB framework from a 7K-star marketing skills ... | portfolio_advisory | No |
+| Measuring Product-Market Fit Skill (Lenny) | PMF assessment methodology distilled from 46 product leaders and 64 expert insig... | market_analysis, portfolio_advisory | No |
+| Monthly Investor Updates Skill | Investor update best practices: TL;DR section structure, metrics snapshots, chal... | portfolio_advisory, investor_reporting | No |
+| Pitch Deck Builder (AI Labs) | Pitch deck creation tool from AI Labs skills collection. Structured slide genera... | portfolio_advisory | No |
+| Product-Market Fit Assessment Skill | Operationalized PMF assessment: Sean Ellis 40% Test, Superhuman PMF Engine (5-st... | competitive_analysis, financial_analysis, portfolio_advisory | No |
+| SaaS Pricing Strategy (coreyhaines31) | SaaS pricing strategy framework from a 7K-star marketing skills repo. Covers pri... | portfolio_advisory | No |
+| Startup Competitive Analysis (Decision-Oriented) | Decision-oriented competitive intelligence: identify/segment competitors (direct... | competitive_analysis, market_analysis | No |
+| Startup Fundraising Skill | Fundraising stage overview (pre-seed through Series C+), burn multiple benchmark... | financial_analysis, portfolio_advisory | No |
+| Startup Ideation (Lenny's Podcast Insights) | Startup idea generation and evaluation framework based on insights from Dalton C... | startup_evaluation, portfolio_advisory | No |
+| Strategic Pitch Optimization Skill | Pitch narrative psychology: problem-focused storytelling, High-Value First Slide... | portfolio_advisory, management_research | No |
+
